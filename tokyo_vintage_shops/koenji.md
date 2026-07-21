@@ -9,6 +9,11 @@
 | WHISTLER（ウィスラー） | 東京都杉並区高円寺南4-30-8 ミサトビル101 | 高円寺駅（徒歩約2分） | https://www.instagram.com/whistler_chart/ |
 | Top of the Hill 高円寺店 | 東京都杉並区高円寺南2-22-10 1F・2F | 高円寺駅 | https://www.instagram.com/topofthehill_koenji/ |
 | ANAME（アネーム） | 東京都杉並区高円寺南4-44-3 1F | 高円寺駅（徒歩約3分） | 不明 |
+| anemone（アネモネ） | 東京都杉並区高円寺南3-56-1 藤和高円寺103 | 高円寺駅（徒歩約4分） | https://www.instagram.com/anemone_kouenji/ |
+| Suntrap（サントラップ） | 東京都杉並区高円寺南4-23-5 ACPビル1F | 高円寺駅（徒歩約5分） | https://www.instagram.com/suntraptokyo/ |
+| militaria（ミリタリア） | 東京都杉並区高円寺南3-57-3 1F | 高円寺駅 | https://www.instagram.com/militaria_tokyo/ |
+| Jacob's Ladder（ジェイコブスラダー） | 東京都杉並区高円寺南4-24-4 1F | 高円寺駅（徒歩約5分） | https://www.instagram.com/jacobsladdervintage/ |
+| D clothing（ディークロージング） | 東京都杉並区高円寺南4-8-6 ニチエーイン高円寺19 1F | 高円寺駅 | https://www.instagram.com/dclothingkoenji/ |
 
 ## 除外した店舗
 
@@ -17,3 +22,4 @@
 ## 更新履歴
 
 - 2026-07-21: 初回作成（5店舗）
+- 2026-07-21: 新規店舗5件を追加（anemone、Suntrap、militaria、Jacob's Ladder、D clothing）。既存店舗の閉店は確認されず削除なし。
