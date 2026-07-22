@@ -25,6 +25,11 @@
 | Anthony（アンソニー） | 東京都杉並区高円寺南3-48-2-102 | 高円寺駅 | https://www.instagram.com/anthony_vintagecloset_/ |
 | はやとちり | 東京都杉並区高円寺北3-4-11 キタコレビル | 高円寺駅（徒歩約5分） | https://www.instagram.com/hayatochirikitakore/ |
 | WEST LANE（ウエストレーン） | 東京都杉並区高円寺南3-46-5 | 高円寺駅 | 不明 |
+| 黒BENZ（クロベンツ） | 東京都杉並区高円寺南4-24-12 | 高円寺駅（徒歩約2分） | https://www.instagram.com/clobenz_official/ |
+| ZOOL BAROMETZ（ズール バロメッツ） | 東京都杉並区高円寺南2-48-9 | 高円寺駅（徒歩約3分） | https://www.instagram.com/zool_barometz/ |
+| JuRian（ジュリアン） | 東京都杉並区高円寺南4-28-11 | 高円寺駅（徒歩約2分） | https://www.instagram.com/juriankoenji/ |
+| Dirt Vintage Clothing（ダート ヴィンテージ クロージング） | 東京都杉並区高円寺南4-24-3 | 高円寺駅（徒歩約3分） | https://www.instagram.com/dirt_vintage/ |
+| SUPER OLD（スーパーオールド） | 東京都杉並区高円寺南4-22-1 | 高円寺駅 | https://www.instagram.com/super_old_kouenji/ |
 
 ## 除外した店舗
 
@@ -35,3 +40,4 @@
 - 2026-07-21: 初回作成（5店舗）
 - 2026-07-21: 新規店舗5件を追加（anemone、Suntrap、militaria、Jacob's Ladder、D clothing）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-22: 新規店舗11件を追加（川、Frescade、AiLeen by GROGGROG、SHINTO、BoobyTRAP、NOW OR NEVER、古着屋 深緑、SPOT、Anthony、はやとちり、WEST LANE）。既存10店舗について閉店情報を調査したが閉店は確認されず削除なし。
+- 2026-07-22: 新規店舗5件を追加（黒BENZ、ZOOL BAROMETZ、JuRian、Dirt Vintage Clothing、SUPER OLD）。既存店舗の閉店は確認されず削除なし。
