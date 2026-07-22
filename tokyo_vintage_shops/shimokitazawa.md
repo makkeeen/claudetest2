@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-07-21
+最終更新: 2026-07-22
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -11,6 +11,10 @@
 | 古着屋 UTA 下北沢 | 東京都世田谷区北沢2-9-25 下北沢ビル2F | 下北沢駅 | https://www.instagram.com/utashimokitazawa/ |
 | M.G ITEM | 東京都世田谷区北沢2-30-10 浜辺ビル103号 | 下北沢駅 | https://www.instagram.com/mgitem/ |
 | DESERT SNOW 下北沢1号店 | 東京都世田谷区北沢2-30-14 重宗ビル2F | 下北沢駅（中央口徒歩約2分） | https://www.instagram.com/desertsnow_ltd/（下北沢に複数店舗展開、系列共通アカウント） |
+| iroha（イロハ） | 東京都世田谷区北沢2-29-14 第11FMGビル2F | 下北沢駅（徒歩約2分） | https://www.instagram.com/iroha_tokyo/ |
+| Caka（カカ） | 東京都世田谷区北沢2-35-9 大竹ビル2F | 下北沢駅 | https://www.instagram.com/caka_shimokitazawa/ |
+| FLORIDA 下北沢店 | 東京都世田谷区北沢2-29-2 フェニキアビルB1F | 下北沢駅（徒歩約3分） | https://www.instagram.com/florida_shimokitazawa/ |
+| MWC（下北沢） | 東京都世田谷区代沢5-30-3 川上ビル1F | 下北沢駅 | https://www.instagram.com/___mwc___/ |
 
 ## 除外した店舗
 
@@ -20,3 +24,4 @@
 
 - 2026-07-21: 初回作成（3店舗）
 - 2026-07-21: 新規店舗4件を追加（Charoll Vintage、古着屋 UTA 下北沢、M.G ITEM、DESERT SNOW 下北沢1号店）。既存3店舗の閉店は確認されず、除外なし。
+- 2026-07-22: 新規店舗4件を追加（iroha、Caka、FLORIDA 下北沢店、MWC）。既存7店舗の閉店は確認されず、除外なし。なお、セカンドストリート下北沢東口店・NOTIME下北沢店は情報源からビンテージ専門店と明確に判断できなかったため追加を見送り。

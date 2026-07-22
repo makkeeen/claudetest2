@@ -1,6 +1,6 @@
 # 代官山駅 ビンテージ古着店
 
-最終更新: 2026-07-21
+最終更新: 2026-07-22
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -12,6 +12,9 @@
 | CARBOOTS（カーブーツ） | 東京都渋谷区代官山町14-5 シルク代官山1F | 代官山駅 | https://www.instagram.com/carboots_/ |
 | VINI VINI LUXE（ヴィニヴィニ ルクス） | 東京都渋谷区代官山町14-20 カトルズ代官山102 | 代官山駅 | https://www.instagram.com/viniviniluxe_tokyo/ |
 | MOTHER LIP（マザーリップ） | 東京都渋谷区代官山町14-11 | 代官山駅 | https://www.instagram.com/motherlip_jpn/ |
+| EVA fashion art（EVA vintage） | 東京都渋谷区猿楽町2-1 アベニューサイド代官山III-1B | 代官山駅 | https://www.instagram.com/eva_vintagetokyo/ |
+| end 代官山（vintage & antique） | 東京都渋谷区代官山町14-11-301 堀井代官山ビル No.5 | 代官山駅 | https://www.instagram.com/endvintage/ |
+| SLOW 代官山店 | 東京都渋谷区代官山町14-12 岡田リネンビル1F | 代官山駅 | https://www.instagram.com/slow_daikanyama/ |
 
 ## 除外した店舗
 
@@ -21,3 +24,4 @@
 
 - 2026-07-21: 初回作成（2店舗）
 - 2026-07-21: 新規6店舗を追加（SMITHS ARTIQUE、FULL UP、JEANNE VALET、CARBOOTS、VINI VINI LUXE、MOTHER LIP）。既存店舗の閉店は確認されず、除外なし。
+- 2026-07-22: 新規3店舗を追加（EVA fashion art（EVA vintage）、end 代官山（vintage & antique）、SLOW 代官山店）。既存店舗の閉店は確認されず、除外なし。
