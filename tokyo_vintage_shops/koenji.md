@@ -1,6 +1,6 @@
 # 高円寺駅 ビンテージ古着店
 
-最終更新: 2026-07-21
+最終更新: 2026-07-22
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -14,6 +14,17 @@
 | militaria（ミリタリア） | 東京都杉並区高円寺南3-57-3 1F | 高円寺駅 | https://www.instagram.com/militaria_tokyo/ |
 | Jacob's Ladder（ジェイコブスラダー） | 東京都杉並区高円寺南4-24-4 1F | 高円寺駅（徒歩約5分） | https://www.instagram.com/jacobsladdervintage/ |
 | D clothing（ディークロージング） | 東京都杉並区高円寺南4-8-6 ニチエーイン高円寺19 1F | 高円寺駅 | https://www.instagram.com/dclothingkoenji/ |
+| 川（カワ） | 東京都杉並区高円寺南4-9-2 | 高円寺駅（徒歩約4分） | https://www.instagram.com/kawa_vintage/ |
+| Frescade（フレスケード） | 東京都杉並区高円寺南3-45-1 永和ビル1F | 高円寺駅 | https://www.instagram.com/zool_frescade/ |
+| AiLeen by GROGGROG（アイリーン バイ グロッググロッグ） | 東京都杉並区高円寺南3-35-2 | 高円寺駅 | https://www.instagram.com/aileen_by_groggrog_vintage/ |
+| SHINTO（シント） | 東京都杉並区高円寺南4-29-9 第3穴吹ビル1F | 高円寺駅 | https://www.instagram.com/shinto_kouenji/ |
+| BoobyTRAP（ブービートラップ） | 東京都杉並区高円寺南3-37-23 | 高円寺駅 | https://www.instagram.com/boobytrap_koenji/ |
+| NOW OR NEVER（ナウオアネバー） | 東京都杉並区高円寺南4-24-2 春口ビル2F | 高円寺駅 | https://www.instagram.com/nowornever_koenji2/ |
+| 古着屋 深緑（フカミドリ） | 東京都杉並区高円寺南4-24-4 2F | 高円寺駅 | https://www.instagram.com/fukamidori__/ |
+| SPOT（スポット） | 東京都杉並区高円寺南4-40-22 1F | 高円寺駅 | https://www.instagram.com/spot__vintage/ |
+| Anthony（アンソニー） | 東京都杉並区高円寺南3-48-2-102 | 高円寺駅 | https://www.instagram.com/anthony_vintagecloset_/ |
+| はやとちり | 東京都杉並区高円寺北3-4-11 キタコレビル | 高円寺駅（徒歩約5分） | https://www.instagram.com/hayatochirikitakore/ |
+| WEST LANE（ウエストレーン） | 東京都杉並区高円寺南3-46-5 | 高円寺駅 | 不明 |
 
 ## 除外した店舗
 
@@ -23,3 +34,4 @@
 
 - 2026-07-21: 初回作成（5店舗）
 - 2026-07-21: 新規店舗5件を追加（anemone、Suntrap、militaria、Jacob's Ladder、D clothing）。既存店舗の閉店は確認されず削除なし。
+- 2026-07-22: 新規店舗11件を追加（川、Frescade、AiLeen by GROGGROG、SHINTO、BoobyTRAP、NOW OR NEVER、古着屋 深緑、SPOT、Anthony、はやとちり、WEST LANE）。既存10店舗について閉店情報を調査したが閉店は確認されず削除なし。
