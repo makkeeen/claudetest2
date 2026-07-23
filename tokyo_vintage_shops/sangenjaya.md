@@ -1,6 +1,6 @@
 # 三軒茶屋駅 ビンテージ古着店
 
-最終更新: 2026-07-22
+最終更新: 2026-07-23
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -19,6 +19,8 @@
 | LUIK（ルイク） | 東京都世田谷区太子堂2-36-9 下の谷ハマーハイツ1F | 三軒茶屋駅（徒歩約8分） | https://www.instagram.com/luik0121/ |
 | ZIG（ジグ） | 東京都世田谷区太子堂3-18-6 | 三軒茶屋駅（徒歩約7分） | https://www.instagram.com/zig_usedclothing/ |
 | THRIFT SHOP ROOM（スリフトショップルーム） | 東京都世田谷区三軒茶屋1-36-5 | 三軒茶屋駅（徒歩約5分） | 不明 |
+| the light（ザ・ライト） | 東京都世田谷区三軒茶屋1-36-3-203 | 三軒茶屋駅（徒歩約2分） | https://www.instagram.com/the_light_tokyo/ |
+| 樂商店（らくしょうてん） | 東京都世田谷区三軒茶屋2-21-11 | 三軒茶屋駅 | https://www.instagram.com/raku.store_secondhand/ |
 
 ## 除外した店舗
 
@@ -28,3 +30,4 @@
 
 - 2026-07-22: 初回作成（3店舗）
 - 2026-07-22: 新規店舗12件を追加（Agitation Free Sangenjaya、Arca vintage、ROSE VINTAGE、Ecle.、GASLAMP SQUARE、Miller Time、古着の一善、sui vintage、THREE、LUIK、ZIG、THRIFT SHOP ROOM）。既存3店舗の閉店は確認されず、除外なし。Miller TimeとTHRIFT SHOP ROOMはInstagramが検索結果にリンクとして確認できなかったため「不明」とした。
+- 2026-07-23: 新規店舗2件を追加（the light、樂商店）。既存店舗の閉店は確認されず、除外なし。候補のMAZE（三軒茶屋1-36-6）は閉店との記載があったため追加見送り。

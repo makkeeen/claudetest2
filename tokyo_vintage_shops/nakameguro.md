@@ -1,6 +1,6 @@
 # 中目黒駅 ビンテージ古着店
 
-最終更新: 2026-07-22
+最終更新: 2026-07-23
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -25,6 +25,8 @@
 | H used&vintage clothing（アッシュ） | 東京都目黒区中目黒1-2-15 | 中目黒駅 | https://www.instagram.com/husedvintageclothing/ |
 | moc（モック） | 東京都目黒区青葉台1-15-4 | 中目黒駅 | https://www.instagram.com/moc_insta/ |
 | Leah-K（リアーケイ） | 東京都目黒区青葉台1-25-2 | 中目黒駅 | https://www.instagram.com/leahkleahk/ |
+| came unto me（カムアントゥーミー） | 東京都目黒区青葉台1-30-14 山口ビル2F | 中目黒駅 | https://www.instagram.com/cameuntome/ |
+| MAZE（メイズ） | 東京都目黒区上目黒1-17-6 2F | 中目黒駅 | 不明 |
 
 ## 除外した店舗
 
@@ -39,6 +41,8 @@
 - **The Vintage Hook**: 情報源の一部に「【閉店】」の記載があり閉店済みと判断されるため除外
 - **Kindal（カインドオル）中目黒店**: 全国チェーンのブランド古着買取販売店であり、ビンテージ専門の個店ではないため除外
 - **FRISKY**: 住所が既存掲載店EVERGREENと同一街区・同一建物（サザンパレス中目黒2-44-10）であり、実質同一店舗である可能性を排除できないため除外
+- **number3（ナンバースリー）**: ヴィンテージだけでなく新品も扱う総合セレクトショップであり、ビンテージ専門店ではないため除外
+- **TELEPATHY ROUTE（テレパシールート）**: 情報源で「2024年3月閉店」と明記されており閉店済みのため除外
 
 ## 更新履歴
 
@@ -46,3 +50,4 @@
 - 2026-07-21: 新規7店舗を追加（barr vintage select store 中目黒店、mAnchies、古着屋LOCO、hallelu、EVERGREEN、DEPT TOKYO、small cat）。閉店確認できた店舗はなし
 - 2026-07-22: 新規9店舗を追加（古着屋シミー中目黒、DROP、JUMPIN' JAP FLASH、HOLIDAY WORKS 中目黒、CaNARi nakameguro、古着屋DIGDIG、TOKYO LAMPOON、Fifth General Store、used & vintage Cider）。既存店舗の閉店は確認されず。候補のうちエレバ/エルレーブ・リアーケイ中目黒店・ケービンショップ・MLR・ノエル ヴィンテージ・＆Dorothy・The Vintage Hook・Kindal中目黒店・FRISKYは重複/エリア対象外/閉店/チェーン店/情報不足のため除外
 - 2026-07-22: 新規3店舗を追加（H used&vintage clothing、moc、Leah-K）。従来「情報不足」でリアーケイと共に除外していたケービンショップは引き続き情報不足のため除外を維持し、リアーケイは詳細情報（住所・SNS）が判明したためLeah-Kとして表に追加。新たに候補となったthreepetals・Tamは最寄り駅がそれぞれ代官山駅・池尻大橋駅でエリア対象外のため除外。既存店舗の閉店は確認されず
+- 2026-07-23: 新規2店舗を追加（came unto me、MAZE）。新たに候補となったnumber3（ナンバースリー）は新品も扱う総合セレクトショップのため、TELEPATHY ROUTE（テレパシールート）は2024年3月閉店の情報が確認されたためそれぞれ除外。既存掲載店舗の閉店は確認されず
