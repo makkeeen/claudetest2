@@ -1,6 +1,6 @@
 # 高円寺駅 ビンテージ古着店
 
-最終更新: 2026-07-22
+最終更新: 2026-07-23
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -30,10 +30,18 @@
 | JuRian（ジュリアン） | 東京都杉並区高円寺南4-28-11 | 高円寺駅（徒歩約2分） | https://www.instagram.com/juriankoenji/ |
 | Dirt Vintage Clothing（ダート ヴィンテージ クロージング） | 東京都杉並区高円寺南4-24-3 | 高円寺駅（徒歩約3分） | https://www.instagram.com/dirt_vintage/ |
 | SUPER OLD（スーパーオールド） | 東京都杉並区高円寺南4-22-1 | 高円寺駅 | https://www.instagram.com/super_old_kouenji/ |
+| Albatross 1号店（アルバトロス） | 東京都杉並区高円寺南3-45-17 伊藤ビル1F | 高円寺駅 | https://www.instagram.com/albatross_koenji/ |
+| 古着商大虎（フルギショウオオトラ） | 東京都杉並区高円寺南4-28-10 高円寺リリエンハイム102 | 高円寺駅 | https://www.instagram.com/otora_koenji/ |
+| Small Change（スモールチェンジ） | 東京都杉並区高円寺南3-45-16 1・2F | 高円寺駅 | https://www.instagram.com/small_change_koenji/ |
+| liberal（リベラル） | 東京都杉並区高円寺南3-48-4 | 高円寺駅（徒歩約6分） | https://www.instagram.com/liberal_koenji/ |
+| BIG TIME 高円寺店（ビッグタイム） | 東京都杉並区高円寺南4-25-3 | 高円寺駅 | https://www.instagram.com/big_time_koenji/ |
+| AWESOME by BRING 高円寺店（アウサム バイ ブリング） | 東京都杉並区高円寺南4-27-7 ラインビルド高円寺・林 101号室 | 高円寺駅（徒歩約3分） | https://www.instagram.com/awesome_koenji/ |
+| SAFARI 1号店（サファリ） | 東京都杉並区高円寺南3-57-4 ベルシャトウ高円寺1F | 高円寺駅 | https://www.instagram.com/safari_kouenji/ |
+| FERANTRACING（フェラントレーシング） | 東京都中野区大和町1-30-7 | 高円寺駅（徒歩約7分） | https://www.instagram.com/ferantracing_official/ |
 
 ## 除外した店舗
 
-- **SAFARI（高円寺）**: 店舗数が多く住所を一意に確定できないため保留（公式サイト：e-safari.co.jp）
+- **SAFARI 2〜5号店**: 高円寺エリアに複数店舗展開しており、1号店（東京都杉並区高円寺南3-57-4）以外の各店舗の住所を一意に確定できないため保留（公式サイト：e-safari.co.jp）
 
 ## 更新履歴
 
@@ -41,3 +49,4 @@
 - 2026-07-21: 新規店舗5件を追加（anemone、Suntrap、militaria、Jacob's Ladder、D clothing）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-22: 新規店舗11件を追加（川、Frescade、AiLeen by GROGGROG、SHINTO、BoobyTRAP、NOW OR NEVER、古着屋 深緑、SPOT、Anthony、はやとちり、WEST LANE）。既存10店舗について閉店情報を調査したが閉店は確認されず削除なし。
 - 2026-07-22: 新規店舗5件を追加（黒BENZ、ZOOL BAROMETZ、JuRian、Dirt Vintage Clothing、SUPER OLD）。既存店舗の閉店は確認されず削除なし。
+- 2026-07-23: 新規店舗8件を追加（Albatross 1号店、古着商大虎、Small Change、liberal、BIG TIME 高円寺店、AWESOME by BRING 高円寺店、SAFARI 1号店、FERANTRACING）。SAFARIは1号店の住所が確認できたため掲載し、除外理由を2〜5号店のみに更新。既存店舗の閉店は確認されず削除なし。
