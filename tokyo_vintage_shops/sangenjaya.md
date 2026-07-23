@@ -21,6 +21,10 @@
 | THRIFT SHOP ROOM（スリフトショップルーム） | 東京都世田谷区三軒茶屋1-36-5 | 三軒茶屋駅（徒歩約5分） | 不明 |
 | the light（ザ・ライト） | 東京都世田谷区三軒茶屋1-36-3-203 | 三軒茶屋駅（徒歩約2分） | https://www.instagram.com/the_light_tokyo/ |
 | 樂商店（らくしょうてん） | 東京都世田谷区三軒茶屋2-21-11 | 三軒茶屋駅 | https://www.instagram.com/raku.store_secondhand/ |
+| HARU CLOTHING STORE（ハル クロージング ストア） | 東京都世田谷区太子堂4-28-11 川金ビル201 | 三軒茶屋駅（徒歩約3分） | https://www.instagram.com/haru_clothing_store/ |
+| ORANGE GERBERA（オレンジガーベラ） | 東京都世田谷区太子堂2-4-11 ルブラン太子堂102 | 三軒茶屋駅（徒歩約6分） | https://www.instagram.com/orange.gerbera_vintage/ |
+| XXNT TOKYO（エックスエックスエヌティー トウキョウ） | 東京都世田谷区太子堂3-14-4 エスペランサ三軒茶屋3F | 三軒茶屋駅（徒歩約5分） | https://www.instagram.com/xxnt.tokyo/ |
+| yaiya（ヤイヤ） | 東京都世田谷区三軒茶屋1-33-18 平原マンション302 | 三軒茶屋駅 | https://www.instagram.com/_____310yaiya_/ |
 
 ## 除外した店舗
 
@@ -31,3 +35,4 @@
 - 2026-07-22: 初回作成（3店舗）
 - 2026-07-22: 新規店舗12件を追加（Agitation Free Sangenjaya、Arca vintage、ROSE VINTAGE、Ecle.、GASLAMP SQUARE、Miller Time、古着の一善、sui vintage、THREE、LUIK、ZIG、THRIFT SHOP ROOM）。既存3店舗の閉店は確認されず、除外なし。Miller TimeとTHRIFT SHOP ROOMはInstagramが検索結果にリンクとして確認できなかったため「不明」とした。
 - 2026-07-23: 新規店舗2件を追加（the light、樂商店）。既存店舗の閉店は確認されず、除外なし。候補のMAZE（三軒茶屋1-36-6）は閉店との記載があったため追加見送り。
+- 2026-07-23: 新規店舗4件を追加（HARU CLOTHING STORE、ORANGE GERBERA、XXNT TOKYO、yaiya）。既存店舗の閉店は確認されず、除外なし。候補の「翠-sui- 茶沢通り店」（太子堂4-27-11）とOku__vintage（Instagram: oku__vintage）は住所・実店舗の有無を裏付ける情報が得られなかったため追加見送り。

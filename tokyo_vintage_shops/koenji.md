@@ -38,6 +38,16 @@
 | AWESOME by BRING 高円寺店（アウサム バイ ブリング） | 東京都杉並区高円寺南4-27-7 ラインビルド高円寺・林 101号室 | 高円寺駅（徒歩約3分） | https://www.instagram.com/awesome_koenji/ |
 | SAFARI 1号店（サファリ） | 東京都杉並区高円寺南3-57-4 ベルシャトウ高円寺1F | 高円寺駅 | https://www.instagram.com/safari_kouenji/ |
 | FERANTRACING（フェラントレーシング） | 東京都中野区大和町1-30-7 | 高円寺駅（徒歩約7分） | https://www.instagram.com/ferantracing_official/ |
+| encore（アンコール） | 東京都杉並区高円寺南3-56-1-110 | 高円寺駅 | https://www.instagram.com/encore_boutique/ |
+| 那由多（ナユタ） | 東京都杉並区高円寺南3-56-1 108 | 高円寺駅 | https://www.instagram.com/nayuta_tokyo/ |
+| KIKI本店（キキ） | 東京都杉並区高円寺南2-21-11 | 高円寺駅（徒歩約8分） | https://www.instagram.com/kiki_honten/ |
+| 即興（ソッキョウ） | 東京都杉並区高円寺南3-59-14 中西アパート102 | 高円寺駅（徒歩約3分） | https://www.instagram.com/sokkyou/ |
+| ガイジン | 東京都杉並区高円寺南3-56-1 104 | 高円寺駅 | https://www.instagram.com/gaijin_nippon/ |
+| Marco Polo 高円寺LOOK店（マルコポーロ） | 東京都杉並区高円寺南2-48-6 | 高円寺駅（徒歩約6分） | 不明 |
+| Peep Cheep（ピープチープ） | 東京都杉並区高円寺南4-24-4 中島店舗2F | 高円寺駅（徒歩約5分） | 不明 |
+| inou（アイノウ） | 東京都杉並区高円寺南3-57-9 2F | 高円寺駅（徒歩約4分） | https://www.instagram.com/inou_vintageclothing/ |
+| Bernet（バーネット） | 東京都杉並区高円寺南4-24-11 宝山ビル101 | 高円寺駅（徒歩約5分） | https://www.instagram.com/bernet_vintage/ |
+| Little Trip to Heaven 高円寺店（リトルトリップトゥヘブン） | 東京都杉並区高円寺南4-24-7 リトルトリップトゥヘブン1F | 高円寺駅 | https://www.instagram.com/little_trip_to_heaven_koenji/ |
 
 ## 除外した店舗
 
@@ -50,3 +60,4 @@
 - 2026-07-22: 新規店舗11件を追加（川、Frescade、AiLeen by GROGGROG、SHINTO、BoobyTRAP、NOW OR NEVER、古着屋 深緑、SPOT、Anthony、はやとちり、WEST LANE）。既存10店舗について閉店情報を調査したが閉店は確認されず削除なし。
 - 2026-07-22: 新規店舗5件を追加（黒BENZ、ZOOL BAROMETZ、JuRian、Dirt Vintage Clothing、SUPER OLD）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 新規店舗8件を追加（Albatross 1号店、古着商大虎、Small Change、liberal、BIG TIME 高円寺店、AWESOME by BRING 高円寺店、SAFARI 1号店、FERANTRACING）。SAFARIは1号店の住所が確認できたため掲載し、除外理由を2〜5号店のみに更新。既存店舗の閉店は確認されず削除なし。
+- 2026-07-23: 新規店舗10件を追加（encore、那由多、KIKI本店、即興、ガイジン、Marco Polo 高円寺LOOK店、Peep Cheep、inou、Bernet、Little Trip to Heaven 高円寺店）。既存店舗の閉店は確認されず削除なし。
