@@ -68,6 +68,13 @@
 | Ayne Tokyo | 東京都世田谷区北沢2-7-2 中瀬ビル1F | 下北沢駅（徒歩約3分） | https://www.instagram.com/ayne_tokyo/ |
 | 古着屋KAKKO | 東京都世田谷区代沢5-32-10 ラパシオン下北沢2-D | 下北沢駅 | https://www.instagram.com/kakko_shimokitazawa/ |
 | SUPER STUDIO | 東京都世田谷区北沢2-19-14 | 下北沢駅（徒歩約2分） | https://www.instagram.com/superstudio_shimokita/ |
+| 古着屋haikara 下北沢店（ハイカラ） | 東京都世田谷区北沢2-33-5 下北沢TKSビル1F | 下北沢駅（徒歩約2分） | https://www.instagram.com/haikara_hurugi_shimokitazawa/ |
+| HONEYWOOD（ハニーウッド） | 東京都世田谷区北沢2-37-17 ピエノ北沢2F | 下北沢駅 | https://www.instagram.com/honeywood_shimokita/ |
+| Early20（アーリートゥエンティ） | 東京都世田谷区北沢2-35-5 岩田ハウス1F | 下北沢駅（東口エリア） | https://www.instagram.com/eeearly20/ |
+| gochic 下北沢店（ゴシック） | 東京都世田谷区北沢2-36-15 ダイユウしもきた103 | 下北沢駅 | https://www.instagram.com/gochic.shimokitazawa/ |
+| HAKUi（ハクイ） | 東京都世田谷区北沢2-5-8 1F | 下北沢駅（徒歩約3分） | https://www.instagram.com/hakui/ |
+| KiLLeRS（キラーズ） | 東京都世田谷区代田6-5-25 1F | 下北沢駅（西口徒歩約2分） | https://www.instagram.com/killers_shimokitazawa/ |
+| Butterfly Fall Vintage（バタフライフォールヴィンテージ） | 東京都世田谷区北沢2-11-15 ミカン下北A街区 | 下北沢駅 | https://www.instagram.com/butterflyfall_vintage/ |
 
 ## 除外した店舗
 
@@ -83,3 +90,4 @@
 - 2026-07-23: 新規店舗14件を追加（古着屋 iot 下北沢店、GASLAMP SQUARE 下北沢店、MONK、NER、SyuNa、KIMAMA、tsumugu、Pigsty a⇌z STORE下北沢店、meadow by FLAMINGO、古着83下北沢店、Gleeful下北沢店、Gleeful下北沢2nd、古着屋JAM下北沢店、BIG TIME下北沢）。既存28店舗の閉店は確認されず、除外なし。なお、NOTIME下北沢店は前回に続きビンテージ専門店と明確に判断できず見送り、WEGO VINTAGE下北沢店・グリズリー下北沢店・The Thrift tokyo下北沢北口店（いずれも北沢2-29-3）、DAMAGEDONE・a room・Step ahead下北沢（いずれも北沢2-30-10、M.G ITEMと同番地）、SELEN下北沢店・SPiKe（いずれも北沢2-35-15、X VINTAGEと同番地）、JARMUSCH VENTAGLIO（北沢2-29-14、irohaと同番地）、MIMIC（代沢5-32-7、An vintageと同番地・同ビル）、MICMO（北沢2-26-21、Gleeful下北沢2ndと同番地）は既存店舗と番地レベルで住所が一致したため重複と判断し追加を見送り。ブリーフブリーフ・Rose Shimokitazawa・Smith & You・Dontak・Hickory・DOSTYLE・Rhythm9・古着屋memento・古着屋MUMU・kroneko used store・LOWECO by JAM・Little Trip to Heaven・iot reverse・Re:Re: Gardenはビンテージ専門店としての確証またはInstagramの確認が取れず、今回は追加を見送り（次回以降の確認候補）。
 - 2026-07-23: 新規店舗14件を追加（ROSE shimokitazawa、SMITH&YOU、古着屋 memento 下北沢店、古着屋 DOSTYLE下北沢店 1st・2nd、hickory、Rhythm9、古着屋MUMU 下北沢店、kroneko used store、LOWECO by JAM 下北沢店、LOWECO by JAM 下北沢2号店、Little Trip to Heaven 下北沢、iot reverse 下北沢店、下北沢古着屋Re:Re: Garden、▲ブリーフ△ブリーフ▲）。前回追加を見送っていた候補について住所・Instagramを再確認し、既存42店舗と番地レベルで住所重複がないことを確認した上で追加。既存店舗の閉店は確認されず、除外なし。なお「Dontak」については該当する店舗を特定できなかったため、今回も見送り。
 - 2026-07-23: ＃シモフル（下北沢古着店ポータル）の掲載店舗一覧を参照して追加候補を洗い出し、新規店舗8件を追加（古着プチコション本店、BAZZSTORE下北沢南口店、西海岸ANCHOR下北沢店、human vintage、古着店 熱田屋、Ayne Tokyo、古着屋KAKKO、SUPER STUDIO）。既存56店舗の閉店は確認されず、除外なし。なお、プチコション2nd（北口／北沢2-30-14）はDESERT SNOW 下北沢1号店と同番地、楽喜（北沢2-10-15マルシェ下北沢1F）はCharoll Vintageと同番地・同建物、古着屋スティックアウト（北沢2-14-16）はLOWECO by JAM 下北沢2号店と同番地、エリア22古着GATEWAY（北沢2-9-25）は古着屋 UTA 下北沢と同番地のため、いずれも番地レベルの住所重複と判断し追加を見送り。カインドオル下北沢店（北沢2-26-18）はブランド古着の買取・販売を主とする一般的な古着買取チェーンでビンテージ専門店とは言い切れないため見送り。着縁 KIEN（北沢2-9-22）はアンティーク着物と着物バーの店舗であり、本リストが対象とする洋服ビンテージ古着の範疇外と判断し見送り。
+- 2026-07-23: ＃シモフルの店舗一覧・AVEND等の紹介記事を追加参照し、新規店舗7件を追加（古着屋haikara 下北沢店、HONEYWOOD、Early20、gochic 下北沢店、HAKUi、KiLLeRS、Butterfly Fall Vintage）。既存64店舗の閉店は確認されず、除外なし。なお、NeiN（北沢2-9-3）はGleeful下北沢店と同番地、Trevor Frank（北沢2-12-2）はLost Boy Tokyoと同番地、BETTER（北沢2-19-16）は古着屋 DOSTYLE下北沢店と同番地、OTSU TOKYO（北沢2-30-2 TRUST ONE 2F）はCOUOTSUと同番地・同建物のため、いずれも番地レベルの住所重複と判断し追加を見送り。3びきの子ねこ（ミカン下北店、北沢2-11-15）は今回追加したButterfly Fall Vintageと同番地（ミカン下北 東洋百貨店別館）のため見送り。AULD LANG SUN（北沢2-33-5）は今回追加した古着屋haikara 下北沢店と同番地で、複数の情報源でビル名が確認できず同一建物である可能性を排除できないため見送り（要再調査）。monalisa TOKYOは2023年closedが複数ソースで確認できたが本リスト未掲載のため除外セクションへの追加は不要と判断。シスコ（Cisco）系列（1号店・3号店・mini等）は店舗数・住所・Instagramアカウントの対応関係が情報源間で不明瞭なため、今回は見送り（次回以降の確認候補）。
