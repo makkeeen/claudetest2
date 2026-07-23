@@ -46,6 +46,20 @@
 | Gleeful下北沢2nd（グリーフル） | 東京都世田谷区北沢2-26-21 清水ビル2F | 下北沢駅 | https://www.instagram.com/gleeful_shimokita_2nd/ |
 | 古着屋JAM下北沢店（ジャム） | 東京都世田谷区北沢2-31-7 アビティ下北沢2F | 下北沢駅（徒歩約1分） | https://www.instagram.com/furugiya_jam_official/ |
 | BIG TIME下北沢（ビッグタイム） | 東京都世田谷区北沢2-26-15 1F/2F | 下北沢駅 | https://www.instagram.com/big_time_shimokitazawa/ |
+| ROSE shimokitazawa（ローズ） | 東京都世田谷区北沢3-27-2 鹿島田ビル1階 | 下北沢駅（徒歩約3分） | https://www.instagram.com/rose_shimokitazawa/ |
+| SMITH&YOU（スミスアンドユー） | 東京都世田谷区北沢2-26-2 | 下北沢駅 | https://www.instagram.com/smithandyouvintage/ |
+| 古着屋 memento 下北沢店 | 東京都世田谷区北沢2-15-1 たつみビル1F | 下北沢駅（徒歩約2分） | https://www.instagram.com/used.memento_shimokitazawa/ |
+| 古着屋 DOSTYLE下北沢店 1st・2nd | 東京都世田谷区北沢2-19-16 | 下北沢駅 | https://www.instagram.com/dostyle_shimokitazawa/ |
+| hickory（ヒッコリー） | 東京都世田谷区代沢5-29-17 飯田ハイツ103 | 下北沢駅 | https://www.instagram.com/hickoryshimokita/ |
+| Rhythm9（リズム9） | 東京都世田谷区代沢5-31-8 | 下北沢駅 | https://www.instagram.com/rhythm9_shimokita/ |
+| 古着屋MUMU 下北沢店 | 東京都世田谷区代沢5-36-16 井上ビル1A | 下北沢駅 | https://www.instagram.com/mumu_shimokita/ |
+| kroneko（クロネコ）used store | 東京都世田谷区代沢5-28-12 藤田ビル1C | 下北沢駅（京王中央口徒歩約8分） | https://www.instagram.com/kroneko_used/ |
+| LOWECO by JAM 下北沢店 | 東京都世田谷区北沢2-12-4 新第２マツヤビル1階 | 下北沢駅（徒歩約1分） | https://www.instagram.com/loweco_shimokitazawa/ |
+| LOWECO by JAM 下北沢2号店 | 東京都世田谷区北沢2-14-16 北沢プラザ2階 | 下北沢駅（徒歩約2分） | https://www.instagram.com/loweco_shimokitazawa2nd/ |
+| Little Trip to Heaven 下北沢 | 東京都世田谷区北沢2-26-19 Hills-2 | 下北沢駅 | https://www.instagram.com/little_trip_to_heaven/ |
+| iot reverse（イオットリバース）下北沢店 | 東京都世田谷区北沢2-13-14 1F | 下北沢駅 | https://www.instagram.com/reverse_iot/ |
+| 下北沢古着屋Re:Re: Garden | 東京都世田谷区北沢2-31-1 木村ビル301 | 下北沢駅（徒歩約2分） | https://www.instagram.com/re_re_garden/ |
+| ▲ブリーフ△ブリーフ▲ | 東京都世田谷区北沢3-31-5-1D | 下北沢駅 | https://www.instagram.com/xbriefsxbriefsx/ |
 
 ## 除外した店舗
 
@@ -59,3 +73,4 @@
 - 2026-07-22: 新規店舗17件を追加（KINJI 下北沢店、WEAPON VINTAGE、Lost Boy Tokyo、X VINTAGE 下北沢古着屋、Top of the Hill 下北沢、sowhat vintage、fuv vintage 下北沢、lansdowne vintage&archive store、a.k.a.C.a.k.a vintage、add (C) vintage 下北沢古着屋、sui vintage&used clothing 下北沢店、dracaena 下北沢店、An vintage、swallow tail vintage、COUOTSU、エルパソ下北沢、Never vintage）。既存11店舗の閉店は確認されず、除外なし。なお、soma（下北沢のビンテージスニーカー専門店）はビンテージ古着専門店の対象外と判断し追加を見送り。dracaena下北沢店・swallow tail vintageはInstagramが検索結果内でリンクとして確認できなかったため不明と記載。Never vintageは住所が情報源から確認できなかったため不明と記載。
 - 2026-07-23: 新規店舗14件を追加（古着屋 iot 下北沢店、GASLAMP SQUARE 下北沢店、MONK、NER、SyuNa、KIMAMA、tsumugu、Pigsty a⇌z STORE下北沢店、meadow by FLAMINGO、古着83下北沢店、Gleeful下北沢店、Gleeful下北沢2nd、古着屋JAM下北沢店、BIG TIME下北沢）。既存28店舗の閉店は確認されず、除外なし。
 - 2026-07-23: 新規店舗14件を追加（古着屋 iot 下北沢店、GASLAMP SQUARE 下北沢店、MONK、NER、SyuNa、KIMAMA、tsumugu、Pigsty a⇌z STORE下北沢店、meadow by FLAMINGO、古着83下北沢店、Gleeful下北沢店、Gleeful下北沢2nd、古着屋JAM下北沢店、BIG TIME下北沢）。既存28店舗の閉店は確認されず、除外なし。なお、NOTIME下北沢店は前回に続きビンテージ専門店と明確に判断できず見送り、WEGO VINTAGE下北沢店・グリズリー下北沢店・The Thrift tokyo下北沢北口店（いずれも北沢2-29-3）、DAMAGEDONE・a room・Step ahead下北沢（いずれも北沢2-30-10、M.G ITEMと同番地）、SELEN下北沢店・SPiKe（いずれも北沢2-35-15、X VINTAGEと同番地）、JARMUSCH VENTAGLIO（北沢2-29-14、irohaと同番地）、MIMIC（代沢5-32-7、An vintageと同番地・同ビル）、MICMO（北沢2-26-21、Gleeful下北沢2ndと同番地）は既存店舗と番地レベルで住所が一致したため重複と判断し追加を見送り。ブリーフブリーフ・Rose Shimokitazawa・Smith & You・Dontak・Hickory・DOSTYLE・Rhythm9・古着屋memento・古着屋MUMU・kroneko used store・LOWECO by JAM・Little Trip to Heaven・iot reverse・Re:Re: Gardenはビンテージ専門店としての確証またはInstagramの確認が取れず、今回は追加を見送り（次回以降の確認候補）。
+- 2026-07-23: 新規店舗14件を追加（ROSE shimokitazawa、SMITH&YOU、古着屋 memento 下北沢店、古着屋 DOSTYLE下北沢店 1st・2nd、hickory、Rhythm9、古着屋MUMU 下北沢店、kroneko used store、LOWECO by JAM 下北沢店、LOWECO by JAM 下北沢2号店、Little Trip to Heaven 下北沢、iot reverse 下北沢店、下北沢古着屋Re:Re: Garden、▲ブリーフ△ブリーフ▲）。前回追加を見送っていた候補について住所・Instagramを再確認し、既存42店舗と番地レベルで住所重複がないことを確認した上で追加。既存店舗の閉店は確認されず、除外なし。なお「Dontak」については該当する店舗を特定できなかったため、今回も見送り。
