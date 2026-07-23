@@ -1,6 +1,6 @@
 # 渋谷駅 ビンテージ古着店
 
-最終更新: 2026-07-22
+最終更新: 2026-07-23
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -19,6 +19,7 @@
 | HOOKED VINTAGE（フックドヴィンテージ） | 東京都渋谷区渋谷2-12-6 三田ビル1F | 渋谷駅 | https://www.instagram.com/hooked_vintage/ |
 | blue room（ブルールーム） | 東京都渋谷区渋谷2-4-10 鈴木ビル102 | 渋谷駅 | https://www.instagram.com/blue_room___/ |
 | birthdeath（バースデス） | 東京都渋谷区神南1-9-4 NCビル1F-A | 渋谷駅 | https://www.instagram.com/birthdeath_tokyo/ |
+| 古着屋JAM 渋谷店（ふるぎやジャム） | 東京都渋谷区神南1-12-17 神南大井ビルB1F | 渋谷駅 | https://www.instagram.com/furugiya_jam_official/ |
 
 ## 除外した店舗
 
@@ -36,6 +37,10 @@
 - **no pain no gain**: 東京都渋谷区渋谷4-2-24 LIVE青山B1F。最寄り駅が表参道駅（渋谷駅から徒歩10分程度）であり渋谷駅エリアの範囲外と判断し追加を見送り
 - **AWASE（アワセ）**: 東京都渋谷区富ヶ谷1-14-15。最寄り駅が代々木公園駅（徒歩約3分）であり渋谷駅エリアの範囲外と判断し追加を見送り
 - **BRACKETS（ブラケッツ）**: 東京都渋谷区神山町13-13。通称「奥渋谷」エリアに位置し、渋谷駅からの明確な徒歩時間を情報源で確認できず、最寄り駅を渋谷駅と断定できないため追加を見送り
+- **aNiKi（アニキ）**: 東京都渋谷区神泉町10-17。最寄り駅が神泉駅であり渋谷駅エリアの範囲外と判断し追加を見送り
+- **select7（セレクトセブン）**: 東京都渋谷区神南1-20-3。bazzstoreの説明によればハイブランド品の買取・販売を専門とする店舗であり、アメリカ・ヨーロッパ古着を中心としたビンテージ専門店とは言えないため追加を見送り
+- **Primal（プライマル）**: 東京都渋谷区神南1-13-3 ARK神南2F。timeout東京・bazzstoreの双方で「【閉店】」の記載があり、営業継続を確認できず新規追加を見送り
+- **Grimoire（グリモワール）**: 東京都渋谷区神南1-10-7 テルス神南7F。既存掲載のqosmos（東京都渋谷区神南1-10-7 テルス神南5F）と番地レベルで住所が一致するため重複と判断し追加を見送り
 
 ## 更新履歴
 
@@ -43,3 +48,4 @@
 - 2026-07-21: NEW YORK JOE EXCHANGE SHIBUYAを新規追加（既存のGRACEは営業継続を確認、変更なし）
 - 2026-07-22: 新規6店舗を追加（Hypnotique、NUDE TRUMP、DESPERATE LIVING、Sullen Tokyo、I&I、BOY）。既存2店舗は営業継続を確認し変更なし。閉店確認のRosy Baroque等は候補から除外し参考として記載
 - 2026-07-22: 新規7店舗を追加（Archive Store、qosmos、BLAXSMITH、mericca、HOOKED VINTAGE、blue room、birthdeath）。既存8店舗は営業継続を確認し変更なし。閉店確認のOFO・TheSunGoesDown1st、エリア範囲外のno pain no gain・AWASE、最寄り駅を確定できないBRACKETSは候補から除外し参考として記載
+- 2026-07-23: 新規1店舗を追加（古着屋JAM 渋谷店）。既存15店舗は営業継続を確認し変更なし。エリア範囲外のaNiKi、ビンテージ専門店とは言えないselect7、閉店確認のPrimal、既存qosmosと番地が一致し重複と判断したGrimoireは候補から除外し参考として記載
