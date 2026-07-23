@@ -18,6 +18,8 @@
 | Ensemble（アンサンブル） | 東京都武蔵野市吉祥寺南町1-10-6 | 吉祥寺駅 | https://www.instagram.com/ensemble_kichijoji/ |
 | SAFARI吉祥寺 中道通り店 | 東京都武蔵野市吉祥寺本町2-12-2 仲田ビル1F | 吉祥寺駅 | https://www.instagram.com/safari_kichijoji/ |
 | SAFARI吉祥寺 なない橋店 | 東京都武蔵野市吉祥寺南町1-16-11 | 吉祥寺駅 | https://www.instagram.com/safari_kichijoji_2/ |
+| garnish（ガーニッシュ） | 東京都武蔵野市吉祥寺本町4-1-2 | 吉祥寺駅 | https://www.instagram.com/garnish_vintage/ |
+| ANIS（アニス） | 東京都武蔵野市吉祥寺本町2-2-7 プラザオギノ301 | 吉祥寺駅（徒歩約4分） | https://www.instagram.com/anis60svintage |
 
 ## 除外した店舗
 
@@ -28,3 +30,4 @@
 - 2026-07-21: 初回作成（1店舗）
 - 2026-07-21: ビンテージ古着専門店7店舗を追加（dracaena吉祥寺本店、dracaena NORTH、Orfeo、kokoro、iti vintage clothing & humor、Take Used, Vintage, ＆ Art、Rill）。閉店確認された店舗はなし。
 - 2026-07-22: ビンテージ古着専門店6店舗を追加（古着屋JAM VINTAGE&SELECT 吉祥寺店、Boogie、Zootie、Ensemble、SAFARI吉祥寺 中道通り店、SAFARI吉祥寺 なない橋店）。従来「店舗数が多く住所を一意に確定できない」として保留していたSAFARIは、2店舗それぞれの住所・Instagramが確認できたため保留を解消し表に追加。閉店確認された既存店舗はなし。
+- 2026-07-22: ビンテージ古着専門店2店舗を追加（garnish（ガーニッシュ）、ANIS（アニス））。調査の過程でTokyo Dress Lab.が2023年に吉祥寺から杉並区松庵へ移転済みであることを確認したため追加対象から除外。閉店確認された既存店舗はなし。

@@ -15,6 +15,9 @@
 | EVA fashion art（EVA vintage） | 東京都渋谷区猿楽町2-1 アベニューサイド代官山III-1B | 代官山駅 | https://www.instagram.com/eva_vintagetokyo/ |
 | end 代官山（vintage & antique） | 東京都渋谷区代官山町14-11-301 堀井代官山ビル No.5 | 代官山駅 | https://www.instagram.com/endvintage/ |
 | SLOW 代官山店 | 東京都渋谷区代官山町14-12 岡田リネンビル1F | 代官山駅 | https://www.instagram.com/slow_daikanyama/ |
+| PATINAS VINTAGE CLOSET（パティナス ヴィンテージクローゼット） | 東京都渋谷区恵比寿西2-17-11-101 | 代官山駅 | https://www.instagram.com/patinas_una7/ |
+| ALCATROCK（アルカトロック） | 東京都渋谷区恵比寿西1-32-14 Dear Ebisu 1F | 代官山駅 | 不明 |
+| PHOTOS 代官山店（フォトス） | 東京都渋谷区恵比寿西2-20-8 パーフェクトルーム103 | 代官山駅 | 不明 |
 
 ## 除外した店舗
 
@@ -25,3 +28,4 @@
 - 2026-07-21: 初回作成（2店舗）
 - 2026-07-21: 新規6店舗を追加（SMITHS ARTIQUE、FULL UP、JEANNE VALET、CARBOOTS、VINI VINI LUXE、MOTHER LIP）。既存店舗の閉店は確認されず、除外なし。
 - 2026-07-22: 新規3店舗を追加（EVA fashion art（EVA vintage）、end 代官山（vintage & antique）、SLOW 代官山店）。既存店舗の閉店は確認されず、除外なし。
+- 2026-07-22: 新規3店舗を追加（PATINAS VINTAGE CLOSET（パティナス ヴィンテージクローゼット）、ALCATROCK（アルカトロック）、PHOTOS 代官山店（フォトス））。既存店舗の閉店は確認されず、除外なし。

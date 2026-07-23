@@ -22,12 +22,17 @@
 | TOKYO LAMPOON（トウキョウ ランプーン） | 東京都目黒区上目黒1-7-6 | 中目黒駅 | 不明 |
 | Fifth General Store（フィフス ジェネラルストア） | 東京都目黒区上目黒2-13-3 井内ビル裏1F | 中目黒駅 | https://www.instagram.com/5gs_tokyo/ |
 | used & vintage Cider（サイダー） | 東京都目黒区上目黒1-2-9 ハイネス中目黒104号 | 中目黒駅 | 不明 |
+| H used&vintage clothing（アッシュ） | 東京都目黒区中目黒1-2-15 | 中目黒駅 | https://www.instagram.com/husedvintageclothing/ |
+| moc（モック） | 東京都目黒区青葉台1-15-4 | 中目黒駅 | https://www.instagram.com/moc_insta/ |
+| Leah-K（リアーケイ） | 東京都目黒区青葉台1-25-2 | 中目黒駅 | https://www.instagram.com/leahkleahk/ |
 
 ## 除外した店舗
 
 - **archeo logie（アルケオロジー）**: 実際は祐天寺エリアで対象外。Instagramハンドルも複数見つかり特定できず除外
 - **エレバ/エルレーブ**: 検索結果で示された住所が既存掲載店JANTIQUESの住所と完全一致しており、情報の信頼性が確認できないため除外
-- **リアーケイ 中目黒店 / ケービンショップ**: 該当する店舗の詳細情報（住所・SNS）を検索で特定できず除外
+- **ケービンショップ**: 該当する店舗の詳細情報（住所・SNS）を検索で特定できず除外
+- **threepetals（スリーペタルズ）**: 最寄り駅が代官山駅（徒歩1分）でエリア対象外のため除外
+- **Tam（タム）**: 最寄り駅が池尻大橋駅（徒歩8分、中目黒駅からは徒歩15分）でエリア対象外のため除外
 - **MLR**: Instagramアカウントが「新アカウントへ移行」した旨の情報があり、現況の住所・稼働状況を確認できないため除外
 - **ノエル ヴィンテージ（Noël Vintage）**: 最寄り駅が代官山駅（代官山駅から徒歩11分）でエリア対象外のため除外
 - **＆Dorothy（アンド ドロシー）**: 情報源のタイトルに「【閉店】」の記載があり閉店済みと判断されるため除外
@@ -40,3 +45,4 @@
 - 2026-07-21: 初回作成（2店舗）
 - 2026-07-21: 新規7店舗を追加（barr vintage select store 中目黒店、mAnchies、古着屋LOCO、hallelu、EVERGREEN、DEPT TOKYO、small cat）。閉店確認できた店舗はなし
 - 2026-07-22: 新規9店舗を追加（古着屋シミー中目黒、DROP、JUMPIN' JAP FLASH、HOLIDAY WORKS 中目黒、CaNARi nakameguro、古着屋DIGDIG、TOKYO LAMPOON、Fifth General Store、used & vintage Cider）。既存店舗の閉店は確認されず。候補のうちエレバ/エルレーブ・リアーケイ中目黒店・ケービンショップ・MLR・ノエル ヴィンテージ・＆Dorothy・The Vintage Hook・Kindal中目黒店・FRISKYは重複/エリア対象外/閉店/チェーン店/情報不足のため除外
+- 2026-07-22: 新規3店舗を追加（H used&vintage clothing、moc、Leah-K）。従来「情報不足」でリアーケイと共に除外していたケービンショップは引き続き情報不足のため除外を維持し、リアーケイは詳細情報（住所・SNS）が判明したためLeah-Kとして表に追加。新たに候補となったthreepetals・Tamは最寄り駅がそれぞれ代官山駅・池尻大橋駅でエリア対象外のため除外。既存店舗の閉店は確認されず
