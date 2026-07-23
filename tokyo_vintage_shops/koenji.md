@@ -48,10 +48,42 @@
 | inou（アイノウ） | 東京都杉並区高円寺南3-57-9 2F | 高円寺駅（徒歩約4分） | https://www.instagram.com/inou_vintageclothing/ |
 | Bernet（バーネット） | 東京都杉並区高円寺南4-24-11 宝山ビル101 | 高円寺駅（徒歩約5分） | https://www.instagram.com/bernet_vintage/ |
 | Little Trip to Heaven 高円寺店（リトルトリップトゥヘブン） | 東京都杉並区高円寺南4-24-7 リトルトリップトゥヘブン1F | 高円寺駅 | https://www.instagram.com/little_trip_to_heaven_koenji/ |
+| Kissmet（キスメット） | 東京都杉並区高円寺南3-56-1-101 | 高円寺駅（徒歩約5分） | https://www.instagram.com/kissmet.kouenji/ |
+| Laugh by Kissmet（ラフ バイ キスメット） | 東京都杉並区高円寺南4-29-8 1F | 高円寺駅 | https://www.instagram.com/laugh_koenji/ |
+| 無人古着SLAT 高円寺店（ムジンフルギスラット） | 東京都杉並区高円寺南2-20-19 B1F | 高円寺駅（徒歩約9分） | https://www.instagram.com/slat_mujin/ |
+| Armajilo（アルマジロ） | 東京都杉並区高円寺南3-57-1 2F | 高円寺駅（徒歩約3分） | https://www.instagram.com/armajilo_tokyo/ |
+| Antler（アントラー） | 東京都杉並区高円寺南2-50-10 伊勢市ビル2F | 高円寺駅（徒歩約5分） | https://www.instagram.com/antler_koenji/ |
+| OTSU（オツ） | 東京都杉並区高円寺南3-57-5 ピュアコート1F | 高円寺駅 | https://www.instagram.com/otsu.vintage/ |
+| 温古着新（オンコキシン） | 東京都杉並区高円寺南3-23-16 水喜ビル1F | 高円寺駅 | https://www.instagram.com/onkokishin/ |
+| CUBA（キューバ） | 東京都杉並区高円寺南3-45-10 1F | 高円寺駅（徒歩約4分） | https://www.instagram.com/cuba.koenji/ |
+| cravittra（クラビットラ） | 東京都杉並区高円寺南4-23-4 | 高円寺駅 | https://www.instagram.com/cravittra/ |
+| Grandberry Jam（グランベリージャム） | 東京都杉並区高円寺南4-7-1 | 高円寺駅（徒歩約4分） | https://www.instagram.com/grandberryjam/ |
+| SALERS（サレルス） | 東京都杉並区高円寺南4-22-2 フジビル1F | 高円寺駅 | https://www.instagram.com/salerstokyo/ |
+| HURRY UP（ハリーアップ） | 東京都杉並区高円寺南4-21-4 1F | 高円寺駅 | https://www.instagram.com/hurryup_koenji/ |
+| FIFTY-FIFTY（フィフティフィフティ） | 東京都杉並区高円寺南4-29-14 1F | 高円寺駅（徒歩約3分） | https://www.instagram.com/fifty_fifty_works/ |
+| BROTHER（ブラザー） | 東京都杉並区高円寺南3-44-14 KNハウス1F | 高円寺駅 | https://www.instagram.com/brother.kouenji/ |
+| S.O（ソウ） | 東京都杉並区高円寺南4-30-5 | 高円寺駅 | https://www.instagram.com/soso6012/ |
+| mouse（マウス） | 東京都杉並区高円寺南4-28-11 B1 | 高円寺駅 | https://www.instagram.com/mouse_koenji/ |
+| RUGGED（ラギッド） | 東京都杉並区高円寺南4-24-5 | 高円寺駅 | https://www.instagram.com/rugged_tokyo/ |
+| Re'all（リオール） | 東京都杉並区高円寺南4-29-13 大雅堂マンション1F | 高円寺駅 | https://www.instagram.com/reall.koenji/ |
+| Replay（リプレイ） | 東京都杉並区高円寺南3-56-1-109 | 高円寺駅 | https://www.instagram.com/replay_koenji/ |
+| SKROVA（スクロバ） | 東京都杉並区高円寺南4-21-6 福家ビル1F | 高円寺駅 | https://www.instagram.com/skrova_koenji/ |
+| zuccaro（ズッカーロ） | 東京都杉並区高円寺南3-48-6 第8日東ビル103 | 高円寺駅 | https://www.instagram.com/zuccaro_japan_kouenji/ |
+| CORD（コード） | 東京都杉並区高円寺南4-24-9 高円寺中央ビル203 | 高円寺駅 | https://www.instagram.com/cord_tokyo/ |
+| RENGA 南口店（レンガ） | 東京都杉並区高円寺南4-43-9 宮澤ビル1F | 高円寺駅 | https://www.instagram.com/renga_tokyo/ |
+| RENGA 北口店（レンガ） | 東京都杉並区高円寺北3-10-3 1F | 高円寺駅 | https://www.instagram.com/renga_koenji_north/ |
+| LONGABU（ロンガブ） | 東京都杉並区高円寺南4-34-10 グランドコート三上102 | 高円寺駅 | 不明 |
+| Chago Chago BOUTIQUE & RICUR（チャゴチャゴブティックアンドリカー） | 東京都杉並区高円寺南4-9-3 201 | 高円寺駅（徒歩約4分） | 不明 |
+| Fizz（フィズ） | 東京都杉並区高円寺南3-46-3 五明堂ビル1F | 高円寺駅 | https://www.instagram.com/fizz_vintage/ |
+| Slat 2号店（スラット2号店） | 東京都杉並区高円寺南4-24-8 | 高円寺駅（徒歩約3分） | https://www.instagram.com/slat_2nd_vintage/ |
+| DECADANCE（デカダンス） | 東京都杉並区高円寺南4-27-6-102 | 高円寺駅（徒歩約1分） | 不明 |
 
 ## 除外した店舗
 
 - **SAFARI 2〜5号店**: 高円寺エリアに複数店舗展開しており、1号店（東京都杉並区高円寺南3-57-4）以外の各店舗の住所を一意に確定できないため保留（公式サイト：e-safari.co.jp）
+- **STEP AHEAD 高円寺店**: 原宿発祥・全国16店舗展開のレギュラー～ヴィンテージ古着チェーンで、単一店舗のビンテージ専門店とは性質が異なるため掲載を保留
+- **GREEN LIGHT（高円寺南4-28-11）**: 靴・バッグ専門店で衣料ビンテージ古着の専門店ではない可能性が高く、また号室情報を確認できず同住所のJuRianとの物件同一性を否定できないため保留
+- **PAPER MOON／ROIR（高円寺南3-46-5）**: 既存掲載のWEST LANE（東京都杉並区高円寺南3-46-5）と同一街区・同一番地で、号室情報が確認できず物件の同一性を判別できないため掲載を保留
 
 ## 更新履歴
 
@@ -61,3 +93,4 @@
 - 2026-07-22: 新規店舗5件を追加（黒BENZ、ZOOL BAROMETZ、JuRian、Dirt Vintage Clothing、SUPER OLD）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 新規店舗8件を追加（Albatross 1号店、古着商大虎、Small Change、liberal、BIG TIME 高円寺店、AWESOME by BRING 高円寺店、SAFARI 1号店、FERANTRACING）。SAFARIは1号店の住所が確認できたため掲載し、除外理由を2〜5号店のみに更新。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 新規店舗10件を追加（encore、那由多、KIKI本店、即興、ガイジン、Marco Polo 高円寺LOOK店、Peep Cheep、inou、Bernet、Little Trip to Heaven 高円寺店）。既存店舗の閉店は確認されず削除なし。
+- 2026-07-23: 古着屋台帳的サイト（doppry、bazzstore、mensnonno等）を横断調査し、新規店舗29件を追加（Kissmet、Laugh by Kissmet、無人古着SLAT 高円寺店、Armajilo、Antler、OTSU、温古着新、CUBA、cravittra、Grandberry Jam、SALERS、HURRY UP、FIFTY-FIFTY、BROTHER、S.O、mouse、RUGGED、Re'all、Replay、SKROVA、zuccaro、CORD、RENGA 南口店、RENGA 北口店、LONGABU、Chago Chago BOUTIQUE & RICUR、Fizz、Slat 2号店、DECADANCE）。STEP AHEAD 高円寺店（全国チェーンのため）、GREEN LIGHT（靴・バッグ専門かつ号室不明でJuRianとの物件同一性を否定できないため）、PAPER MOON／ROIR（WEST LANEと同一番地で号室不明のため）を除外欄に追記。既存44店舗については閉店を示す情報源は見つからず削除なし。
