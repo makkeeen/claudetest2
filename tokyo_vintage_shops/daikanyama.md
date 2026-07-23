@@ -20,6 +20,9 @@
 | PHOTOS 代官山店（フォトス） | 東京都渋谷区恵比寿西2-20-8 パーフェクトルーム103 | 代官山駅 | 不明 |
 | THE VINTAGE DRESS（ザ ヴィンテージ ドレス） | 東京都渋谷区猿楽町22-4 | 代官山駅 | https://www.instagram.com/the_vintagedress/ |
 | BEAU GESTE（ボージェスト） | 東京都渋谷区恵比寿西2-21-15 荒井ビル102 | 代官山駅 | https://www.instagram.com/beau_geste_daikanyama/ |
+| Three Petals（スリーペタルズ）代官山 | 東京都渋谷区恵比寿西1-36-6 | 代官山駅 | https://www.instagram.com/threepetals/ |
+| ブプッピドゥー（Boop-Poop-A-Doop） | 東京都渋谷区猿楽町12-33 ハイツグレード1階 | 代官山駅 | 不明 |
+| ROSHE（ロシェ） | 不明 | 代官山駅 | 不明 |
 
 ## 除外した店舗
 
@@ -32,3 +35,4 @@
 - 2026-07-22: 新規3店舗を追加（EVA fashion art（EVA vintage）、end 代官山（vintage & antique）、SLOW 代官山店）。既存店舗の閉店は確認されず、除外なし。
 - 2026-07-22: 新規3店舗を追加（PATINAS VINTAGE CLOSET（パティナス ヴィンテージクローゼット）、ALCATROCK（アルカトロック）、PHOTOS 代官山店（フォトス））。既存店舗の閉店は確認されず、除外なし。
 - 2026-07-23: 新規2店舗を追加（THE VINTAGE DRESS（ザ ヴィンテージ ドレス）、BEAU GESTE（ボージェスト））。既存店舗の閉店は確認されず、除外なし。
+- 2026-07-23: 新規3店舗を追加（Three Petals（スリーペタルズ）代官山、ブプッピドゥー（Boop-Poop-A-Doop）、ROSHE（ロシェ））。ブランド古着専門店（Brooch、Orbital Daikanyama、Kindal、BRAND JAPON）およびブランド公式店（AMERI VINTAGE）は対象外として追加せず。既存店舗の閉店は確認されず、除外なし。
