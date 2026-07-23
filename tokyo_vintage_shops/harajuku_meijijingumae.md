@@ -45,6 +45,12 @@
 | フロリダ 原宿店 | 東京都渋谷区神宮前1-8-1 SCC原宿ビル2F・3F | 明治神宮前駅／原宿駅 | 不明 |
 | ベルベルジン 遊歩道店 | 東京都渋谷区神宮前4-25-33 | 明治神宮前駅／原宿駅 | 不明 |
 | ストレートフロムL.A.（ベルベルジン） | 東京都渋谷区神宮前3-21-1 プラフロール神宮前1F | 明治神宮前駅／原宿駅 | 不明 |
+| gilet antiques（ジレ アンティークス） | 東京都渋谷区神宮前6-16-2 マンションミクラ202 | 明治神宮前駅 | https://www.instagram.com/gilet_antiques/ |
+| ruruLi（ルルリ）原宿店 | 東京都渋谷区神宮前3-23-2 NSビル1F | 原宿駅 | https://www.instagram.com/ruruli_harajuku/ |
+| PAT MARKET（パットマーケット） | 東京都渋谷区神宮前3-27-8 | 明治神宮前駅 | https://www.instagram.com/pat_market_tokyo/ |
+| BUDDY（バディ） | 東京都渋谷区神宮前2-20-12 渡辺マンション1F | 原宿駅 | https://www.instagram.com/buddy.71/ |
+| beruf（ベルーフ）原宿店 | 東京都渋谷区神宮前6-16-3 原宿T2ビル1F | 明治神宮前駅 | https://www.instagram.com/berufharajuku/ |
+| Props Store Annex（プロップスストア アネックス） | 東京都渋谷区神宮前2-30-5 トーカン原宿キャステール1F | 不明 | https://www.instagram.com/propsstore_annex/ |
 
 ## 除外した店舗
 
@@ -65,6 +71,8 @@
 - **少年Junk**: bazzstore.comの店舗ページタイトルに【閉店】と明記され、「移転済」との記載もあるが、移転後の所在地が原宿・明治神宮前エリア内か確認できなかったため追加せず
 - **MELANGE（メランジ）**: 住所が神宮前4-28-7 RDMビル2Fで、新規追加したHUGと番地・建物レベルで一致するため同一物件内の扱いとして追加せず
 - **レモンティー（LEMONTEA）**: 「レギュラー、ヴィンテージなどを問わず展開する」古着屋として紹介されており、ビンテージ古着専門とは言えないため追加せず
+- **RAGTAG 原宿店**: 原宿店・原宿明治通り店をはじめ全国に多数展開するブランド古着買取販売チェーンであり、ビンテージ専門の個人店とは言えないため追加せず
+- **BUSINESS AS USUAL**: 住所が神宮前3-20-5（2F）で、既存のDoLuKE（神宮前3-20-5 コージー原宿2F）と番地・階数レベルで一致するため同一物件内の扱いとして追加せず
 
 （上記以外のこのエリア固有の除外はありません。全体の除外リストは [README.md](./README.md) を参照）
 
@@ -77,3 +85,4 @@
 - 2026-07-23: 新規9店舗を追加（YAMAHISA USED CLOTHING原宿竹下通り店、COUNTER、Pigsty原宿店、Queens、liberte原宿店、Dog、Side Car Charlie、STUDIO KONBINI、es）。既存21店舗の閉店は確認されず変更なし。RAINBOW原宿店は閉店を確認したため追加せず。古着屋サントニブンノイチ原宿店／AWESOME BOYは既存フラミンゴ原宿店と、Elulu by JAM原宿店ほか3店はいずれも既存古着屋JAM原宿店と番地レベルで住所が一致し重複と判断、STEP AHEAD原宿本店は全国チェーンのため専門外、ROOTは現在の営業拠点を確認できず、いずれも追加せず除外セクションに記載。
 - 2026-07-23: 追加調査により新規9店舗を追加（YAMAHISA USED CLOTHING原宿竹下通り店、COUNTER、Pigsty原宿店、Queens、liberte原宿店、Dog、Side Car Charlie、STUDIO KONBINI、es）。既存21店舗の閉店は確認されず変更なし。調査で見つかったRAINBOW原宿店（閉店確認）、古着屋サントニブンノイチ原宿店・AWESOME BOY（既存フラミンゴと番地一致）、Elulu by JAM・ADÉL VINTAGE by JAM・FAY by JAM・古着屋JAM VINTAGE＆SELECT原宿店（既存古着屋JAMと番地一致）、STEP AHEAD原宿本店（全国チェーン）、ROOT（現況確認不可）は追加せず除外セクションに記載。
 - 2026-07-23: 追加調査により新規11店舗を追加（HUG、OHPEARL、SLOW表参道、BUD、LABORATORY/BERBERJIN R、& BerBerJin、フラミンゴ表参道店、フラミンゴ原宿マバタキ店、フロリダ原宿店、ベルベルジン遊歩道店、ストレートフロムL.A.）。既存30店舗の閉店は確認されず変更なし。調査で見つかったベルベルジン コレクティブ・西海岸Ruby's竹下通り店・NADIA FLORES EN EL CORAZON（いずれもビンテージ専門とは言えず）、Lochie・少年Junk（bazzstore.comで閉店確認）、MELANGE（新規追加HUGと番地一致）、レモンティー（ビンテージ専門とは言えず）は追加せず除外セクションに記載。
+- 2026-07-23: 追加調査により新規6店舗を追加（gilet antiques、ruruLi原宿店、PAT MARKET、BUDDY、beruf原宿店、Props Store Annex）。既存41店舗の閉店情報は確認されず変更なし。調査で見つかったRAGTAG原宿店（全国展開のブランド古着チェーンのため専門外）、BUSINESS AS USUAL（既存DoLuKEと神宮前3-20-5・2Fで番地・階数レベルが一致し重複と判断）は追加せず除外セクションに記載。
