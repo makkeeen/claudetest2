@@ -13,6 +13,11 @@
 | DESERTSNOW 町田本店（デザートスノー） | 東京都町田市森野1-19-16 小森ビル2F | 町田駅 | https://www.instagram.com/desertsnow1st/ |
 | ANTIQULTURE 町田（アンティカルチャー） | 東京都町田市原町田4-5-17 1F・2F | 町田駅 | https://www.instagram.com/antiqulture_machida/ |
 | TREDICI（トレディーチ） | 東京都町田市中町1-18-2 WOODBELL 3-B | 町田駅 | https://www.instagram.com/tredici.13/ |
+| JAM Clothing（ジャムクロージング） | 東京都町田市原町田4-9-16 町田第一ビル2F | 町田駅（JR横浜線北口徒歩4分・小田急線南口徒歩5分） | https://www.instagram.com/jamclothing_official_s/ |
+| COSMIC JUMPER（コズミックジャンパー） | 東京都町田市中町1-18-3 かたのビル2F | 町田駅 | https://www.instagram.com/cosmic.jumper/ |
+| 古着屋memento町田店（メメント） | 東京都町田市中町1-15-9 AUビル204 | 町田駅 | https://www.instagram.com/used.memento__machida/ |
+| CANNONBALL（キャノンボール） | 東京都町田市原町田2-8-1 町田KKビル202 | 町田駅（JR横浜線ターミナル口徒歩2分・小田急線東口徒歩10分） | 不明 |
+| Back Street（バックストリート） | 東京都町田市中町1-17-4 町田中町第一ビル2-E | 町田駅 | https://www.instagram.com/backstreetjp/ |
 
 ## 除外した店舗
 
@@ -23,3 +28,4 @@
 - 2026-07-22: 初回作成（3店舗）
 - 2026-07-22: 追加調査により2店舗を追加（Top of the Hill 町田店、MONKEY vintage clothing store）。既存3店舗の閉店情報は確認されず
 - 2026-07-23: 追加調査により4店舗を追加（ULTRABO、DESERTSNOW 町田本店、ANTIQULTURE 町田、TREDICI）。既存5店舗の閉店情報は確認されず
+- 2026-07-23: 追加調査により5店舗を追加（JAM Clothing、COSMIC JUMPER、古着屋memento町田店、CANNONBALL、Back Street）。既存9店舗の閉店情報は確認されず

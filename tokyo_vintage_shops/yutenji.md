@@ -16,6 +16,8 @@
 | rivet yutenji（リベット祐天寺） | 東京都目黒区中目黒5-28-14 セレーヌ祐天寺101 | 祐天寺駅（徒歩約5分） | https://www.instagram.com/rivet_yutenji/ |
 | GARDE-N730（ガーデンナナサンゼロ） | 東京都目黒区祐天寺1-15-4 第二山本ビル101 | 祐天寺駅（徒歩約5分） | https://www.instagram.com/garden730 |
 | HOLIDAY WORKS（ホリデーワークス） | 東京都目黒区祐天寺2-6-11 | 祐天寺駅（徒歩約3分） | https://www.instagram.com/holidayworks/ |
+| 電波赤丸（でんぱあかまる） | 東京都目黒区祐天寺2-6-11 1F | 祐天寺駅（徒歩約3分） | https://www.instagram.com/denpa.akamaru_clothing/ |
+| BRACKETS SETAGAYA（ブラケッツ セタガヤ） | 東京都世田谷区下馬1-10-6 | 祐天寺駅（徒歩約10分） | https://www.instagram.com/brackets_setagaya/ |
 
 ## 除外した店舗
 
@@ -28,3 +30,4 @@
 - 2026-07-22: 新規店舗8件を追加（Witty Vintage、SEIN、Newport Vintage、feets、ON THE HILL、Gabber、anthem_chill、rivet yutenji）。調査時にKATACHI・steefの閉店、nitakoの祐天寺店移転（現在は目黒区中央町へ移転済み）を確認したが、これらは既存表に未掲載だったため除外店舗欄への追記は行わず、追加対象からのみ除外した。
 - 2026-07-23: 新規店舗2件を追加（GARDE-N730、HOLIDAY WORKS）。Varde77は公式ブログにて2021年6月26日付で祐天寺店の閉店（表参道HOMEDICTへの直営店集約）を確認したため除外した店舗へ移動。
 - 2026-07-23: 新規店舗2件を追加（GARDE-N730、HOLIDAY WORKS）。Varde77は公式ブログで2021年6月26日の祐天寺店閉店・表参道HOMEDICTへの集約が確認できたため、除外した店舗欄へ移動した。
+- 2026-07-23: 新規店舗2件を追加（電波赤丸、BRACKETS SETAGAYA）。SUPERMARKET（祐天寺2-18-7）はオリジナルブランドRELAXFITの新作服が中心でビンテージ古着専門とは言えないため追加対象から除外した。
