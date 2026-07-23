@@ -23,10 +23,17 @@
 | Three Petals（スリーペタルズ）代官山 | 東京都渋谷区恵比寿西1-36-6 | 代官山駅 | https://www.instagram.com/threepetals/ |
 | ブプッピドゥー（Boop-Poop-A-Doop） | 東京都渋谷区猿楽町12-33 ハイツグレード1階 | 代官山駅 | 不明 |
 | ROSHE（ロシェ） | 不明 | 代官山駅 | 不明 |
+| natica（ナチカ） | 東京都渋谷区恵比寿西2-16-11 103 | 代官山駅 | https://www.instagram.com/natica_vintage/ |
+| gochic 代官山店（ゴシック） | 東京都渋谷区代官山町14-10 AU代官山2F | 代官山駅 | 不明 |
+| RUMHOLE beruf（ラムホール ベルーフ） | 東京都渋谷区恵比寿西1-32-3 | 代官山駅 | https://www.instagram.com/rumholeberuf/ |
 
 ## 除外した店舗
 
-（このエリア固有の除外はありません）
+- **Antiqulosium（アンティクロージアム）**: fashion-press.netで【閉店】表記あり、閉店を確認したため除外
+- **Fabsville（ファブスビル）**: 店舗情報サイト（kaiten-heiten.com）に【閉店】の記載あり（2017年閉店）のため除外
+- **O代官山（O）**: ビンテージも扱うが実態はセレクトショップ（現代デザイナーブランド中心）で専門店ではないため対象外
+- **CABOURG（カブール）**: 検索で得られた住所が恵比寿南3-7-10、Instagramハンドルも「ebisu.cabourg」であり、代官山エリアの店舗と確認できないため対象外
+- **Long Beach（ロングビーチ）**: 「代官山店」表記だが検索で得られた住所は神宮前4-4-11（表参道エリア）で、代官山エリアと確認できないため対象外
 
 ## 更新履歴
 
@@ -36,3 +43,4 @@
 - 2026-07-22: 新規3店舗を追加（PATINAS VINTAGE CLOSET（パティナス ヴィンテージクローゼット）、ALCATROCK（アルカトロック）、PHOTOS 代官山店（フォトス））。既存店舗の閉店は確認されず、除外なし。
 - 2026-07-23: 新規2店舗を追加（THE VINTAGE DRESS（ザ ヴィンテージ ドレス）、BEAU GESTE（ボージェスト））。既存店舗の閉店は確認されず、除外なし。
 - 2026-07-23: 新規3店舗を追加（Three Petals（スリーペタルズ）代官山、ブプッピドゥー（Boop-Poop-A-Doop）、ROSHE（ロシェ））。ブランド古着専門店（Brooch、Orbital Daikanyama、Kindal、BRAND JAPON）およびブランド公式店（AMERI VINTAGE）は対象外として追加せず。既存店舗の閉店は確認されず、除外なし。
+- 2026-07-23: 新規3店舗を追加（natica（ナチカ）、gochic 代官山店（ゴシック）、RUMHOLE beruf（ラムホール ベルーフ））。閉店を確認したAntiqulosium（アンティクロージアム）とFabsville（ファブスビル）、セレクトショップと判断したO代官山、エリア外と判断したCABOURG（カブール）とLong Beach（ロングビーチ）は「除外した店舗」に記載。既存掲載店舗の閉店は確認されず、既存店舗の除外なし。

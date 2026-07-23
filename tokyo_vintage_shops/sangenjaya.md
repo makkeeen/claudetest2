@@ -25,10 +25,16 @@
 | ORANGE GERBERA（オレンジガーベラ） | 東京都世田谷区太子堂2-4-11 ルブラン太子堂102 | 三軒茶屋駅（徒歩約6分） | https://www.instagram.com/orange.gerbera_vintage/ |
 | XXNT TOKYO（エックスエックスエヌティー トウキョウ） | 東京都世田谷区太子堂3-14-4 エスペランサ三軒茶屋3F | 三軒茶屋駅（徒歩約5分） | https://www.instagram.com/xxnt.tokyo/ |
 | yaiya（ヤイヤ） | 東京都世田谷区三軒茶屋1-33-18 平原マンション302 | 三軒茶屋駅 | https://www.instagram.com/_____310yaiya_/ |
+| oval（オーバル） | 東京都世田谷区三軒茶屋2-20-13 モナーク三軒茶屋1F | 三軒茶屋駅（徒歩約9分） | https://www.instagram.com/oval.tokyo/ |
+| SwingWood（スウィングウッド） | 東京都世田谷区太子堂4-5-2-202 | 三軒茶屋駅（徒歩約4分） | https://www.instagram.com/swingwood.official/ |
 
 ## 除外した店舗
 
 - **SAKASHITA**: ストリート/スポーツ系中心で「ビンテージ専門」と言い切れないため除外
+- **kindal（カインドオル三軒茶屋店）**: 全国展開のブランド古着買取販売チェーンで「ビンテージ専門」とは言い切れないため除外
+- **ガレージショップ246**: 幅広いブランドのUSED品を扱う買取販売店でビンテージ専門とは言えないため除外
+- **HAg-Le**: 最寄り駅が池ノ上駅（京王井の頭線）で三軒茶屋エリア外のため対象外
+- **sui・shara**: 住所（三軒茶屋1-36-3）が既存掲載のsui vintageと同一ブロックのため同一店舗と判断し重複掲載を回避
 
 ## 更新履歴
 
@@ -36,3 +42,4 @@
 - 2026-07-22: 新規店舗12件を追加（Agitation Free Sangenjaya、Arca vintage、ROSE VINTAGE、Ecle.、GASLAMP SQUARE、Miller Time、古着の一善、sui vintage、THREE、LUIK、ZIG、THRIFT SHOP ROOM）。既存3店舗の閉店は確認されず、除外なし。Miller TimeとTHRIFT SHOP ROOMはInstagramが検索結果にリンクとして確認できなかったため「不明」とした。
 - 2026-07-23: 新規店舗2件を追加（the light、樂商店）。既存店舗の閉店は確認されず、除外なし。候補のMAZE（三軒茶屋1-36-6）は閉店との記載があったため追加見送り。
 - 2026-07-23: 新規店舗4件を追加（HARU CLOTHING STORE、ORANGE GERBERA、XXNT TOKYO、yaiya）。既存店舗の閉店は確認されず、除外なし。候補の「翠-sui- 茶沢通り店」（太子堂4-27-11）とOku__vintage（Instagram: oku__vintage）は住所・実店舗の有無を裏付ける情報が得られなかったため追加見送り。
+- 2026-07-23: 新規店舗2件を追加（oval、SwingWood）。既存店舗の閉店は確認されず、除外なし。候補のkindal（カインドオル三軒茶屋店）とガレージショップ246はブランド古着買取販売チェーンでビンテージ専門と言い切れず、HAg-Leは最寄り駅が池ノ上でエリア外のため見送り。sui・sharaは既存のsui vintageと同一ブロック住所（三軒茶屋1-36-3）のため重複と判断し追加せず。
