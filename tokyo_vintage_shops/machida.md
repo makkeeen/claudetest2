@@ -18,10 +18,16 @@
 | 古着屋memento町田店（メメント） | 東京都町田市中町1-15-9 AUビル204 | 町田駅 | https://www.instagram.com/used.memento__machida/ |
 | CANNONBALL（キャノンボール） | 東京都町田市原町田2-8-1 町田KKビル202 | 町田駅（JR横浜線ターミナル口徒歩2分・小田急線東口徒歩10分） | 不明 |
 | Back Street（バックストリート） | 東京都町田市中町1-17-4 町田中町第一ビル2-E | 町田駅 | https://www.instagram.com/backstreetjp/ |
+| SELFURUGI 町田店（無人古着屋セルフルギ） | 東京都町田市原町田2-1-7 | 町田駅 | https://www.instagram.com/selfurugi_machida/ |
+| 西海岸ANCHOR 町田店（アンカー） | 東京都町田市原町田6-9-19 コビルナ町田1F | 町田駅（南口徒歩1分） | https://www.instagram.com/anchormachida/ |
+| 古着屋Rause 町田本店（ラウズ） | 東京都町田市原町田4-3-5 土方ビル | 町田駅 | https://www.instagram.com/rauseclothing/ |
+| PAULOWNIA53（ポロニア53） | 東京都町田市森野1-35-2 大竹ビル2B | 町田駅 | https://www.instagram.com/paulownia_53/ |
 
 ## 除外した店舗
 
-- **PAULOWIA53**: 詳細情報・Instagramが確認できず掲載見送り
+- **Vintage Sports 町田店**: 東京都町田市森野1-35-4 TM5ビル3F。サッカーユニフォーム専門店であり、一般的なビンテージ古着専門店ではないため掲載見送り
+- **古着屋3peace 町田東急ツインズ店（東京古着 町田東急ツインズ店とも）**: 地図サイトで閉店の可能性が示唆されており、店舗固有のInstagramリンクも確認できず掲載見送り
+- **流れ星商店**: まとめサイトに掲載はあるが実在・Instagramを確認できず掲載見送り
 
 ## 更新履歴
 
@@ -29,3 +35,4 @@
 - 2026-07-22: 追加調査により2店舗を追加（Top of the Hill 町田店、MONKEY vintage clothing store）。既存3店舗の閉店情報は確認されず
 - 2026-07-23: 追加調査により4店舗を追加（ULTRABO、DESERTSNOW 町田本店、ANTIQULTURE 町田、TREDICI）。既存5店舗の閉店情報は確認されず
 - 2026-07-23: 追加調査により5店舗を追加（JAM Clothing、COSMIC JUMPER、古着屋memento町田店、CANNONBALL、Back Street）。既存9店舗の閉店情報は確認されず
+- 2026-07-23: 追加調査により4店舗を追加（SELFURUGI 町田店、西海岸ANCHOR 町田店、古着屋Rause 町田本店、PAULOWNIA53）。PAULOWNIA53は前回「詳細情報・Instagramが確認できず」として除外していたが、今回住所とInstagramリンクを確認できたため掲載に変更。代わりにVintage Sports 町田店（サッカーユニフォーム専門店のため対象外）、古着屋3peace 町田東急ツインズ店（閉店の可能性・Instagram未確認）、流れ星商店（実在未確認）を除外店舗として記録。既存14店舗の閉店情報は確認されず
