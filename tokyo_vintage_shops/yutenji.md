@@ -18,6 +18,8 @@
 | HOLIDAY WORKS（ホリデーワークス） | 東京都目黒区祐天寺2-6-11 | 祐天寺駅（徒歩約3分） | https://www.instagram.com/holidayworks/ |
 | 電波赤丸（でんぱあかまる） | 東京都目黒区祐天寺2-6-11 1F | 祐天寺駅（徒歩約3分） | https://www.instagram.com/denpa.akamaru_clothing/ |
 | BRACKETS SETAGAYA（ブラケッツ セタガヤ） | 東京都世田谷区下馬1-10-6 | 祐天寺駅（徒歩約10分） | https://www.instagram.com/brackets_setagaya/ |
+| tonari（トナリ） | 東京都目黒区祐天寺2-8-1 | 祐天寺駅（徒歩約3分） | https://www.instagram.com/tonari.yutenji/ |
+| Unsung Hero（アンサング ヒーロー） | 東京都目黒区五本木2-13-2 1F | 祐天寺駅 | https://www.instagram.com/unsunghero_official_/ |
 
 ## 除外した店舗
 
@@ -31,3 +33,4 @@
 - 2026-07-23: 新規店舗2件を追加（GARDE-N730、HOLIDAY WORKS）。Varde77は公式ブログにて2021年6月26日付で祐天寺店の閉店（表参道HOMEDICTへの直営店集約）を確認したため除外した店舗へ移動。
 - 2026-07-23: 新規店舗2件を追加（GARDE-N730、HOLIDAY WORKS）。Varde77は公式ブログで2021年6月26日の祐天寺店閉店・表参道HOMEDICTへの集約が確認できたため、除外した店舗欄へ移動した。
 - 2026-07-23: 新規店舗2件を追加（電波赤丸、BRACKETS SETAGAYA）。SUPERMARKET（祐天寺2-18-7）はオリジナルブランドRELAXFITの新作服が中心でビンテージ古着専門とは言えないため追加対象から除外した。
+- 2026-07-23: 新規店舗2件を追加（tonari、Unsung Hero）。「BRACKETS 下馬」は既存掲載のBRACKETS SETAGAYA（世田谷区下馬1-10-6）と同一店舗と判断し重複追加せず。「sis」（祐天寺2-6-11）はHOLIDAY WORKS・電波赤丸と同一番地の情報源が古いブログ記事のみであったため重複または閉店の可能性が高く追加を見送った。リサイクルショップ ベクトル 祐天寺店はビンテージ古着専門店ではない一般リサイクルチェーンのため対象外。既存掲載店舗については閉店情報の有無を確認したが、新たな閉店は確認されなかった。
