@@ -20,6 +20,8 @@
 | blue room（ブルールーム） | 東京都渋谷区渋谷2-4-10 鈴木ビル102 | 渋谷駅 | https://www.instagram.com/blue_room___/ |
 | birthdeath（バースデス） | 東京都渋谷区神南1-9-4 NCビル1F-A | 渋谷駅 | https://www.instagram.com/birthdeath_tokyo/ |
 | 古着屋JAM 渋谷店（ふるぎやジャム） | 東京都渋谷区神南1-12-17 神南大井ビルB1F | 渋谷駅 | https://www.instagram.com/furugiya_jam_official/ |
+| DIFF LIMEN（ディフリメン） | 東京都渋谷区神南1-13-10 EGG BLDG 3F | 渋谷駅 | https://www.instagram.com/diff__limen/ |
+| TUNAGI JAPAN（ツナギジャパン） | 東京都渋谷区神南1-15-7 COENビル6F | 渋谷駅 | https://www.instagram.com/tunagijapan/ |
 
 ## 除外した店舗
 
@@ -41,6 +43,8 @@
 - **select7（セレクトセブン）**: 東京都渋谷区神南1-20-3。bazzstoreの説明によればハイブランド品の買取・販売を専門とする店舗であり、アメリカ・ヨーロッパ古着を中心としたビンテージ専門店とは言えないため追加を見送り
 - **Primal（プライマル）**: 東京都渋谷区神南1-13-3 ARK神南2F。timeout東京・bazzstoreの双方で「【閉店】」の記載があり、営業継続を確認できず新規追加を見送り
 - **Grimoire（グリモワール）**: 東京都渋谷区神南1-10-7 テルス神南7F。既存掲載のqosmos（東京都渋谷区神南1-10-7 テルス神南5F）と番地レベルで住所が一致するため重複と判断し追加を見送り
+- **TEENAGER（ティーンエイジャー）**: 東京都渋谷区神南1-3-2 3F（2026年3月に代々木上原から移転）。既存掲載のmericca（東京都渋谷区神南1-3-2 不二ビル3F）と番地・階数まで一致するため、同一物件内の重複または情報の混同の可能性が高いと判断し追加を見送り
+- **&Co.（アンドコー）**: 東京都渋谷区神南1-14-8 南部ビル303。店舗紹介記事でオーナー自身が「モードの流れを読み取った上で古着に落とし込む」セレクトショップと説明しており、ビンテージ古着専門店とは言えないため追加を見送り
 
 ## 更新履歴
 
@@ -49,3 +53,4 @@
 - 2026-07-22: 新規6店舗を追加（Hypnotique、NUDE TRUMP、DESPERATE LIVING、Sullen Tokyo、I&I、BOY）。既存2店舗は営業継続を確認し変更なし。閉店確認のRosy Baroque等は候補から除外し参考として記載
 - 2026-07-22: 新規7店舗を追加（Archive Store、qosmos、BLAXSMITH、mericca、HOOKED VINTAGE、blue room、birthdeath）。既存8店舗は営業継続を確認し変更なし。閉店確認のOFO・TheSunGoesDown1st、エリア範囲外のno pain no gain・AWASE、最寄り駅を確定できないBRACKETSは候補から除外し参考として記載
 - 2026-07-23: 新規1店舗を追加（古着屋JAM 渋谷店）。既存15店舗は営業継続を確認し変更なし。エリア範囲外のaNiKi、ビンテージ専門店とは言えないselect7、閉店確認のPrimal、既存qosmosと番地が一致し重複と判断したGrimoireは候補から除外し参考として記載
+- 2026-07-23: 追加調査により新規2店舗を追加（DIFF LIMEN、TUNAGI JAPAN）。既存17店舗は営業継続を確認し変更なし。既存mericcaと番地・階数が一致し重複の可能性が高いと判断したTEENAGER、ビンテージ専門店とは言えない&Co.は候補から除外し参考として記載
