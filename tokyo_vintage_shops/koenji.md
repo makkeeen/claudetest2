@@ -77,13 +77,28 @@
 | Fizz（フィズ） | 東京都杉並区高円寺南3-46-3 五明堂ビル1F | 高円寺駅 | https://www.instagram.com/fizz_vintage/ |
 | Slat 2号店（スラット2号店） | 東京都杉並区高円寺南4-24-8 | 高円寺駅（徒歩約3分） | https://www.instagram.com/slat_2nd_vintage/ |
 | DECADANCE（デカダンス） | 東京都杉並区高円寺南4-27-6-102 | 高円寺駅（徒歩約1分） | 不明 |
+| Comyu（コミュ） | 東京都杉並区高円寺南3-23-20 | 高円寺駅 | https://www.instagram.com/comyu_tokyo/ |
+| CeLL（セル） | 東京都杉並区高円寺南3-36-17-101 | 高円寺駅（徒歩約7分） | https://www.instagram.com/cell_clothing_koenji/ |
+| DowNy（ダウニー） | 東京都杉並区高円寺南4-12-1 杉並ビル1A | 高円寺駅（徒歩約7分） | https://www.instagram.com/downy_clothing_koenji/ |
+| Leberment 高円寺店（リベルマン） | 東京都杉並区高円寺南2-21-9 | 高円寺駅 | https://www.instagram.com/leberment_koenji_shop/ |
+| MECHA（メチャ） | 東京都杉並区高円寺南4-23-7 大国屋ビル202 | 高円寺駅 | https://www.instagram.com/mecha_vintage/ |
+| MAD SECTION（マッドセクション） | 東京都杉並区高円寺南4-24-11 宝山ビル108A | 高円寺駅 | https://www.instagram.com/madsection/ |
+| Safari 2号店（サファリ） | 東京都杉並区高円寺南3-47-8 高円寺ニューナショナルコート1F | 高円寺駅 | https://www.instagram.com/safari_kouenji.2/ |
+| Safari 3号店（サファリ） | 東京都杉並区高円寺南4-7-3 サンシャイン高円寺1F | 高円寺駅 | https://www.instagram.com/safari_kouenji_3/ |
+| Safari 5号店（サファリ） | 東京都杉並区高円寺南4-6-2 | 高円寺駅 | https://www.instagram.com/safari_kouenji5/ |
+| TERRAPIN STATION（テラピンステーション） | 東京都杉並区高円寺南2-49-10 | 高円寺駅 | 不明 |
 
 ## 除外した店舗
 
-- **SAFARI 2〜5号店**: 高円寺エリアに複数店舗展開しており、1号店（東京都杉並区高円寺南3-57-4）以外の各店舗の住所を一意に確定できないため保留（公式サイト：e-safari.co.jp）
+- **SAFARI 4号店**: 高円寺エリアに複数店舗展開しているSAFARIのうち、4号店のみ住所を一意に確定できないため保留（公式サイト：e-safari.co.jp）。1号店・2号店・3号店・5号店は住所を確認のうえ掲載済み。
 - **STEP AHEAD 高円寺店**: 原宿発祥・全国16店舗展開のレギュラー～ヴィンテージ古着チェーンで、単一店舗のビンテージ専門店とは性質が異なるため掲載を保留
 - **GREEN LIGHT（高円寺南4-28-11）**: 靴・バッグ専門店で衣料ビンテージ古着の専門店ではない可能性が高く、また号室情報を確認できず同住所のJuRianとの物件同一性を否定できないため保留
 - **PAPER MOON／ROIR（高円寺南3-46-5）**: 既存掲載のWEST LANE（東京都杉並区高円寺南3-46-5）と同一街区・同一番地で、号室情報が確認できず物件の同一性を判別できないため掲載を保留
+- **NoTE（高円寺南3-45-13）**: SAFARIプラス店として紹介する情報源がある同一番地（高円寺南3-45-13）と重複し、号室情報が確認できず物件の同一性を判別できないため掲載を保留
+- **leger（高円寺南4-24-4-1F）**: 既存掲載のJacob's Ladder（東京都杉並区高円寺南4-24-4 1F）と同一番地・同一階で、号室情報が確認できず物件の同一性を否定できないため掲載を保留
+- **PIG'S TAIL／adoluvle retrist（高円寺南2-22-5-1F）**: いずれも同一番地・同一階（1F）を称する情報源があり、号室情報が確認できず物件の同一性を判別できないため掲載を保留
+- **Tatouage by ZOOL（高円寺南2-48-9／3-45-1）**: 既存掲載のZOOL BAROMETZ（高円寺南2-48-9）およびFrescade（高円寺南3-45-1）と同一番地の情報源があり、同一ZOOLグループ店舗群のため物件の同一性を否定できず掲載を保留
+- **UK EXTRA**: 2024年3月3日に閉店したことが確認されたため掲載を見送り
 
 ## 更新履歴
 
@@ -94,3 +109,4 @@
 - 2026-07-23: 新規店舗8件を追加（Albatross 1号店、古着商大虎、Small Change、liberal、BIG TIME 高円寺店、AWESOME by BRING 高円寺店、SAFARI 1号店、FERANTRACING）。SAFARIは1号店の住所が確認できたため掲載し、除外理由を2〜5号店のみに更新。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 新規店舗10件を追加（encore、那由多、KIKI本店、即興、ガイジン、Marco Polo 高円寺LOOK店、Peep Cheep、inou、Bernet、Little Trip to Heaven 高円寺店）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 古着屋台帳的サイト（doppry、bazzstore、mensnonno等）を横断調査し、新規店舗29件を追加（Kissmet、Laugh by Kissmet、無人古着SLAT 高円寺店、Armajilo、Antler、OTSU、温古着新、CUBA、cravittra、Grandberry Jam、SALERS、HURRY UP、FIFTY-FIFTY、BROTHER、S.O、mouse、RUGGED、Re'all、Replay、SKROVA、zuccaro、CORD、RENGA 南口店、RENGA 北口店、LONGABU、Chago Chago BOUTIQUE & RICUR、Fizz、Slat 2号店、DECADANCE）。STEP AHEAD 高円寺店（全国チェーンのため）、GREEN LIGHT（靴・バッグ専門かつ号室不明でJuRianとの物件同一性を否定できないため）、PAPER MOON／ROIR（WEST LANEと同一番地で号室不明のため）を除外欄に追記。既存44店舗については閉店を示す情報源は見つからず削除なし。
+- 2026-07-23: 新規店舗10件を追加（Comyu、CeLL、DowNy、Leberment 高円寺店、MECHA、MAD SECTION、Safari 2号店、Safari 3号店、Safari 5号店、TERRAPIN STATION）。SAFARIは2号店・3号店・5号店の住所が確認できたため掲載し、除外理由を4号店のみに更新。NoTE、leger、PIG'S TAIL／adoluvle retrist、Tatouage by ZOOLは既存掲載店舗・候補店と同一番地で号室不明のため物件の同一性を否定できず除外欄に追記。UK EXTRAは2024年3月閉店が確認されたため掲載を見送り。既存73店舗については閉店を示す情報源は見つからず削除なし。
