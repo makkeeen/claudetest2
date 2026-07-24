@@ -1,6 +1,6 @@
 # 代々木上原駅 ビンテージ古着店
 
-最終更新: 2026-07-23
+最終更新: 2026-07-24
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | cache(art)te and glimmer | 東京都渋谷区西原3-2-5 四之宮ビル1F | 代々木上原駅（駅前・徒歩すぐ） | 不明 |
 | are you hungry? | 東京都渋谷区元代々木町9-2 | 代々木上原駅（東口・徒歩約5分） | https://www.instagram.com/hungry_areyou/ |
 | OKIDOKI 代々木上原（オキドキ） | 東京都渋谷区西原3-11-5 | 代々木上原駅（徒歩約1分） | https://www.instagram.com/okidoki_yoyogiuehara/ |
+| THE M.B（ザ・エムビー） | 東京都渋谷区上原2-43-6 | 代々木上原駅（徒歩約6分） | https://www.instagram.com/mbmbusa/ |
 
 ## 除外した店舗
 
@@ -25,6 +26,10 @@
 - **ARCHWAY（アーチウェイ）**: 「生活雑貨と古着のお店」として紹介されており、フリーマーケット的な雑貨・インテリア・食器類が中心でビンテージ古着専門店とは言い切れないため掲載を見送った
 - **タテイスカンナ**: 東京都渋谷区上原1-23-12、代々木上原駅から徒歩5分と駅は該当するが、オーナー自身が「ビンテージや古着ではなく新興ブランドを中心としたセレクトショップ」と説明しており、ビンテージ古着・中古品を扱っていないため掲載対象外
 - **AWASE・BRACKETS・madara vintage・ayahuasca_clothes（アヤワスカ洋服店）・KIARIS vintage&closet・The VINTAGING・beruf 富ヶ谷・BENJAMIN AUTHENTIC CLUB・セレクトショップ ナンバーミー**: いずれも最寄り駅が代々木上原以外（代々木公園・代々木八幡・東北沢・駒場東大前など）のため掲載を見送った
+- **Esmeralda Serviced Department**: 東京都渋谷区富ケ谷1-37-2 代々木松久ハイツ1F。ビンテージも取り扱うセレクトショップだが最寄り駅は代々木公園駅・代々木八幡駅（いずれも徒歩約5分）のため掲載対象外
+- **LOFTMAN TOKYO（ロフトマン トウキョウ）**: 東京都渋谷区上原1-35-1 ローズマンション代々木上原1F。かつて代々木上原駅近くに出店していたが、公式に営業終了（閉店）を発表しているため掲載対象外
+- **Chief vintage&clothing（チーフヴィンテージ）**: 代々木上原駅南口2から徒歩約30秒の実店舗は2022年11月に閉店し、現在はオンラインストア・ポップアップ・イベント出店のみで営業しているため掲載対象外
+- **Burnish・BACKDOOR supply・sunday people・lupus・Outil**: いずれも代々木上原エリアのセレクトショップだが、新品ブランドを中心に取り扱いビンテージ古着や中古品の取り扱いが確認できないため掲載対象外
 
 ## 更新履歴
 
@@ -34,3 +39,4 @@
 - 2026-07-23: 新規店舗を1店舗追加（3to8 Vintage apartment store）。追加調査でdojoe・sinot・Mr.Clean・Milli Vintage・Caro・放課後の思い出・BODE Tokyo・ORT（MALION vintage）を検討したが、最寄り駅が代々木上原以外（代々木八幡・代々木公園・幡ヶ谷など）である、またはビンテージ古着専門の中古販売店ではなくブランド直営店であるため、いずれも掲載を見送った
 - 2026-07-23: 新規店舗を2店舗追加（cache(art)te and glimmer、are you hungry?）。既存掲載店舗（CaNARi yoyogiuehara、fini asagi antiques、Swallow Equipments Vintage、ECHORD used&vintage、SNAK、SOLT、Color at Against、3to8 Vintage apartment store）は最新のブログ・特集記事等で引き続き営業中であることを確認し、閉店の兆候は見られなかった。追加調査でTEENAGER（代々木上原から渋谷へ移転済みのため除外）、ARCHWAY（雑貨中心でビンテージ古着専門店とは言い切れないため見送り）、AWASE・BRACKETS・madara vintage・ayahuasca_clothes・KIARIS vintage&closet・The VINTAGING・beruf 富ヶ谷・BENJAMIN AUTHENTIC CLUB・セレクトショップ ナンバーミー（いずれも最寄り駅が代々木上原以外）を検討したが、いずれも掲載を見送り除外した店舗セクションに記録した
 - 2026-07-23: 新規店舗を1店舗追加（OKIDOKI 代々木上原）。公式Instagram（@okidoki_yoyogiuehara）が複数の外部サイト（furugi-meguru.com本文中の実リンク、Pinterest、userlocal.jp）で確認できたため、これまで「除外した店舗」に記載していたOKIDOKI 代々木上原店を本表へ移動した。追加調査でdojoe・sinot・Mr.Cleanは最寄り駅が代々木上原より代々木八幡・代々木公園に近いことを再確認し引き続き見送り。タテイスカンナ（東京都渋谷区上原1-23-12、代々木上原駅徒歩5分）はオーナー自身が「ビンテージや古着ではなく新興ブランドを中心としたセレクトショップ」と説明しており対象外のため除外した店舗セクションに追記。cache(art)te and glimmerのInstagramは今回も検索結果の実リンクで確認できず「不明」のまま据え置き
+- 2026-07-24: 新規店舗を1店舗追加（THE M.B、東京都渋谷区上原2-43-6、公式サイトthe-mb.net内の実リンクでInstagram @mbmbusa を確認）。既存掲載11店舗は最新の記事・SNSで引き続き営業中を確認し閉店の兆候なし。追加調査でEsmeralda Serviced Department（最寄り駅が代々木公園・代々木八幡）、LOFTMAN TOKYO（公式に営業終了を発表済み）、Chief vintage&clothing（実店舗は2022年11月閉店、現在はオンライン・ポップアップのみ）、Burnish・BACKDOOR supply・sunday people・lupus・Outil（新品ブランド中心でビンテージ・中古の取り扱い未確認）を検討したが、いずれも掲載を見送り除外した店舗セクションに記録した

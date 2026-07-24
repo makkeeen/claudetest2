@@ -1,6 +1,6 @@
 # 高円寺駅 ビンテージ古着店
 
-最終更新: 2026-07-23
+最終更新: 2026-07-24
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -24,7 +24,6 @@
 | SPOT（スポット） | 東京都杉並区高円寺南4-40-22 1F | 高円寺駅 | https://www.instagram.com/spot__vintage/ |
 | Anthony（アンソニー） | 東京都杉並区高円寺南3-48-2-102 | 高円寺駅 | https://www.instagram.com/anthony_vintagecloset_/ |
 | はやとちり | 東京都杉並区高円寺北3-4-11 キタコレビル | 高円寺駅（徒歩約5分） | https://www.instagram.com/hayatochirikitakore/ |
-| WEST LANE（ウエストレーン） | 東京都杉並区高円寺南3-46-5 | 高円寺駅 | 不明 |
 | 黒BENZ（クロベンツ） | 東京都杉並区高円寺南4-24-12 | 高円寺駅（徒歩約2分） | https://www.instagram.com/clobenz_official/ |
 | ZOOL BAROMETZ（ズール バロメッツ） | 東京都杉並区高円寺南2-48-9 | 高円寺駅（徒歩約3分） | https://www.instagram.com/zool_barometz/ |
 | JuRian（ジュリアン） | 東京都杉並区高円寺南4-28-11 | 高円寺駅（徒歩約2分） | https://www.instagram.com/juriankoenji/ |
@@ -87,6 +86,21 @@
 | Safari 3号店（サファリ） | 東京都杉並区高円寺南4-7-3 サンシャイン高円寺1F | 高円寺駅 | https://www.instagram.com/safari_kouenji_3/ |
 | Safari 5号店（サファリ） | 東京都杉並区高円寺南4-6-2 | 高円寺駅 | https://www.instagram.com/safari_kouenji5/ |
 | TERRAPIN STATION（テラピンステーション） | 東京都杉並区高円寺南2-49-10 | 高円寺駅 | 不明 |
+| Albatross 2nd（アルバトロス2号店） | 東京都杉並区高円寺南4-6-1 2F | 高円寺駅 | https://www.instagram.com/albatross2nd_koenji/ |
+| PARA select&vintage（パラ セレクトアンドヴィンテージ） | 東京都杉並区高円寺南3-46-9 プラザU102 | 高円寺駅 | https://www.instagram.com/para._koenji/ |
+| ruruLi高円寺店（ルルリ） | 東京都杉並区高円寺南3-46-9 プラザU101 | 高円寺駅 | https://www.instagram.com/ruruli_koenji_pal/ |
+| margin（マージン） | 東京都杉並区高円寺北2-2-12 | 高円寺駅 | https://www.instagram.com/margin_store_koenji/ |
+| unstitch（アンスティッチ） | 東京都杉並区高円寺南3-45-13-203 | 高円寺駅（徒歩約5分） | https://www.instagram.com/unstitch_online/ |
+| umber（アンバー） | 東京都杉並区高円寺南3-46-10 2F | 高円寺駅（徒歩約4分） | https://www.instagram.com/umber_vintage/ |
+| Cat's paw（キャッツポー） | 東京都杉並区高円寺南2-48-7 | 高円寺駅（徒歩約6分） | https://www.instagram.com/cats__paw/ |
+| Hello Barbara（ハローバーバラ） | 東京都杉並区高円寺南3-37-25 丸山ビル1階 | 高円寺駅 | https://www.instagram.com/hellobarbara_vintage/ |
+| Marco Polo Pal（マルコポーロパル） | 東京都杉並区高円寺南4-7-9 | 高円寺駅（徒歩約4分） | 不明 |
+| BOZO（ボゾ） | 東京都杉並区高円寺南3-58-29 2F | 高円寺駅（徒歩約2分） | https://www.instagram.com/bozo_koenji/ |
+| BOZO2（ボゾ2） | 東京都杉並区高円寺南3-37-24 | 高円寺駅 | https://www.instagram.com/bozo2_koenji/ |
+| CASE used&select（ケース ユーズドアンドセレクト） | 東京都杉並区高円寺南4-6-12 1F | 高円寺駅 | https://www.instagram.com/case_koenji/ |
+| Fizz Look店（フィズルック） | 東京都杉並区高円寺南3-45-1 永和ビル高円寺202 | 高円寺駅（徒歩約5分） | https://www.instagram.com/fizz_vintage/ |
+| mepontego（メポンテゴ） | 東京都杉並区高円寺南3-44-13 | 高円寺駅 | 不明 |
+| More Tea Vicar?（モアティーヴィカー） | 東京都杉並区高円寺南3-59-13-101 | 高円寺駅 | 不明 |
 
 ## 除外した店舗
 
@@ -99,6 +113,10 @@
 - **PIG'S TAIL／adoluvle retrist（高円寺南2-22-5-1F）**: いずれも同一番地・同一階（1F）を称する情報源があり、号室情報が確認できず物件の同一性を判別できないため掲載を保留
 - **Tatouage by ZOOL（高円寺南2-48-9／3-45-1）**: 既存掲載のZOOL BAROMETZ（高円寺南2-48-9）およびFrescade（高円寺南3-45-1）と同一番地の情報源があり、同一ZOOLグループ店舗群のため物件の同一性を否定できず掲載を保留
 - **UK EXTRA**: 2024年3月3日に閉店したことが確認されたため掲載を見送り
+- **WEST LANE**: BAZZSTORE等の情報源（2024年10月17日付）で「【閉店】」と明記されていることが確認されたため、掲載表から除外
+- **HIMSELF（高円寺南4-24-2 2F）**: 既存掲載のNOW OR NEVER（高円寺南4-24-2 春口ビル2F）と同一番地・同一階で、物件の同一性を否定できないため掲載を保留
+- **JERRYZ**: 情報源により「南口徒歩5分、コナン通り沿い」と「高円寺北3-10-3」（既存掲載のRENGA 北口店と同一番地）という矛盾する所在地情報があり、住所を一意に確定できないため掲載を保留
+- **トレファクスタイル高円寺店／セカンドストリート高円寺店・高円寺2号店／モードオフ高円寺純情商店街店／リユースセレクトティファナ高円寺店**: 家具・家電等も幅広く扱う全国規模のリユース・リサイクルチェーンで、単一店舗の古着専門店・ビンテージセレクトショップとは性質が異なるため掲載を保留（STEP AHEAD高円寺店と同様の理由）
 
 ## 更新履歴
 
@@ -110,3 +128,4 @@
 - 2026-07-23: 新規店舗10件を追加（encore、那由多、KIKI本店、即興、ガイジン、Marco Polo 高円寺LOOK店、Peep Cheep、inou、Bernet、Little Trip to Heaven 高円寺店）。既存店舗の閉店は確認されず削除なし。
 - 2026-07-23: 古着屋台帳的サイト（doppry、bazzstore、mensnonno等）を横断調査し、新規店舗29件を追加（Kissmet、Laugh by Kissmet、無人古着SLAT 高円寺店、Armajilo、Antler、OTSU、温古着新、CUBA、cravittra、Grandberry Jam、SALERS、HURRY UP、FIFTY-FIFTY、BROTHER、S.O、mouse、RUGGED、Re'all、Replay、SKROVA、zuccaro、CORD、RENGA 南口店、RENGA 北口店、LONGABU、Chago Chago BOUTIQUE & RICUR、Fizz、Slat 2号店、DECADANCE）。STEP AHEAD 高円寺店（全国チェーンのため）、GREEN LIGHT（靴・バッグ専門かつ号室不明でJuRianとの物件同一性を否定できないため）、PAPER MOON／ROIR（WEST LANEと同一番地で号室不明のため）を除外欄に追記。既存44店舗については閉店を示す情報源は見つからず削除なし。
 - 2026-07-23: 新規店舗10件を追加（Comyu、CeLL、DowNy、Leberment 高円寺店、MECHA、MAD SECTION、Safari 2号店、Safari 3号店、Safari 5号店、TERRAPIN STATION）。SAFARIは2号店・3号店・5号店の住所が確認できたため掲載し、除外理由を4号店のみに更新。NoTE、leger、PIG'S TAIL／adoluvle retrist、Tatouage by ZOOLは既存掲載店舗・候補店と同一番地で号室不明のため物件の同一性を否定できず除外欄に追記。UK EXTRAは2024年3月閉店が確認されたため掲載を見送り。既存73店舗については閉店を示す情報源は見つからず削除なし。
+- 2026-07-24: 新規店舗15件を追加（Albatross 2nd、PARA select&vintage、ruruLi高円寺店、margin、unstitch、umber、Cat's paw、Hello Barbara、Marco Polo Pal、BOZO、BOZO2、CASE used&select、Fizz Look店、mepontego、More Tea Vicar?）。WEST LANEは複数情報源で閉店（【閉店】表記、2024年10月付）が確認されたため除外欄に移動。HIMSELF（NOW OR NEVERと同一番地・同一階）、JERRYZ（所在地情報が情報源間で矛盾）、および家具・家電等も扱う全国規模のリユースチェーン4店舗（トレファクスタイル、セカンドストリート2店舗、モードオフ、ティファナ）を除外欄に追記。既存83店舗のうちWEST LANE以外は閉店を示す情報源は見つからず削除なし。
