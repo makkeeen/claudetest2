@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-07-24
+最終更新: 2026-07-30
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -83,6 +83,10 @@
 | iot replay（イオットリプレイ） | 東京都世田谷区北沢2-24-9 | 下北沢駅 | https://www.instagram.com/iot_replay_/ |
 | NOTIME下北沢店 | 東京都世田谷区北沢2-19-17 サザン石井ビル | 下北沢駅（南口徒歩約3分） | https://www.instagram.com/notime_shimokita/ |
 | セカンドストリート下北沢東口店 | 東京都世田谷区北沢2-34-3 ミドキタ2F | 下北沢駅（東口/京王中央口徒歩約2分） | https://www.instagram.com/2ndstreet_official/（系列共通アカウント） |
+| bed下北沢店（ベッド） | 東京都世田谷区北沢2-26-4 和ビル2F | 下北沢駅（徒歩約3分） | https://www.instagram.com/bed_shimokitazawa/ |
+| mu（ムー） | 東京都世田谷区代沢5-9-12 | 下北沢駅 | https://www.instagram.com/mu._s_h_o_p_/ |
+| ABEsho 2nd（アベショーセカンド） | 東京都世田谷区北沢2-40-18 | 下北沢駅（徒歩約5分） | https://www.instagram.com/abesho_2nd/ |
+| balloonbala（バルンバラ） | 東京都世田谷区北沢3-30-1 1F | 下北沢駅（徒歩約5分） | https://www.instagram.com/balloonbala/ |
 
 ## 除外した店舗
 
@@ -101,3 +105,4 @@
 - 2026-07-23: ＃シモフルの店舗一覧・AVEND等の紹介記事を追加参照し、新規店舗7件を追加（古着屋haikara 下北沢店、HONEYWOOD、Early20、gochic 下北沢店、HAKUi、KiLLeRS、Butterfly Fall Vintage）。既存64店舗の閉店は確認されず、除外なし。なお、NeiN（北沢2-9-3）はGleeful下北沢店と同番地、Trevor Frank（北沢2-12-2）はLost Boy Tokyoと同番地、BETTER（北沢2-19-16）は古着屋 DOSTYLE下北沢店と同番地、OTSU TOKYO（北沢2-30-2 TRUST ONE 2F）はCOUOTSUと同番地・同建物のため、いずれも番地レベルの住所重複と判断し追加を見送り。3びきの子ねこ（ミカン下北店、北沢2-11-15）は今回追加したButterfly Fall Vintageと同番地（ミカン下北 東洋百貨店別館）のため見送り。AULD LANG SUN（北沢2-33-5）は今回追加した古着屋haikara 下北沢店と同番地で、複数の情報源でビル名が確認できず同一建物である可能性を排除できないため見送り（要再調査）。monalisa TOKYOは2023年closedが複数ソースで確認できたが本リスト未掲載のため除外セクションへの追加は不要と判断。シスコ（Cisco）系列（1号店・3号店・mini等）は店舗数・住所・Instagramアカウントの対応関係が情報源間で不明瞭なため、今回は見送り（次回以降の確認候補）。
 - 2026-07-24: 「I LOVE下北沢」「＃シモフル」「Travel Kurarin」「RushOut」等の紹介記事を追加参照し、新規店舗4件を追加（FINCH&SONS、Crook Vintage -SOUKO-、shara、Mél）。既存77店舗の閉店は確認されず、除外なし。なお、3peace下北沢店は「I LOVE下北沢」等で閉店済みと確認できたため追加を見送り（未掲載のため除外セクションへの追加は不要）。Vintage & used RAGLA MAGLA（北沢2-30-10）はM.G ITEMと同番地・同建物（浜辺ビル）、DARAM（北沢2-29-14）はirohaと同番地、RubyTuesday（代沢5-36-16）は古着屋MUMU 下北沢店と同番地・同建物（井上ビル）、HULAHOOP（北沢2-30-14）はDESERT SNOW 下北沢1号店と同番地・同建物（重宗ビル）、Re:Re:（リリ、北沢2-31-5）はswallow tail vintageと同番地、FINCH vintage & archive store（北沢2-37-17 ピエノ下北沢2F）はHONEYWOODと同番地・同建物のため、いずれも番地レベルの住所重複と判断し追加を見送り。SELEN・SPiKe・MICMO・The Thrift tokyo・スティックアウトは前回までの調査で既に重複判断済みのため再確認のみで見送り。
 - 2026-07-24: 対象範囲をビンテージ専門店に限らず定番の中古品を扱う古着店まで拡大して再調査し、AVEND「44選」記事・RushOut記事・メンズノンノ記事等を追加参照。新規店舗4件を追加（NOILL、iot replay、NOTIME下北沢店、セカンドストリート下北沢東口店）。NOTIME下北沢店は前回まで「ビンテージ専門店と明確に判断できない」として見送っていたが、対象範囲拡大により定番の中古品（アメカジ・バンドT等）を扱う古着店として追加。セカンドストリート下北沢東口店（北沢2-34-3 ミドキタ2F、2026年3月6日オープン）はゲオHDのプレスリリースでヴィンテージ・オールド古着に特化した販売専門コンセプトショップと確認できたため、前回の見送りを覆し追加（Instagramは店舗個別アカウントが確認できず、セカンドストリート公式アカウントへのリンクのみ確認できたため系列共通アカウントと明記）。既存81店舗の閉店は確認されず、除外なし。なお、808（旧ZIG系列、北沢2-16-3）は2023年12月に渋谷区神山町へ移転済みで下北沢エリア外となったため見送り。BETTER（北沢2-19-16）・ロマド・ロマン（北沢2-35-15）はそれぞれ古着屋 DOSTYLE下北沢店・X VINTAGEと同番地のため重複と判断し見送り。DAMAGEDONE・Step ahead下北沢（北沢2-30-10）、WEGO VINTAGE下北沢店・グリズリー下北沢店・The Thrift tokyo下北沢北口店（北沢2-29-3）、JARMUSCH VENTAGLIO（北沢2-29-14）、古着屋SELEN下北沢店・SPiKe（北沢2-35-15）、MICMO（北沢2-26-21）、MIMIC（代沢5-32-7）、古着屋スティックアウト（北沢2-14-16）、Re:Re:リリ（北沢2-31-5）は前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
+- 2026-07-30: RushOut「20店舗」前後編・AVEND各種記事・timeout.jp・fashion-press等を追加参照して再調査し、新規店舗4件を追加（bed下北沢店、mu、ABEsho 2nd、balloonbala）。既存85店舗の閉店は確認されず、除外なし。なお、CCX kitazawa（北沢2-12-2 若葉ハイツ202）はLost Boy Tokyo（同2-12-2 若葉ハイツ201）と同番地・同建物、FRANK BLACK（北沢2-30-7）はfuv vintage 下北沢（同2-30-7 2F）と同番地のため、いずれも重複と判断し見送り。ドンタク（Zondag、北沢2-36-6）は複数ソースで6月30日閉店・移転準備中と確認できたが本リスト未掲載のため除外セクションへの追加は不要と判断。素今歩（すこんぶ、ミカン下北店）はハンドメイドアクセサリー専門店で古着を扱っていないため対象外と判断し見送り。RubyTuesday・スティックアウト・Re:Re:（リリ）・HULAHOOP・The Thrift tokyo・DAMAGE DONE・WEGO VINTAGEは今回参照した新規情報源にも掲載されていたが、前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
