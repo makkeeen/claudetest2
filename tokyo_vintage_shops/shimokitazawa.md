@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-07-30
+最終更新: 2026-08-13
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -54,7 +54,6 @@
 | Rhythm9（リズム9） | 東京都世田谷区代沢5-31-8 | 下北沢駅 | https://www.instagram.com/rhythm9_shimokita/ |
 | 古着屋MUMU 下北沢店 | 東京都世田谷区代沢5-36-16 井上ビル1A | 下北沢駅 | https://www.instagram.com/mumu_shimokita/ |
 | kroneko（クロネコ）used store | 東京都世田谷区代沢5-28-12 藤田ビル1C | 下北沢駅（京王中央口徒歩約8分） | https://www.instagram.com/kroneko_used/ |
-| LOWECO by JAM 下北沢店 | 東京都世田谷区北沢2-12-4 新第２マツヤビル1階 | 下北沢駅（徒歩約1分） | https://www.instagram.com/loweco_shimokitazawa/ |
 | LOWECO by JAM 下北沢2号店 | 東京都世田谷区北沢2-14-16 北沢プラザ2階 | 下北沢駅（徒歩約2分） | https://www.instagram.com/loweco_shimokitazawa2nd/ |
 | Little Trip to Heaven 下北沢 | 東京都世田谷区北沢2-26-19 Hills-2 | 下北沢駅 | https://www.instagram.com/little_trip_to_heaven/ |
 | iot reverse（イオットリバース）下北沢店 | 東京都世田谷区北沢2-13-14 1F | 下北沢駅 | https://www.instagram.com/reverse_iot/ |
@@ -87,10 +86,15 @@
 | mu（ムー） | 東京都世田谷区代沢5-9-12 | 下北沢駅 | https://www.instagram.com/mu._s_h_o_p_/ |
 | ABEsho 2nd（アベショーセカンド） | 東京都世田谷区北沢2-40-18 | 下北沢駅（徒歩約5分） | https://www.instagram.com/abesho_2nd/ |
 | balloonbala（バルンバラ） | 東京都世田谷区北沢3-30-1 1F | 下北沢駅（徒歩約5分） | https://www.instagram.com/balloonbala/ |
+| Elulu by JAM 下北沢店（エルル バイ ジャム） | 東京都世田谷区北沢2-12-4 新第2マツヤビル1F | 下北沢駅（東口徒歩約2分） | https://www.instagram.com/elulu_shimokitazawa/ |
+| VELVET（ベルベット） | 東京都世田谷区北沢3-26-3 スズランビル1F | 下北沢駅（徒歩約2分） | https://www.instagram.com/velvet_shimokitazawa |
+| Small Change 下北沢（スモールチェンジ） | 東京都世田谷区北沢2-27-1 ヒルウエストクォドラント1F B号室 | 下北沢駅（徒歩約1分） | https://www.instagram.com/small_change_shimokitazawa/ |
+| Straight from L.A. Powered by BerBerJin Shimokitazawa | 東京都世田谷区北沢2-13-15 2F | 下北沢駅（東口徒歩約2分） | https://www.instagram.com/straightfromla_shimokitazawa/ |
 
 ## 除外した店舗
 
 - **HAIGHT&ASHBURY（ヘイトアンドアシュバリー）**: 2022年11月閉店を複数ソースで確認したため除外
+- **LOWECO by JAM 下北沢店**（北沢2-12-4 新第2マツヤビル1F）: JAM TRADING公式サイト・プレスリリースにて、同住所の路面店が2025年11月21日にレディース古着専門店「Elulu by JAM 下北沢店」としてリブランディング・グランドオープンしたことを確認したため除外（同住所で新規追加したElulu by JAM 下北沢店に統合）
 
 ## 更新履歴
 
@@ -106,3 +110,4 @@
 - 2026-07-24: 「I LOVE下北沢」「＃シモフル」「Travel Kurarin」「RushOut」等の紹介記事を追加参照し、新規店舗4件を追加（FINCH&SONS、Crook Vintage -SOUKO-、shara、Mél）。既存77店舗の閉店は確認されず、除外なし。なお、3peace下北沢店は「I LOVE下北沢」等で閉店済みと確認できたため追加を見送り（未掲載のため除外セクションへの追加は不要）。Vintage & used RAGLA MAGLA（北沢2-30-10）はM.G ITEMと同番地・同建物（浜辺ビル）、DARAM（北沢2-29-14）はirohaと同番地、RubyTuesday（代沢5-36-16）は古着屋MUMU 下北沢店と同番地・同建物（井上ビル）、HULAHOOP（北沢2-30-14）はDESERT SNOW 下北沢1号店と同番地・同建物（重宗ビル）、Re:Re:（リリ、北沢2-31-5）はswallow tail vintageと同番地、FINCH vintage & archive store（北沢2-37-17 ピエノ下北沢2F）はHONEYWOODと同番地・同建物のため、いずれも番地レベルの住所重複と判断し追加を見送り。SELEN・SPiKe・MICMO・The Thrift tokyo・スティックアウトは前回までの調査で既に重複判断済みのため再確認のみで見送り。
 - 2026-07-24: 対象範囲をビンテージ専門店に限らず定番の中古品を扱う古着店まで拡大して再調査し、AVEND「44選」記事・RushOut記事・メンズノンノ記事等を追加参照。新規店舗4件を追加（NOILL、iot replay、NOTIME下北沢店、セカンドストリート下北沢東口店）。NOTIME下北沢店は前回まで「ビンテージ専門店と明確に判断できない」として見送っていたが、対象範囲拡大により定番の中古品（アメカジ・バンドT等）を扱う古着店として追加。セカンドストリート下北沢東口店（北沢2-34-3 ミドキタ2F、2026年3月6日オープン）はゲオHDのプレスリリースでヴィンテージ・オールド古着に特化した販売専門コンセプトショップと確認できたため、前回の見送りを覆し追加（Instagramは店舗個別アカウントが確認できず、セカンドストリート公式アカウントへのリンクのみ確認できたため系列共通アカウントと明記）。既存81店舗の閉店は確認されず、除外なし。なお、808（旧ZIG系列、北沢2-16-3）は2023年12月に渋谷区神山町へ移転済みで下北沢エリア外となったため見送り。BETTER（北沢2-19-16）・ロマド・ロマン（北沢2-35-15）はそれぞれ古着屋 DOSTYLE下北沢店・X VINTAGEと同番地のため重複と判断し見送り。DAMAGEDONE・Step ahead下北沢（北沢2-30-10）、WEGO VINTAGE下北沢店・グリズリー下北沢店・The Thrift tokyo下北沢北口店（北沢2-29-3）、JARMUSCH VENTAGLIO（北沢2-29-14）、古着屋SELEN下北沢店・SPiKe（北沢2-35-15）、MICMO（北沢2-26-21）、MIMIC（代沢5-32-7）、古着屋スティックアウト（北沢2-14-16）、Re:Re:リリ（北沢2-31-5）は前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
 - 2026-07-30: RushOut「20店舗」前後編・AVEND各種記事・timeout.jp・fashion-press等を追加参照して再調査し、新規店舗4件を追加（bed下北沢店、mu、ABEsho 2nd、balloonbala）。既存85店舗の閉店は確認されず、除外なし。なお、CCX kitazawa（北沢2-12-2 若葉ハイツ202）はLost Boy Tokyo（同2-12-2 若葉ハイツ201）と同番地・同建物、FRANK BLACK（北沢2-30-7）はfuv vintage 下北沢（同2-30-7 2F）と同番地のため、いずれも重複と判断し見送り。ドンタク（Zondag、北沢2-36-6）は複数ソースで6月30日閉店・移転準備中と確認できたが本リスト未掲載のため除外セクションへの追加は不要と判断。素今歩（すこんぶ、ミカン下北店）はハンドメイドアクセサリー専門店で古着を扱っていないため対象外と判断し見送り。RubyTuesday・スティックアウト・Re:Re:（リリ）・HULAHOOP・The Thrift tokyo・DAMAGE DONE・WEGO VINTAGEは今回参照した新規情報源にも掲載されていたが、前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
+- 2026-08-13: JAM TRADING公式サイト・しもブロ・fashion-press「25選」・AVEND「44選」等を追加参照して再調査。既存店舗「LOWECO by JAM 下北沢店」（北沢2-12-4）は2025年11月21日付で同住所の路面店が「Elulu by JAM 下北沢店」としてリブランディング・グランドオープンしたことをJAM TRADING公式サイト・プレスリリースで確認したため除外し、新規に「Elulu by JAM 下北沢店」を追加（LOWECO by JAM 下北沢2号店は住所・営業とも変更なく存続を確認）。あわせて新規店舗3件を追加（VELVET、Small Change 下北沢、Straight from L.A. Powered by BerBerJin Shimokitazawa）。ほかの既存87店舗の閉店は確認されず。なお、バロン(VALON)・Lanp by VALON（北沢2-25-8 東洋百貨店No.23）は閉店を確認、ruruLi下北沢店（北沢2-26-10）も閉店を確認したがいずれも本リスト未掲載のため除外セクションへの追加は不要と判断。アントン(ANTON、北沢2-31-1 木村ビル301)は下北沢古着屋Re:Re: Gardenと同番地・同建物・同室番号のため重複と判断し見送り。フランクブラック・ウェドストア（北沢2-35-15）・LOWECO by JAM下北沢2号店（fashion-press記載の北沢2-31-7は情報不整合のため不採用）はいずれも既存店舗と番地レベルで重複のため見送り。MADO・shimokitazawa THREEは美容院・ライブハウスで対象外、きもの蜜月は着物専門のため対象外と判断し見送り。DESERT SNOW 3号店・5号店、グリズリー3号店・4号店・5号店、MICMO下北沢6号店、SUPER STUDIO R、西海岸Ruby's下北沢店、savers、SPiCe、シスコ下北沢店、thrift tokyo下北沢南口店は候補として把握したが、情報源間で住所表記の不整合が見られ確証が得られなかったため、次回以降の確認候補として今回は追加を見送り。
