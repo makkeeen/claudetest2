@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-08-13
+最終更新: 2026-08-15
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -90,6 +90,13 @@
 | VELVET（ベルベット） | 東京都世田谷区北沢3-26-3 スズランビル1F | 下北沢駅（徒歩約2分） | https://www.instagram.com/velvet_shimokitazawa |
 | Small Change 下北沢（スモールチェンジ） | 東京都世田谷区北沢2-27-1 ヒルウエストクォドラント1F B号室 | 下北沢駅（徒歩約1分） | https://www.instagram.com/small_change_shimokitazawa/ |
 | Straight from L.A. Powered by BerBerJin Shimokitazawa | 東京都世田谷区北沢2-13-15 2F | 下北沢駅（東口徒歩約2分） | https://www.instagram.com/straightfromla_shimokitazawa/ |
+| CIRCULABLE SUPPLY 下北沢店（サーキュラブルサプライ） | 東京都世田谷区代沢5-30-2 AG下北沢ビル1F | 下北沢駅（徒歩約5分） | https://www.instagram.com/circulable_supply/ |
+| Set Me Free | 東京都世田谷区北沢2-30-11 | 下北沢駅 | https://www.instagram.com/set_me_free_shimo/ |
+| signal（シグナル） | 東京都世田谷区北沢2-36-2 ヒルズ下北沢1F | 下北沢駅 | https://www.instagram.com/signal_shimokitazawa/ |
+| CYAN（シアン） | 東京都世田谷区北沢3-19-20 reload2-2 | 下北沢駅 | https://www.instagram.com/cyan_shimokita/ |
+| FORESTIÈRE（フォレスティエール） | 東京都世田谷区北沢3-19-20 reload2-4 | 下北沢駅 | https://www.instagram.com/forestiere.tokyo/ |
+| brick used clothing（ブリックユーズドクロージング） | 東京都世田谷区北沢2-39-15 コーラルリーフSKビル1F | 下北沢駅 | 不明 |
+| pisca pisca（ピスカピスカ） | 東京都世田谷区北沢2-8-5 2F | 下北沢駅（東通りエリア） | 不明 |
 
 ## 除外した店舗
 
@@ -111,3 +118,4 @@
 - 2026-07-24: 対象範囲をビンテージ専門店に限らず定番の中古品を扱う古着店まで拡大して再調査し、AVEND「44選」記事・RushOut記事・メンズノンノ記事等を追加参照。新規店舗4件を追加（NOILL、iot replay、NOTIME下北沢店、セカンドストリート下北沢東口店）。NOTIME下北沢店は前回まで「ビンテージ専門店と明確に判断できない」として見送っていたが、対象範囲拡大により定番の中古品（アメカジ・バンドT等）を扱う古着店として追加。セカンドストリート下北沢東口店（北沢2-34-3 ミドキタ2F、2026年3月6日オープン）はゲオHDのプレスリリースでヴィンテージ・オールド古着に特化した販売専門コンセプトショップと確認できたため、前回の見送りを覆し追加（Instagramは店舗個別アカウントが確認できず、セカンドストリート公式アカウントへのリンクのみ確認できたため系列共通アカウントと明記）。既存81店舗の閉店は確認されず、除外なし。なお、808（旧ZIG系列、北沢2-16-3）は2023年12月に渋谷区神山町へ移転済みで下北沢エリア外となったため見送り。BETTER（北沢2-19-16）・ロマド・ロマン（北沢2-35-15）はそれぞれ古着屋 DOSTYLE下北沢店・X VINTAGEと同番地のため重複と判断し見送り。DAMAGEDONE・Step ahead下北沢（北沢2-30-10）、WEGO VINTAGE下北沢店・グリズリー下北沢店・The Thrift tokyo下北沢北口店（北沢2-29-3）、JARMUSCH VENTAGLIO（北沢2-29-14）、古着屋SELEN下北沢店・SPiKe（北沢2-35-15）、MICMO（北沢2-26-21）、MIMIC（代沢5-32-7）、古着屋スティックアウト（北沢2-14-16）、Re:Re:リリ（北沢2-31-5）は前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
 - 2026-07-30: RushOut「20店舗」前後編・AVEND各種記事・timeout.jp・fashion-press等を追加参照して再調査し、新規店舗4件を追加（bed下北沢店、mu、ABEsho 2nd、balloonbala）。既存85店舗の閉店は確認されず、除外なし。なお、CCX kitazawa（北沢2-12-2 若葉ハイツ202）はLost Boy Tokyo（同2-12-2 若葉ハイツ201）と同番地・同建物、FRANK BLACK（北沢2-30-7）はfuv vintage 下北沢（同2-30-7 2F）と同番地のため、いずれも重複と判断し見送り。ドンタク（Zondag、北沢2-36-6）は複数ソースで6月30日閉店・移転準備中と確認できたが本リスト未掲載のため除外セクションへの追加は不要と判断。素今歩（すこんぶ、ミカン下北店）はハンドメイドアクセサリー専門店で古着を扱っていないため対象外と判断し見送り。RubyTuesday・スティックアウト・Re:Re:（リリ）・HULAHOOP・The Thrift tokyo・DAMAGE DONE・WEGO VINTAGEは今回参照した新規情報源にも掲載されていたが、前回までの調査で既に番地レベルの重複判断済みのため再確認のみで見送り。
 - 2026-08-13: JAM TRADING公式サイト・しもブロ・fashion-press「25選」・AVEND「44選」等を追加参照して再調査。既存店舗「LOWECO by JAM 下北沢店」（北沢2-12-4）は2025年11月21日付で同住所の路面店が「Elulu by JAM 下北沢店」としてリブランディング・グランドオープンしたことをJAM TRADING公式サイト・プレスリリースで確認したため除外し、新規に「Elulu by JAM 下北沢店」を追加（LOWECO by JAM 下北沢2号店は住所・営業とも変更なく存続を確認）。あわせて新規店舗3件を追加（VELVET、Small Change 下北沢、Straight from L.A. Powered by BerBerJin Shimokitazawa）。ほかの既存87店舗の閉店は確認されず。なお、バロン(VALON)・Lanp by VALON（北沢2-25-8 東洋百貨店No.23）は閉店を確認、ruruLi下北沢店（北沢2-26-10）も閉店を確認したがいずれも本リスト未掲載のため除外セクションへの追加は不要と判断。アントン(ANTON、北沢2-31-1 木村ビル301)は下北沢古着屋Re:Re: Gardenと同番地・同建物・同室番号のため重複と判断し見送り。フランクブラック・ウェドストア（北沢2-35-15）・LOWECO by JAM下北沢2号店（fashion-press記載の北沢2-31-7は情報不整合のため不採用）はいずれも既存店舗と番地レベルで重複のため見送り。MADO・shimokitazawa THREEは美容院・ライブハウスで対象外、きもの蜜月は着物専門のため対象外と判断し見送り。DESERT SNOW 3号店・5号店、グリズリー3号店・4号店・5号店、MICMO下北沢6号店、SUPER STUDIO R、西海岸Ruby's下北沢店、savers、SPiCe、シスコ下北沢店、thrift tokyo下北沢南口店は候補として把握したが、情報源間で住所表記の不整合が見られ確証が得られなかったため、次回以降の確認候補として今回は追加を見送り。
+- 2026-08-15: gotokyo.org・PR TIMES・vinty.jp・shimofuru.jp（下北沢古着店リスト163件）・ファッションプレス等を追加参照して再調査。新規店舗7件を追加（CIRCULABLE SUPPLY 下北沢店、Set Me Free、signal、CYAN、FORESTIÈRE、brick used clothing、pisca pisca）。CIRCULABLE SUPPLYはベイクルーズ運営のリユース古着ショップとして対象範囲に該当すると判断。brick used clothing・pisca picaはInstagramアカウントが検索結果内でリンクとして確認できなかったため不明と記載。既存95店舗の閉店は確認されず、除外なし。なお、Blonde on Blonde（北沢2-31-9）はSyuNaと同番地、フォーカス（北沢2-35-9）はCakaと同番地、LINK RAY（北沢2-26-17）はFINCH&SONSと同番地のため、いずれも既存店舗と番地レベルで重複と判断し追加を見送り。古着屋RAINBOW下北沢店はバズストアの記事で【閉店】表記が確認され現況が不確かなため、下北マーケット（シモキタマーケット、北沢2-34-11）は情報源が古く現在の営業状況を確認できなかったため、いずれも今回は追加を見送り（本リスト未掲載のため除外セクションへの追加は不要）。CYAN・FORESTIÈREは同じreload（北沢3-19-20）内の別ユニット（各々reload2-2・reload2-4）に入居する別店舗であることを確認した上で追加。shimofuru.jp掲載の残り約140店舗については、デザートスノー・グリズリー・MICMO・STEP AHEAD・Caka・FLAMINGO・BAZZSTORE・トレファクスタイル・スティックアウト等の各系列支店、シスコ系列、savers、SPiCe、西海岸Ruby's下北沢店等を含め、前回までに番地レベルで重複判断済みの系列や確証不足で見送り済みの候補が大半を占めることを確認したが、全件の再検証には至らず次回以降の確認候補とする。
