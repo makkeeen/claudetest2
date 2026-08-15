@@ -1,6 +1,6 @@
 # 原宿駅・明治神宮前駅 ビンテージ古着店
 
-最終更新: 2026-08-13
+最終更新: 2026-08-15
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -66,6 +66,8 @@
 | TORO Vintage Clothing（トロ） | 東京都渋谷区神宮前1-2-10 | 原宿駅 | https://www.instagram.com/torovintageclothing/ |
 | 西海岸ANCHOR竹下通り店（ニシカイガンアンカー） | 東京都渋谷区神宮前1-9-1 WHARF HARAJUKU 3F | 原宿駅 | https://www.instagram.com/nishikaigan_takeshitadori/ |
 | KINJI 原宿竹下通り店（キンジ） | 東京都渋谷区神宮前1-7-1 CUTE CUBE HARAJUKU 2F | 原宿駅 | https://www.instagram.com/kinji_harajukutakeshita/ |
+| banana boat（バナナボート） | 東京都渋谷区神宮前4-28-17 | 明治神宮前駅 | 不明 |
+| Caliente（カリエンテ） | 東京都渋谷区神宮前4-28-28 Lucessimoビル1F-A | 明治神宮前駅／原宿駅 | https://www.instagram.com/harajuku_caliente/ |
 
 ## 除外した店舗
 
