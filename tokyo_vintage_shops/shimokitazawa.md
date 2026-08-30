@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-08-20
+最終更新: 2026-08-30
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -99,6 +99,8 @@
 | pisca pisca（ピスカピスカ） | 東京都世田谷区北沢2-8-5 2F | 下北沢駅（東通りエリア） | 不明 |
 | 古着屋JAM 下北沢南口店 | 東京都世田谷区北沢2-15-16 シャイン北沢ビルB1F | 下北沢駅（徒歩約3分） | https://www.instagram.com/furugiya_jam_official/（系列共通アカウント） |
 | The Thrift tokyo下北沢南口店 | 東京都世田谷区代沢5-32-8 2F | 下北沢駅（徒歩約3分） | https://www.instagram.com/thrift_tokyo/（系列共通アカウント） |
+| TOKI CLOTHING STORE | 東京都世田谷区北沢2-26-10 マサキビル1F | 下北沢駅 | https://www.instagram.com/toki_clothing_store/ |
+| SkeletonLamp（スケルトンランプ） | 東京都世田谷区代田6-3-26 吉田店舗2F | 下北沢駅 | https://www.instagram.com/skeletonlamp/ |
 
 ## 除外した店舗
 
@@ -122,3 +124,4 @@
 - 2026-08-13: JAM TRADING公式サイト・しもブロ・fashion-press「25選」・AVEND「44選」等を追加参照して再調査。既存店舗「LOWECO by JAM 下北沢店」（北沢2-12-4）は2025年11月21日付で同住所の路面店が「Elulu by JAM 下北沢店」としてリブランディング・グランドオープンしたことをJAM TRADING公式サイト・プレスリリースで確認したため除外し、新規に「Elulu by JAM 下北沢店」を追加（LOWECO by JAM 下北沢2号店は住所・営業とも変更なく存続を確認）。あわせて新規店舗3件を追加（VELVET、Small Change 下北沢、Straight from L.A. Powered by BerBerJin Shimokitazawa）。ほかの既存87店舗の閉店は確認されず。なお、バロン(VALON)・Lanp by VALON（北沢2-25-8 東洋百貨店No.23）は閉店を確認、ruruLi下北沢店（北沢2-26-10）も閉店を確認したがいずれも本リスト未掲載のため除外セクションへの追加は不要と判断。アントン(ANTON、北沢2-31-1 木村ビル301)は下北沢古着屋Re:Re: Gardenと同番地・同建物・同室番号のため重複と判断し見送り。フランクブラック・ウェドストア（北沢2-35-15）・LOWECO by JAM下北沢2号店（fashion-press記載の北沢2-31-7は情報不整合のため不採用）はいずれも既存店舗と番地レベルで重複のため見送り。MADO・shimokitazawa THREEは美容院・ライブハウスで対象外、きもの蜜月は着物専門のため対象外と判断し見送り。DESERT SNOW 3号店・5号店、グリズリー3号店・4号店・5号店、MICMO下北沢6号店、SUPER STUDIO R、西海岸Ruby's下北沢店、savers、SPiCe、シスコ下北沢店、thrift tokyo下北沢南口店は候補として把握したが、情報源間で住所表記の不整合が見られ確証が得られなかったため、次回以降の確認候補として今回は追加を見送り。
 - 2026-08-15: gotokyo.org・PR TIMES・vinty.jp・shimofuru.jp（下北沢古着店リスト163件）・ファッションプレス等を追加参照して再調査。新規店舗7件を追加（CIRCULABLE SUPPLY 下北沢店、Set Me Free、signal、CYAN、FORESTIÈRE、brick used clothing、pisca pisca）。CIRCULABLE SUPPLYはベイクルーズ運営のリユース古着ショップとして対象範囲に該当すると判断。brick used clothing・pisca picaはInstagramアカウントが検索結果内でリンクとして確認できなかったため不明と記載。既存95店舗の閉店は確認されず、除外なし。なお、Blonde on Blonde（北沢2-31-9）はSyuNaと同番地、フォーカス（北沢2-35-9）はCakaと同番地、LINK RAY（北沢2-26-17）はFINCH&SONSと同番地のため、いずれも既存店舗と番地レベルで重複と判断し追加を見送り。古着屋RAINBOW下北沢店はバズストアの記事で【閉店】表記が確認され現況が不確かなため、下北マーケット（シモキタマーケット、北沢2-34-11）は情報源が古く現在の営業状況を確認できなかったため、いずれも今回は追加を見送り（本リスト未掲載のため除外セクションへの追加は不要）。CYAN・FORESTIÈREは同じreload（北沢3-19-20）内の別ユニット（各々reload2-2・reload2-4）に入居する別店舗であることを確認した上で追加。shimofuru.jp掲載の残り約140店舗については、デザートスノー・グリズリー・MICMO・STEP AHEAD・Caka・FLAMINGO・BAZZSTORE・トレファクスタイル・スティックアウト等の各系列支店、シスコ系列、savers、SPiCe、西海岸Ruby's下北沢店等を含め、前回までに番地レベルで重複判断済みの系列や確証不足で見送り済みの候補が大半を占めることを確認したが、全件の再検証には至らず次回以降の確認候補とする。
 - 2026-08-20: PR TIMES・JAM TRADING公式サイト・shimofuru.jp・vinty.jp等を追加参照して再調査。新規店舗2件を追加（古着屋JAM 下北沢南口店、The Thrift tokyo下北沢南口店）。古着屋JAM 下北沢南口店（北沢2-15-16 シャイン北沢ビルB1F、2025年10月3日オープン）はJAM TRADING公式プレスリリース・公式サイトの店舗ページで住所を確認し、既存の古着屋JAM下北沢店（北沢2-31-7）・LOWECO by JAM 下北沢2号店（北沢2-14-16）・Elulu by JAM 下北沢店（北沢2-12-4）のいずれとも番地が異なることを確認した上で追加（Instagramは店舗個別アカウントが確認できず公式サイトに記載のfurugiya_jam_official公式アカウントへのリンクのみのため系列共通アカウントと明記）。The Thrift tokyo下北沢南口店（代沢5-32-8 2F）はshimofuru.jp・vinty.jpで住所を確認し、既存店舗（原宿シカゴ代沢5-32-5、An vintage代沢5-32-7、古着屋KAKKO代沢5-32-10）と番地が異なることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、DESERT SNOW下北沢3号店（北沢2-15-16）はshimofuru.jp等で今回追加した古着屋JAM 下北沢南口店と同じ番地が確認されたが、情報源によって建物名が「下北沢CRビル」「シャイン北沢ビル」と食い違っており実際に同一建物か別建物か確証が得られなかったため、誤重複を避けるため今回は追加を見送り（次回以降の確認候補）。savers下北沢店（北沢2-14-16 北沢プラザ1F）はLOWECO by JAM 下北沢2号店（同2-14-16 北沢プラザ2階）と同番地・同建物のため重複と判断し見送り。SPiCe下北沢店は既存のSPiKe（北沢2-35-15、重複により見送り済み）と店舗名・所在情報が混同されている情報源が多く、独立した住所を確認できなかったため見送り。
+- 2026-08-30: RushOut「20店舗」前後編・AVEND「44選」・jamtrading「31店」・vinty.jp（リメイク古着屋6選）・shimofuru.jp等を追加参照して再調査。新規店舗2件を追加（TOKI CLOTHING STORE、SkeletonLamp）。TOKI CLOTHING STORE（北沢2-26-10 マサキビル1F）は既存店舗と番地が一致しないことを確認した上で追加。SkeletonLamp（代田6-3-26 吉田店舗2F）はKiLLeRS（代田6-5-25）とは異なる番地であることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、jamtrading記事のSHINO CLOTHING STORE（北沢2-40-18）はABEsho 2ndと同番地、MICMO下北沢1号店（北沢2-26-21）はGleeful下北沢2ndと同番地、terrace by lemontea（北沢2-26-25）はMONKと同番地のため重複と判断し見送り。vinty.jp記事のSHINKIRO（北沢2-11-15）はButterfly Fall Vintageと同番地（ミカン下北エリア）のため重複と判断し見送り。curb shimokitazawa（北沢2-40-17 ヒロンズビル1F）はNER（同2-40-17 ソレアード下北沢1F）と番地が一致するが情報源間で建物名が食い違い同一建物か確証が得られなかったため、誤重複を避け今回は追加を見送り（次回以降の確認候補）。
