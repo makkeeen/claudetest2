@@ -1,6 +1,6 @@
 # 吉祥寺駅 ビンテージ古着店
 
-最終更新: 2026-08-20
+最終更新: 2026-08-30
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -50,6 +50,8 @@
 | リサイクルブティックABC 吉祥寺店 | 東京都武蔵野市吉祥寺本町2-18-1 | 吉祥寺駅北口（徒歩約6分） | https://www.instagram.com/abc_recycle/（店舗専用ではなく全店共通の公式アカウントの可能性あり） |
 | Vintage Sports Football 吉祥寺店 | 東京都武蔵野市吉祥寺南町1-1-7 4F | 吉祥寺駅（徒歩約3分） | https://www.instagram.com/vintage_sports_football/（吉祥寺・渋谷・町田の複数店舗共通の公式アカウントの可能性あり） |
 | NoMen（ノーメン） | 東京都武蔵野市吉祥寺本町1-30-16 加藤ビル305 | 吉祥寺駅（徒歩約3分） | https://www.instagram.com/nomen_usedclothing/ |
+| 西海岸Ruby's吉祥寺店 | 東京都武蔵野市吉祥寺本町1-3-4（吉祥寺ダイヤ街） | 吉祥寺駅 | 不明 |
+| 西海岸ANCHOR コピス吉祥寺店 | 東京都武蔵野市吉祥寺本町1-11-5 コピス吉祥寺内 | 吉祥寺駅 | https://www.instagram.com/anchor_kichijoji_coppice |
 
 ## 除外した店舗
 
@@ -82,3 +84,4 @@
 - 2026-08-13: 新規追加店舗はなし。複数のまとめ記事（jamtrading.jp、avend.co.jp、tokyolucci.jp、vokka.jp、kurashi-no.jp等）を横断調査したが、候補に挙がったLittle Brothers・Crimie（南町1-16-11、SAFARIなない橋店と同一番地）、Trip Vintage Kichijoji（南町1-17-1、SELFURUGI吉祥寺店と同一番地）、アドギロブリハルヘビ（南町1-15-3、iti vintage clothing & humorと同一番地）、NEST AND EGGS（三鷹市、対象駅外）はいずれも既存の除外理由から状況変化なしと判断。新たにR-Cree.（アール・クリー、吉祥寺本町2-34-9）がバズストアで【閉店】と明記されているのを確認し除外欄に記録。既存掲載のYOUNGBLOODS（ヤングブラッズ）について、furugi-meguru.com等の複数情報源で公式Instagram（https://www.instagram.com/youngbloods_clothing/）がリンク付きで確認できたため、従来「不明」としていた項目を更新。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-08-15: 古着屋NoMen（ノーメン、吉祥寺本町1-30-16 加藤ビル305）を新規に1店舗追加。Men's Non-No等のメディアで紹介されており、公式Instagram（@nomen_usedclothing）がリンク付きで確認できたため掲載。複数のまとめ記事（jamtrading.jp、vokka.jp、tokyolucci.jp、media.thisisgallery.com、uridoki.net、aumo.jp等）を横断調査したが、他に候補となる未掲載店舗は見つからず、既存の除外理由（住所の番地一致、対象エリア外、閉店等）にも状況変化は確認できなかった。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-08-20: 新規追加店舗はなし。多数のまとめ記事・買取店紹介サイト（jamtrading.jp、vokka.jp、tokyolucci.jp、avend.co.jp、aumo.jp、media.thisisgallery.com、serasan-blog.com、57-rue-de-rome.com、uridoki.net、furugi-meguru.com（吉祥寺カテゴリ全3ページ）等）を横断調査し、新候補としてΣ SIGMA（シグマ、南町1-15-7）、Thrift tokyo吉祥寺店、One（ワン）/ONE KICHIJOJIの3店舗を調査したが、Σ SIGMAは既存掲載のdracaena吉祥寺本店と同一番地で重複の可能性が高いこと、Thrift tokyo吉祥寺店は実際の住所が下北沢エリアで吉祥寺の実店舗と確認できなかったこと、Oneは2021年に実店舗が閉店済みであることから、いずれも追加を見送り除外欄に記録。既存掲載店舗の閉店情報は新たに確認されなかった。
+- 2026-08-30: 吉祥寺ファンページ（kichifan.com）の開店情報をもとに新規2店舗を追加。（1）西海岸Ruby's吉祥寺店（東京都武蔵野市吉祥寺本町1-3-4・吉祥寺ダイヤ街、2026年7月25日オープン）。Instagramは検索結果にリンク付きで見つからなかったため「不明」と記載。（2）西海岸ANCHOR コピス吉祥寺店（東京都武蔵野市吉祥寺本町1-11-5・コピス吉祥寺内、2026年7月4日オープン）。公式サイト（coppice.jp）のショップページにリンクされていたInstagram（@anchor_kichijoji_coppice）を採用。いずれも既存掲載店とは番地が異なるため重複なしと判断。他に、jamtrading.jpのまとめ記事（35店舗掲載）を確認したが、掲載店はすべて既存掲載済みか、既存の除外理由（Little Brothers・Crimieは南町1-16-11でSAFARIなない橋店と同一番地、アドギロブリハルヘビは南町1-15-3でiti vintage clothing & humorと同一番地、Trip Vintage Kichijojiは南町1-17-1でSELFURUGI吉祥寺店と同一番地、NEST AND EGGSは三鷹市で対象エリア外）に該当し状況変化なし。吉祥寺エリアの2026年7月末・8月上旬・8月末の開店閉店まとめ記事（kichifan.com）も確認したが、上記2店舗以外に古着屋の開店・閉店情報はなかった。rise vintage&used clothingの住所、Σ SIGMAの重複可能性についても再調査したが新情報は得られず状況変化なし。既存掲載店舗の閉店情報は新たに確認されなかった。
