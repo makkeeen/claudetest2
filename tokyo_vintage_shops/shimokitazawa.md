@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-08-30
+最終更新: 2026-09-05
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -101,6 +101,9 @@
 | The Thrift tokyo下北沢南口店 | 東京都世田谷区代沢5-32-8 2F | 下北沢駅（徒歩約3分） | https://www.instagram.com/thrift_tokyo/（系列共通アカウント） |
 | TOKI CLOTHING STORE | 東京都世田谷区北沢2-26-10 マサキビル1F | 下北沢駅 | https://www.instagram.com/toki_clothing_store/ |
 | SkeletonLamp（スケルトンランプ） | 東京都世田谷区代田6-3-26 吉田店舗2F | 下北沢駅 | https://www.instagram.com/skeletonlamp/ |
+| Caka act3（カカアクトスリー） | 東京都世田谷区北沢2-1-8 河野ビル2F | 下北沢駅 | https://www.instagram.com/caka_act3/ |
+| 西海岸ANCHOR下北沢2号店 | 東京都世田谷区北沢2-11-3 イサミヤビル1F | 下北沢駅 | https://www.instagram.com/anchorshimokita2/ |
+| Huskies（ハスキーズ）下北沢 | 東京都世田谷区北沢2-13-13 | 下北沢駅 | https://www.instagram.com/huskies_shimokitazawa/ |
 
 ## 除外した店舗
 
@@ -125,3 +128,4 @@
 - 2026-08-15: gotokyo.org・PR TIMES・vinty.jp・shimofuru.jp（下北沢古着店リスト163件）・ファッションプレス等を追加参照して再調査。新規店舗7件を追加（CIRCULABLE SUPPLY 下北沢店、Set Me Free、signal、CYAN、FORESTIÈRE、brick used clothing、pisca pisca）。CIRCULABLE SUPPLYはベイクルーズ運営のリユース古着ショップとして対象範囲に該当すると判断。brick used clothing・pisca picaはInstagramアカウントが検索結果内でリンクとして確認できなかったため不明と記載。既存95店舗の閉店は確認されず、除外なし。なお、Blonde on Blonde（北沢2-31-9）はSyuNaと同番地、フォーカス（北沢2-35-9）はCakaと同番地、LINK RAY（北沢2-26-17）はFINCH&SONSと同番地のため、いずれも既存店舗と番地レベルで重複と判断し追加を見送り。古着屋RAINBOW下北沢店はバズストアの記事で【閉店】表記が確認され現況が不確かなため、下北マーケット（シモキタマーケット、北沢2-34-11）は情報源が古く現在の営業状況を確認できなかったため、いずれも今回は追加を見送り（本リスト未掲載のため除外セクションへの追加は不要）。CYAN・FORESTIÈREは同じreload（北沢3-19-20）内の別ユニット（各々reload2-2・reload2-4）に入居する別店舗であることを確認した上で追加。shimofuru.jp掲載の残り約140店舗については、デザートスノー・グリズリー・MICMO・STEP AHEAD・Caka・FLAMINGO・BAZZSTORE・トレファクスタイル・スティックアウト等の各系列支店、シスコ系列、savers、SPiCe、西海岸Ruby's下北沢店等を含め、前回までに番地レベルで重複判断済みの系列や確証不足で見送り済みの候補が大半を占めることを確認したが、全件の再検証には至らず次回以降の確認候補とする。
 - 2026-08-20: PR TIMES・JAM TRADING公式サイト・shimofuru.jp・vinty.jp等を追加参照して再調査。新規店舗2件を追加（古着屋JAM 下北沢南口店、The Thrift tokyo下北沢南口店）。古着屋JAM 下北沢南口店（北沢2-15-16 シャイン北沢ビルB1F、2025年10月3日オープン）はJAM TRADING公式プレスリリース・公式サイトの店舗ページで住所を確認し、既存の古着屋JAM下北沢店（北沢2-31-7）・LOWECO by JAM 下北沢2号店（北沢2-14-16）・Elulu by JAM 下北沢店（北沢2-12-4）のいずれとも番地が異なることを確認した上で追加（Instagramは店舗個別アカウントが確認できず公式サイトに記載のfurugiya_jam_official公式アカウントへのリンクのみのため系列共通アカウントと明記）。The Thrift tokyo下北沢南口店（代沢5-32-8 2F）はshimofuru.jp・vinty.jpで住所を確認し、既存店舗（原宿シカゴ代沢5-32-5、An vintage代沢5-32-7、古着屋KAKKO代沢5-32-10）と番地が異なることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、DESERT SNOW下北沢3号店（北沢2-15-16）はshimofuru.jp等で今回追加した古着屋JAM 下北沢南口店と同じ番地が確認されたが、情報源によって建物名が「下北沢CRビル」「シャイン北沢ビル」と食い違っており実際に同一建物か別建物か確証が得られなかったため、誤重複を避けるため今回は追加を見送り（次回以降の確認候補）。savers下北沢店（北沢2-14-16 北沢プラザ1F）はLOWECO by JAM 下北沢2号店（同2-14-16 北沢プラザ2階）と同番地・同建物のため重複と判断し見送り。SPiCe下北沢店は既存のSPiKe（北沢2-35-15、重複により見送り済み）と店舗名・所在情報が混同されている情報源が多く、独立した住所を確認できなかったため見送り。
 - 2026-08-30: RushOut「20店舗」前後編・AVEND「44選」・jamtrading「31店」・vinty.jp（リメイク古着屋6選）・shimofuru.jp等を追加参照して再調査。新規店舗2件を追加（TOKI CLOTHING STORE、SkeletonLamp）。TOKI CLOTHING STORE（北沢2-26-10 マサキビル1F）は既存店舗と番地が一致しないことを確認した上で追加。SkeletonLamp（代田6-3-26 吉田店舗2F）はKiLLeRS（代田6-5-25）とは異なる番地であることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、jamtrading記事のSHINO CLOTHING STORE（北沢2-40-18）はABEsho 2ndと同番地、MICMO下北沢1号店（北沢2-26-21）はGleeful下北沢2ndと同番地、terrace by lemontea（北沢2-26-25）はMONKと同番地のため重複と判断し見送り。vinty.jp記事のSHINKIRO（北沢2-11-15）はButterfly Fall Vintageと同番地（ミカン下北エリア）のため重複と判断し見送り。curb shimokitazawa（北沢2-40-17 ヒロンズビル1F）はNER（同2-40-17 ソレアード下北沢1F）と番地が一致するが情報源間で建物名が食い違い同一建物か確証が得られなかったため、誤重複を避け今回は追加を見送り（次回以降の確認候補）。
+- 2026-09-05: PR TIMES（AWESOME VINTAGE下北沢店開店告知）・shimofuru.jp店舗一覧・RushOut「20店舗」前後編・jamtrading「31店」・AVEND「44選」等を追加参照して再調査。新規店舗3件を追加（Caka act3、西海岸ANCHOR下北沢2号店、Huskies下北沢）。Caka act3（北沢2-1-8 河野ビル2F）・西海岸ANCHOR下北沢2号店（北沢2-11-3 イサミヤビル1F）・Huskies下北沢（北沢2-13-13）はいずれもshimofuru.jp店舗個別ページで住所とInstagramリンク（それぞれ@caka_act3、@anchorshimokita2、@huskies_shimokitazawa、いずれもページHTML内に実際のリンクとして確認）を確認し、既存98店舗と番地レベルで住所が一致しないことを確認した上で追加。既存店舗の閉店は確認されず、除外なし。なお、STAYGOLD社のプレスリリースにより9月11日グランドオープン予定の新店「AWESOME VINTAGE下北沢店」（北沢2-33-5 下北沢TKSビル1階WEST）を把握したが、同じ番地・同じビル名（下北沢TKSビル）に既存の古着屋haikara 下北沢店（北沢2-33-5 下北沢TKSビル1F）が所在しており、「WEST」表記のみでは同一フロア内の別区画か既存店との重複かを確証できなかったため、誤重複を避け今回は追加を見送り（開店後の現地情報で建物内の区画関係を再確認する次回以降の確認候補）。同じくDOSTYLE下北沢3号店（北沢2-19-15、公式サイトdostyle.jp記載）は既存の古着83下北沢店（同2-19-15 松下ビル2F）と番地が一致し、DOSTYLE側の情報源にはビル名の記載がなく同一建物か確証が得られなかったため、同様に見送り（次回以降の確認候補）。
