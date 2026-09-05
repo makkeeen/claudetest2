@@ -1,6 +1,6 @@
 # 代官山駅 ビンテージ古着店
 
-最終更新: 2026-08-30
+最終更新: 2026-09-05
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -28,8 +28,9 @@
 | Lookey Dookey（ルーキードゥーキー） | 東京都渋谷区恵比寿西1-18-4 | 代官山駅 | https://www.instagram.com/lookeydookey/ |
 | Hedy（ヘディ）代官山店 | 東京都渋谷区猿楽町26-8 | 代官山駅 | https://www.instagram.com/hedy_daikanyama/ |
 | umber_vintage（アンバー） | 東京都渋谷区代官山町14-10 2F | 代官山駅 | https://www.instagram.com/umber_vintage/ |
-| ambivalence（アンビバレンス） | 東京都渋谷区代官山町10-10 代官山トゥエルブ1-C | 代官山駅 | 不明 |
 | Brooch（ブローチ）代官山店 | 東京都渋谷区代官山町13-8-101 | 代官山駅 | https://www.instagram.com/brooch__daikanyama/ |
+| MAISON DE VII（メゾンドヴィ） | 東京都渋谷区猿楽町23-6 スコットサイド代官山1F | 代官山駅 | https://www.instagram.com/maisondevii_official/ |
+| Makers Pride of craft（メイカーズ）代官山店 | 東京都渋谷区代官山町10-10 代官山Twelve 1C | 代官山駅 | https://www.instagram.com/makersjapan/ |
 
 ## 除外した店舗
 
@@ -44,6 +45,7 @@
 - **BRAND JAPON（ブランドジャポン）代官山店**: 渋谷区代官山町。エルメス・シャネル・ルイヴィトン等の高級ブランドバッグ・アクセサリーの買取・販売が中心で、古着（衣料品）専門店とは言えないため対象外
 - **gochic 代官山店（ゴシック）**: 東京都渋谷区代官山町14-10 AU代官山2F。公式オンラインストア（gochic-vintage.myshopify.com）が案内する現行店舗は高円寺店・下北沢店の2店舗のみで代官山店の記載がなく、vinty.jpの店舗情報も高円寺の1店舗のみを掲載していることから、代官山店は閉店（下北沢へ移転）したと判断し除外
 - **WALK IN CLOSET 代官山（ウォークインクローゼット）**: 東京都渋谷区猿楽町23-5 クレイビル1F・B1F。ファッションブランド「MR.OLIVE（ミスターオリーブ、2003年設立）」の直営コンセプトショップで、1960〜80年代アメリカ・ヨーロッパカルチャーにインスパイアされた現行新品コレクションを販売する店舗であり、古着（中古品）を取り扱う店ではないため対象外
+- **ambivalence（アンビバレンス）**: 東京都渋谷区代官山町10-10 代官山トゥエルブ1-C。2018年6月に常盤台から移転オープンしたが、同住所・同区画（1階C区画）が2024年2月にシブテナで賃貸物件として再募集され同年9月までに入居者決定済みとなっていること、公式サイト（ambiva-lence.com）が名前解決不能でアクセス不可となっていること、同一住所（代官山Twelve 1C）に2024年11月時点で別事業者「Makers Pride of craft（メイカーズ）代官山店」の出店がInstagram投稿等で確認できることから、閉店（区画退去）したと判断し除外
 
 ## 更新履歴
 
@@ -61,3 +63,4 @@
 - 2026-08-13: 対象範囲をビンテージ古着専門店に限らず古着・グッドレギュラー（定番の中古品）を扱う店まで広げて再調査。新規1店舗を追加（Brooch（ブローチ）代官山店、代官山町13-8-101、fashion-press・folk-media・kurashi-no・brooch-usedselect.com等の複数情報源で所在確認、Instagramは検索結果にリンクとして出現した@brooch__daikanyamaを採用）。新たに検討したカインドオル代官山店（kindal）、ORBITAL（オービタル）代官山店、BRAND JAPON（ブランドジャポン）代官山店は、いずれも全国・複数店舗展開のリユースチェーンまたはブランドバッグ買取中心の店で「古着専門店」とは言えないため「除外した店舗」に理由付きで記載。既存掲載27店舗の閉店情報は確認されず、既存店舗の除外なし。
 - 2026-08-20: 新規追加店舗なし。fashion-press17選（全ページ）・folk-media・kurashi-no・noel-media・thisismedia・morewant-vintage・timeout・buzztter(とらのこ)・note等の複数情報源を再調査したが、既存掲載店舗・既存除外店舗（AMERI VINTAGE、Antiqulosium、Fabsville、Kindal、ORBITAL、BRAND JAPON等）以外の新規ビンテージ・古着店は確認できず。買取専門店「おたからや代官山アドレス・ディセ店」（代官山町17-6）を新たに確認したが、貴金属・ブランドバッグ・時計中心の買取店で衣料品（古着）を扱う店ではないため対象外と判断し追加せず。既存掲載店舗のうちgochic代官山店（ゴシック、代官山町14-10 AU代官山2F）について、公式オンラインストア（gochic-vintage.myshopify.com）が案内する現行店舗が高円寺店・下北沢店の2店舗のみとなっており代官山店の記載がなく、vinty.jpの店舗情報も高円寺の1店舗のみを掲載していることから、代官山店は閉店（下北沢へ移転）したと判断し「除外した店舗」に理由付きで移動。他の既存掲載店舗の閉店は確認されず。
 - 2026-08-30: 新規追加店舗なし。fashion-press17選（全ページ・写真ページ含む）・fashion-pressマップ一覧・kurashi-no・folk-media・thisismedia・cuty・furugi-meguru・lemon8・mensnonno等の複数情報源、およびInstagram検索を再調査。新たにWALK IN CLOSET 代官山（猿楽町23-5、@w.i.c_daikanyama）を発見したが、公式サイト（mr-olive.net）等でファッションブランド「MR.OLIVE」の直営コンセプトショップであり、ヴィンテージにインスパイアされた現行新品コレクションを販売する店（古着の取り扱いなし）と確認できたため「除外した店舗」に理由付きで記載。既存掲載28店舗の閉店情報は確認されず（ROSHE・PHOTOS代官山店等も含め検索したが閉店の言及なし）、既存店舗の除外なし。
+- 2026-09-05: 新規2店舗を追加（MAISON DE VII（メゾンドヴィ）、猿楽町23-6 スコットサイド代官山1F、代官山駅徒歩3分・公式サイトmaisondevii.comでバッグ・ジュエリー・アクセサリー・シューズに加え衣料品（CLOTHING）も扱うヴィンテージセレクトショップと確認、Instagramは@maisondevii_officialを検索結果のリンクから採用／Makers Pride of craft（メイカーズ）代官山店、代官山町10-10 代官山Twelve 1C、公式サイトmakers-japan.co.jpでオーダージーンズに加え「30年かけて集めたヴィンテージウェアとGOODS」の販売を確認、Instagramは公式サイト内のリンク@makersjapanを採用）。既存掲載店舗のうちambivalence（アンビバレンス、代官山町10-10 代官山トゥエルブ1-C）について、同一区画（1階C区画）が2024年2月にシブテナで賃貸再募集され同年9月までに入居者決定済みとなっていること、公式サイト（ambiva-lence.com）が名前解決不能であること、同住所に2024年11月時点で別事業者Makers Pride of craftの出店が確認できることから閉店（区画退去）と判断し「除外した店舗」に理由付きで移動。tokyochuko.comの代官山エリア一覧で新たに発見したaNiKi USED&VINTAGE（渋谷区円山町1-17、最寄り駅は神泉駅から293mと確認）はエリア外と判断し追加せず、LAYER VINTAGE（代官山町16-11 カステイヨ代官山401、既存除外店舗BRAND JAPONと同一住所・同室番号401で同一運営「LAYER VINTAGE by BRAND JAPON」と確認）はバッグ・アクセサリー中心で衣料品取り扱いが確認できず、既存のBRAND JAPON除外理由と同一のため追加せず。他の既存掲載店舗の閉店は確認されず。
