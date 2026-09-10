@@ -1,6 +1,6 @@
 # 下北沢駅 ビンテージ古着店
 
-最終更新: 2026-09-05
+最終更新: 2026-09-10
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -104,6 +104,26 @@
 | Caka act3（カカアクトスリー） | 東京都世田谷区北沢2-1-8 河野ビル2F | 下北沢駅 | https://www.instagram.com/caka_act3/ |
 | 西海岸ANCHOR下北沢2号店 | 東京都世田谷区北沢2-11-3 イサミヤビル1F | 下北沢駅 | https://www.instagram.com/anchorshimokita2/ |
 | Huskies（ハスキーズ）下北沢 | 東京都世田谷区北沢2-13-13 | 下北沢駅 | https://www.instagram.com/huskies_shimokitazawa/ |
+| シスコ下北沢店（1号店） | 東京都世田谷区北沢2-12-7 cosmy下北沢1階 | 下北沢駅（徒歩約30秒） | https://www.instagram.com/cisco__shimokita/（系列共通アカウント） |
+| シスコ下北沢3号店 | 東京都世田谷区北沢2-15-15 龍生堂下北沢ビル | 下北沢駅（徒歩約3分） | https://www.instagram.com/cisco__shimokita/（系列共通アカウント） |
+| シスコmini下北沢 | 東京都世田谷区北沢2-24-7 フラワービル1階 | 下北沢駅 | https://www.instagram.com/cisco_mini_shimokita/ |
+| カインドオル下北沢店 | 東京都世田谷区北沢2-26-18 アーバンテラス下北沢202 | 下北沢駅 | https://www.instagram.com/kindal.shimokitazawa/ |
+| Husky shimokitazawa | 東京都世田谷区北沢2-32-4 | 下北沢駅 | https://www.instagram.com/husky_shimokitazawa/ |
+| Husky（ハスキー） | 東京都世田谷区北沢2-34-10 植木ビル2F | 下北沢駅 | https://www.instagram.com/husky__tokyo/ |
+| FLAMINGO下北沢店2nd | 東京都世田谷区北沢2-37-2 | 下北沢駅 | https://www.instagram.com/flamingo_2nd/ |
+| FLAMINGO下北沢店3rd | 東京都世田谷区北沢2-30-10 瀧本ビル1F 1号 | 下北沢駅 | https://www.instagram.com/flamingo_3rd/ |
+| Thrifty Coffee（スリフティーコーヒー） | 東京都世田谷区代沢5-32-8 1F | 下北沢駅 | https://www.instagram.com/thrifty_coffee_tokyo/ |
+| BAZZSTORE下北沢北口店 | 東京都世田谷区北沢2-31-3 | 下北沢駅（徒歩約2分） | https://www.instagram.com/bazzstore/（系列共通アカウント） |
+| MarcoPolo TOYO（マルコポーロトーヨー） | 東京都世田谷区北沢2-25-8 東洋百貨店内 | 下北沢駅 | 不明 |
+| プチコション東洋百貨店 | 東京都世田谷区北沢2-25-8 東洋百貨店内 | 下北沢駅 | 不明 |
+| a room 東洋百貨店下北沢古着屋 | 東京都世田谷区北沢2-25-8 東洋百貨店11ブース | 下北沢駅 | 不明 |
+| Jesus Judas（ジーザスジューダス） | 東京都世田谷区北沢2-25-8 東洋百貨店 No.9 | 下北沢駅 | https://www.instagram.com/jesusjudas_sns2/ |
+| USEDクロネコマリン下北沢店 | 東京都世田谷区北沢2-25-8 東洋百貨店内15 | 下北沢駅 | https://www.instagram.com/shimokita.9625marin/ |
+| SMOG（スモッグ）東洋百貨店店 | 東京都世田谷区北沢2-25-8 東洋百貨店内 | 下北沢駅 | https://www.instagram.com/shimokitazawa_smog/ |
+| BLUE ROSE（ブルーローズ） | 東京都世田谷区北沢2-25-8 東洋百貨店内 | 下北沢駅 | 不明 |
+| Setagayafurugi（セタガヤフルギ） | 東京都世田谷区北沢2-25-8 東洋百貨店 19&20 | 下北沢駅 | 不明 |
+| ROOM NUMBER 10（ルームナンバーテン） | 東京都世田谷区北沢2-25-8 東洋百貨店 10 | 下北沢駅 | 不明 |
+| 3びきの子ねこ（東洋百貨店店） | 東京都世田谷区北沢2-25-8 東洋百貨店内 | 下北沢駅 | 不明 |
 
 ## 除外した店舗
 
@@ -129,3 +149,4 @@
 - 2026-08-20: PR TIMES・JAM TRADING公式サイト・shimofuru.jp・vinty.jp等を追加参照して再調査。新規店舗2件を追加（古着屋JAM 下北沢南口店、The Thrift tokyo下北沢南口店）。古着屋JAM 下北沢南口店（北沢2-15-16 シャイン北沢ビルB1F、2025年10月3日オープン）はJAM TRADING公式プレスリリース・公式サイトの店舗ページで住所を確認し、既存の古着屋JAM下北沢店（北沢2-31-7）・LOWECO by JAM 下北沢2号店（北沢2-14-16）・Elulu by JAM 下北沢店（北沢2-12-4）のいずれとも番地が異なることを確認した上で追加（Instagramは店舗個別アカウントが確認できず公式サイトに記載のfurugiya_jam_official公式アカウントへのリンクのみのため系列共通アカウントと明記）。The Thrift tokyo下北沢南口店（代沢5-32-8 2F）はshimofuru.jp・vinty.jpで住所を確認し、既存店舗（原宿シカゴ代沢5-32-5、An vintage代沢5-32-7、古着屋KAKKO代沢5-32-10）と番地が異なることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、DESERT SNOW下北沢3号店（北沢2-15-16）はshimofuru.jp等で今回追加した古着屋JAM 下北沢南口店と同じ番地が確認されたが、情報源によって建物名が「下北沢CRビル」「シャイン北沢ビル」と食い違っており実際に同一建物か別建物か確証が得られなかったため、誤重複を避けるため今回は追加を見送り（次回以降の確認候補）。savers下北沢店（北沢2-14-16 北沢プラザ1F）はLOWECO by JAM 下北沢2号店（同2-14-16 北沢プラザ2階）と同番地・同建物のため重複と判断し見送り。SPiCe下北沢店は既存のSPiKe（北沢2-35-15、重複により見送り済み）と店舗名・所在情報が混同されている情報源が多く、独立した住所を確認できなかったため見送り。
 - 2026-08-30: RushOut「20店舗」前後編・AVEND「44選」・jamtrading「31店」・vinty.jp（リメイク古着屋6選）・shimofuru.jp等を追加参照して再調査。新規店舗2件を追加（TOKI CLOTHING STORE、SkeletonLamp）。TOKI CLOTHING STORE（北沢2-26-10 マサキビル1F）は既存店舗と番地が一致しないことを確認した上で追加。SkeletonLamp（代田6-3-26 吉田店舗2F）はKiLLeRS（代田6-5-25）とは異なる番地であることを確認した上で追加。既存97店舗の閉店は確認されず、除外なし。なお、jamtrading記事のSHINO CLOTHING STORE（北沢2-40-18）はABEsho 2ndと同番地、MICMO下北沢1号店（北沢2-26-21）はGleeful下北沢2ndと同番地、terrace by lemontea（北沢2-26-25）はMONKと同番地のため重複と判断し見送り。vinty.jp記事のSHINKIRO（北沢2-11-15）はButterfly Fall Vintageと同番地（ミカン下北エリア）のため重複と判断し見送り。curb shimokitazawa（北沢2-40-17 ヒロンズビル1F）はNER（同2-40-17 ソレアード下北沢1F）と番地が一致するが情報源間で建物名が食い違い同一建物か確証が得られなかったため、誤重複を避け今回は追加を見送り（次回以降の確認候補）。
 - 2026-09-05: PR TIMES（AWESOME VINTAGE下北沢店開店告知）・shimofuru.jp店舗一覧・RushOut「20店舗」前後編・jamtrading「31店」・AVEND「44選」等を追加参照して再調査。新規店舗3件を追加（Caka act3、西海岸ANCHOR下北沢2号店、Huskies下北沢）。Caka act3（北沢2-1-8 河野ビル2F）・西海岸ANCHOR下北沢2号店（北沢2-11-3 イサミヤビル1F）・Huskies下北沢（北沢2-13-13）はいずれもshimofuru.jp店舗個別ページで住所とInstagramリンク（それぞれ@caka_act3、@anchorshimokita2、@huskies_shimokitazawa、いずれもページHTML内に実際のリンクとして確認）を確認し、既存98店舗と番地レベルで住所が一致しないことを確認した上で追加。既存店舗の閉店は確認されず、除外なし。なお、STAYGOLD社のプレスリリースにより9月11日グランドオープン予定の新店「AWESOME VINTAGE下北沢店」（北沢2-33-5 下北沢TKSビル1階WEST）を把握したが、同じ番地・同じビル名（下北沢TKSビル）に既存の古着屋haikara 下北沢店（北沢2-33-5 下北沢TKSビル1F）が所在しており、「WEST」表記のみでは同一フロア内の別区画か既存店との重複かを確証できなかったため、誤重複を避け今回は追加を見送り（開店後の現地情報で建物内の区画関係を再確認する次回以降の確認候補）。同じくDOSTYLE下北沢3号店（北沢2-19-15、公式サイトdostyle.jp記載）は既存の古着83下北沢店（同2-19-15 松下ビル2F）と番地が一致し、DOSTYLE側の情報源にはビル名の記載がなく同一建物か確証が得られなかったため、同様に見送り（次回以降の確認候補）。
+- 2026-09-10: shimofuru.jp店舗一覧・k-toyo.jp（東洋百貨店公式サイト）・WWDJAPAN・PR TIMES等を追加参照して再調査し、これまで未調査だった北沢2-25-8「東洋百貨店」内の個別テナント群およびシスコ系列・Husky系列等を中心に新規店舗20件を追加（シスコ下北沢店（1号店）、シスコ下北沢3号店、シスコmini下北沢、カインドオル下北沢店、Husky shimokitazawa、Husky、FLAMINGO下北沢店2nd、FLAMINGO下北沢店3rd、Thrifty Coffee、BAZZSTORE下北沢北口店、MarcoPolo TOYO、プチコション東洋百貨店、a room 東洋百貨店下北沢古着屋、Jesus Judas、USEDクロネコマリン下北沢店、SMOG東洋百貨店店、BLUE ROSE、Setagayafurugi、ROOM NUMBER 10、3びきの子ねこ（東洋百貨店店））。東洋百貨店内の各店舗はk-toyo.jp公式テナント一覧（Marco Polo、SMOG、Jesus Judas、Room 10、a-room、Blue Rose等）とshimofuru.jpの個別店舗ページの番地・部屋番号表記が符合することを確認した上で追加し、既存店舗と番地レベルで重複しないことを確認済み（北沢2-25-8は既存掲載店舗になし）。Husky shimokitazawa（北沢2-32-4）・Husky（北沢2-34-10植木ビル2F）は、いずれも既存のHuskies下北沢（北沢2-13-13）と住所・Instagramアカウントが異なる別店舗であることを確認した上で追加。FLAMINGO下北沢店3rd（北沢2-30-10瀧本ビル1F）は同番地の既存M.G ITEM（浜辺ビル）と番地は同じだがビル名が異なるため別建物と判断し追加。Thrifty Coffee（代沢5-32-8 1F）は既存The Thrift tokyo下北沢南口店（同5-32-8 2F）と同番地だが階数が異なる別テナントと判断し追加。カインドオル下北沢店は2025年2月の移転後住所（北沢2-26-18）で既存店舗との重複がないことを確認し、対象範囲拡大方針に基づきブランド古着買取販売チェーンとして追加。既存106店舗の閉店は確認されず、除外なし。なお、Caka act2（北沢2-30-10浜辺ビル1F）はM.G ITEMと同番地・同建物のため、HOOCHIE COOCHIE（北沢2-30-2）はCOUOTSU・OTSU TOKYOと同番地のため、BIG TIME GARAGE（北沢2-27-1 1F-B）は既存のSmall Change 下北沢（同2-27-1 ヒルウエストクォドラント1F B号室）と番地・階数・部屋記号が完全一致するため、いずれも重複と判断し追加を見送り。LES,MISERABLES（北沢2-5-7 1階、既存の古着店熱田屋と同番地で階のみ異なる）は、shimofuru.jp記載のInstagramアカウント名と実際に確認できたInstagramアカウント（@les__miserables__）が一致せず確証が持てなかったため、誤情報を避けるべく今回は追加を見送り（次回以降の確認候補）。Lanp（東洋百貨店No.7）は、既に閉店確認済みのLanp by VALON（同建物No.23、2026-08-13除外検討時に確認）と店舗名が類似し情報源間で部屋番号の不整合があるため、同一店舗の情報混同の可能性を排除できず見送り。AWESOME VINTAGE下北沢店（北沢2-33-5下北沢TKSビル1階WEST、PR TIMESにて9月11日グランドオープンと告知）は、本日時点（9月10日）でまだ開店前であることに加え、既存の古着屋haikara下北沢店（同2-33-5下北沢TKSビル1F）と同一ビルであり「WEST」区画が別区画か既存店舗の改装かの確証が得られないため、前回に続き追加を見送り（開店後の現地情報を待つ次回以降の確認候補）。セカンドストリートの新業態店（WWDJAPAN報道）は既存掲載のセカンドストリート下北沢東口店（北沢2-34-3ミドキタ2F）と同一店舗であることを確認し、重複追加はせず。
