@@ -1,6 +1,6 @@
 # 中目黒駅 ビンテージ古着店
 
-最終更新: 2026-08-30
+最終更新: 2026-09-10
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -19,7 +19,7 @@
 | HOLIDAY WORKS 中目黒（ホリデーワークス） | 東京都目黒区青葉台1-13-11 ライラックハウスB1F | 中目黒駅 | https://www.instagram.com/holidayworks_nakameguro/ |
 | CaNARi nakameguro（カナリ） | 東京都目黒区上目黒1-5-10 中目黒マンション106 | 中目黒駅 | https://www.instagram.com/canari_nakame/ |
 | 古着屋DIGDIG（ディグディグ） | 東京都目黒区上目黒2-25-13 エムス東101号室 | 中目黒駅 | https://www.instagram.com/digdig_used_and_vintage/ |
-| TOKYO LAMPOON（トウキョウ ランプーン） | 東京都目黒区上目黒1-7-6 | 中目黒駅 | 不明 |
+| TOKYO LAMPOON（トウキョウ ランプーン） | 東京都目黒区上目黒1-7-6 | 中目黒駅 | https://www.instagram.com/tokyolampoon_ereva/ |
 | Fifth General Store（フィフス ジェネラルストア） | 東京都目黒区上目黒2-13-3 井内ビル裏1F | 中目黒駅 | https://www.instagram.com/5gs_tokyo/ |
 | used & vintage Cider（サイダー） | 東京都目黒区上目黒1-2-9 ハイネス中目黒104号 | 中目黒駅 | 不明 |
 | H used&vintage clothing（アッシュ） | 東京都目黒区中目黒1-2-15 | 中目黒駅 | https://www.instagram.com/husedvintageclothing/ |
@@ -42,11 +42,11 @@
 | MB LOCKER ROOM 中目黒（MLR） | 東京都目黒区上目黒1-20 ルーエ中目黒2F | 中目黒駅 | https://www.instagram.com/mb_locker_room/ |
 | TOOn.（トーン） | 東京都目黒区上目黒2-30-8 | 中目黒駅 | https://www.instagram.com/toon.nakameguro |
 | WHEEL（ホイール） | 東京都目黒区上目黒1-13-7 | 中目黒駅 | 不明 |
+| EREVA（エレバ） | 東京都目黒区上目黒1-10-5 101号 | 中目黒駅 | https://www.instagram.com/tokyolampoon_ereva/ |
 
 ## 除外した店舗
 
 - **archeo logie（アルケオロジー）**: 実際は祐天寺エリアで対象外。Instagramハンドルも複数見つかり特定できず除外
-- **エレバ/エルレーブ**: 検索結果で示された住所が既存掲載店JANTIQUESの住所と完全一致しており、情報の信頼性が確認できないため除外
 - **threepetals（スリーペタルズ）**: 最寄り駅が代官山駅（徒歩1分）でエリア対象外のため除外
 - **Tam（タム）**: 最寄り駅が池尻大橋駅（徒歩8分、中目黒駅からは徒歩15分）でエリア対象外のため除外
 - **ノエル ヴィンテージ（Noël Vintage）**: 最寄り駅が代官山駅（代官山駅から徒歩11分）でエリア対象外のため除外
@@ -88,3 +88,4 @@
 - 2026-08-13: 新規2店舗を追加（MB LOCKER ROOM 中目黒（MLR）、上目黒1-20 ルーエ中目黒2F、Instagram実リンク@mb_locker_roomで確認済み／TOOn.（トーン）、上目黒2-30-8、Instagram実リンク@toon.nakameguroで確認済み）。従来「Instagramアカウントの移行情報があり稼働状況を確認できない」として除外していたMLRは、複数の情報源（古着屋巡りマップガイドMEGURU等）で現行Instagramアカウントと住所が確認できたため除外を解除し表に追加。新たに候補となったKIARIS vintage&closet（駒場東大前駅エリア）とISSUE（学芸大学駅エリア鷹番2-13-9）はいずれも中目黒エリア対象外のため除外。既存掲載34店舗について閉店の兆候は確認されず
 - 2026-08-20: 新規1店舗を追加（WHEEL（ホイール）、上目黒1-13-7、中目黒駅徒歩約3分、USAヴィンテージのプリントT中心のストリート系古着店。GUZ FASHIONの目黒銀座通り紹介記事で確認。Instagramハンドル@wheel_tokyoの言及はページ本文中の記述のみで検索結果に実リンクとして出現しなかったため不明のまま記載）。既存掲載店舗について閉店の兆候は確認されず。FRISKY（既存掲載店EVERGREENと同一建物・同一フロアの疑い）とThe Vintage Hook（一部情報源で閉店表示、他の情報源では営業中の表示があり情報が相反）は判断材料が変わらないため引き続き除外を維持
 - 2026-08-30: 新規追加店舗なし。ファッションプレス・folk・MEGURU等の複数の古着屋まとめ記事を再調査したが、既存掲載39店舗以外に条件を満たす新規店舗は確認できず。新たに候補となったたんす屋中目黒店（青葉台1-25-2、和装リユース専門で洋装ビンテージ・グッドレギュラーの対象外）とPOST 78（ポスト78、目黒区平町1-23-18、中目黒駅周辺エリア外の可能性が高い）はいずれも除外。The Vintage Hookについては古着屋マップサイトBAZZSTOREで改めて【閉店】表記を確認し、既存の除外判断（維持）を裏付け。既存掲載39店舗（COUNTRYNERD、MB LOCKER ROOM、TOOn.、WHEEL等を含む）について閉店の兆候は確認されず
+- 2026-09-10: 新規1店舗を追加（EREVA（エレバ）、上目黒1-10-5 101号、中目黒駅徒歩5分）。従来「住所がJANTIQUESと完全一致し情報の信頼性が確認できない」として除外していたエレバ/エルレーブは、ファッションプレスの店舗個別ページ（電話番号・営業時間・「営業中」表記を明記）およびtokyolucci.jpの記事により、TOKYO LAMPOON（上目黒1-7-6）の姉妹店として独立した住所（上目黒1-10-5-101）・電話番号（03-3780-3550）を持つ実在店舗であることが確認できたため、除外を解除し表に追加。両店はInstagramアカウント@tokyolampoon_erevaを共有していることが検索結果の実リンクで確認できたため、従来「不明」としていたTOKYO LAMPOONのInstagram欄も同アカウントに更新。既存掲載39店舗について、fashion-press・VINTY・古着屋巡りマップガイドMEGURU（全4ページ）・thisismedia・nakamedia・travelbook・57 Rue de Rome・tokyolucci.jp等の複数の古着屋まとめ記事を再調査したが、新たな候補店舗・閉店の兆候はいずれも確認されず
