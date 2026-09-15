@@ -1,6 +1,6 @@
 # 吉祥寺駅 ビンテージ古着店
 
-最終更新: 2026-08-30
+最終更新: 2026-09-15
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -52,6 +52,7 @@
 | NoMen（ノーメン） | 東京都武蔵野市吉祥寺本町1-30-16 加藤ビル305 | 吉祥寺駅（徒歩約3分） | https://www.instagram.com/nomen_usedclothing/ |
 | 西海岸Ruby's吉祥寺店 | 東京都武蔵野市吉祥寺本町1-3-4（吉祥寺ダイヤ街） | 吉祥寺駅 | 不明 |
 | 西海岸ANCHOR コピス吉祥寺店 | 東京都武蔵野市吉祥寺本町1-11-5 コピス吉祥寺内 | 吉祥寺駅 | https://www.instagram.com/anchor_kichijoji_coppice |
+| ONZO（オンゾ） vintage＆clothing | 東京都武蔵野市吉祥寺本町2-26-3 鈴木ビル101 | 吉祥寺駅 | https://www.instagram.com/onzo_vintage/ |
 
 ## 除外した店舗
 
@@ -85,3 +86,4 @@
 - 2026-08-15: 古着屋NoMen（ノーメン、吉祥寺本町1-30-16 加藤ビル305）を新規に1店舗追加。Men's Non-No等のメディアで紹介されており、公式Instagram（@nomen_usedclothing）がリンク付きで確認できたため掲載。複数のまとめ記事（jamtrading.jp、vokka.jp、tokyolucci.jp、media.thisisgallery.com、uridoki.net、aumo.jp等）を横断調査したが、他に候補となる未掲載店舗は見つからず、既存の除外理由（住所の番地一致、対象エリア外、閉店等）にも状況変化は確認できなかった。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-08-20: 新規追加店舗はなし。多数のまとめ記事・買取店紹介サイト（jamtrading.jp、vokka.jp、tokyolucci.jp、avend.co.jp、aumo.jp、media.thisisgallery.com、serasan-blog.com、57-rue-de-rome.com、uridoki.net、furugi-meguru.com（吉祥寺カテゴリ全3ページ）等）を横断調査し、新候補としてΣ SIGMA（シグマ、南町1-15-7）、Thrift tokyo吉祥寺店、One（ワン）/ONE KICHIJOJIの3店舗を調査したが、Σ SIGMAは既存掲載のdracaena吉祥寺本店と同一番地で重複の可能性が高いこと、Thrift tokyo吉祥寺店は実際の住所が下北沢エリアで吉祥寺の実店舗と確認できなかったこと、Oneは2021年に実店舗が閉店済みであることから、いずれも追加を見送り除外欄に記録。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-08-30: 吉祥寺ファンページ（kichifan.com）の開店情報をもとに新規2店舗を追加。（1）西海岸Ruby's吉祥寺店（東京都武蔵野市吉祥寺本町1-3-4・吉祥寺ダイヤ街、2026年7月25日オープン）。Instagramは検索結果にリンク付きで見つからなかったため「不明」と記載。（2）西海岸ANCHOR コピス吉祥寺店（東京都武蔵野市吉祥寺本町1-11-5・コピス吉祥寺内、2026年7月4日オープン）。公式サイト（coppice.jp）のショップページにリンクされていたInstagram（@anchor_kichijoji_coppice）を採用。いずれも既存掲載店とは番地が異なるため重複なしと判断。他に、jamtrading.jpのまとめ記事（35店舗掲載）を確認したが、掲載店はすべて既存掲載済みか、既存の除外理由（Little Brothers・Crimieは南町1-16-11でSAFARIなない橋店と同一番地、アドギロブリハルヘビは南町1-15-3でiti vintage clothing & humorと同一番地、Trip Vintage Kichijojiは南町1-17-1でSELFURUGI吉祥寺店と同一番地、NEST AND EGGSは三鷹市で対象エリア外）に該当し状況変化なし。吉祥寺エリアの2026年7月末・8月上旬・8月末の開店閉店まとめ記事（kichifan.com）も確認したが、上記2店舗以外に古着屋の開店・閉店情報はなかった。rise vintage&used clothingの住所、Σ SIGMAの重複可能性についても再調査したが新情報は得られず状況変化なし。既存掲載店舗の閉店情報は新たに確認されなかった。
+- 2026-09-15: 吉祥寺経済新聞（kichijoji.keizai.biz）の記事から、2023年6月開業のビンテージ古着＆セレクトショップONZO（オンゾ）vintage＆clothing（東京都武蔵野市吉祥寺本町2-26-3 鈴木ビル101）を新規に1店舗追加。公式Instagram（@onzo_vintage）が検索結果にリンク付きで確認できたため掲載。住所は既存掲載のkokoro（本町2-26-9）・Zootie（本町2-26-12）とは番地が異なり重複なしと判断。VINTY（吉祥寺駅検索、全11件中10件表示分）、jamtrading.jpの35店舗まとめ記事、avend.co.jp、media.thisisgallery.com等の複数まとめ記事、およびkichifan.comの2026年8月末・9月上旬・9月中旬の開店閉店まとめ記事を横断調査したが、ONZO以外に新規候補・閉店情報は見つからず、既存の除外理由（住所の番地一致、対象エリア外、閉店等）にも状況変化は確認できなかった。西海岸Ruby's吉祥寺店のInstagramは今回も検索結果にリンク付きで見つからず「不明」のまま。既存掲載店舗の閉店情報は新たに確認されなかった。
