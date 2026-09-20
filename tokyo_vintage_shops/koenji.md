@@ -1,6 +1,6 @@
 # 高円寺駅 ビンテージ古着店
 
-最終更新: 2026-09-10
+最終更新: 2026-09-20
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -133,6 +133,9 @@
 | Lakka（ラッカ） | 東京都杉並区高円寺南3-45-15 愛川ビル1F | 高円寺駅（徒歩約3分） | https://www.instagram.com/lakka_vintage/ |
 | 郊外SUBURBIA（コウガイサバービア） | 東京都杉並区高円寺南3-56-5-102 | 高円寺駅 | https://www.instagram.com/kougai.suburbia/ |
 | SPLASH（スプラッシュ） | 東京都杉並区高円寺南4-26-7 太田ビル2F | 高円寺駅（徒歩約2分） | https://www.instagram.com/splash_toyusedclothing/ |
+| coys clothing store（コイズ クロージング ストア） | 東京都杉並区高円寺南2-21-5 2F | 高円寺駅 | https://www.instagram.com/coys_clothing_store/ |
+| Trip Used&Vintage（トリップ ユーズドアンドヴィンテージ） | 東京都杉並区高円寺南3-37-1 | 高円寺駅 | https://www.instagram.com/trip_used_vintage/ |
+| ROOM NUMBER 10（ルームナンバー10） | 東京都杉並区高円寺南4-27-8 泰友ビル1F | 高円寺駅（徒歩約1分） | https://www.instagram.com/room_number_10/ |
 
 ## 除外した店舗
 
@@ -177,6 +180,11 @@
 - **maar select vintage clothing（マールセレクトヴィンテージクロージング）**: 住所（高円寺南4-24-3 川上ビル2F）が既存掲載のDirt Vintage Clothing（登録住所：高円寺南4-24-3）および既存除外のgochic（高円寺南4-24-3 川上ビル203）と同一番地・同一ビルで、部屋番号の食い違いにより物件の同一性を判別できないため掲載を保留
 - **OCTAGON CLOTHING（オクタゴンクロージング）**: かつて高円寺南4-29-8に所在していたが、現在は東京都墨田区業平へ移転済みで同住所は既存掲載のLaugh by Kissmetが使用していることが確認できたため、高円寺エリアの対象店舗から除外
 - **江森商店（エモリショウテン）**: 高円寺エリアの古着店として一部情報源（古着屋巡りマップガイド）に店名のみ挙がったが、住所・Instagram等の詳細情報を確認できなかったため掲載を保留
+- **PwL vintage（高円寺南2-48-6 峯尾ビル1F）**: 既存掲載のMarco Polo 高円寺LOOK店（高円寺南2-48-6）と同一番地で、Marco Polo側の階数・号室情報を確認できず物件の同一性を否定できないため掲載を保留
+- **Anutrof／アヌトロフ（高円寺南4-24-4 橋本ビル202）**: 既存掲載のJacob's Ladder（高円寺南4-24-4 1F）・古着屋深緑（高円寺南4-24-4 2F）と同一番地で、床面・号室情報から物件の同一性を判別できないため掲載を保留
+- **cadoromo（カドロモ）（高円寺南3-45-9 グラーシアM C号）**: 既存掲載のThe words（高円寺南3-45-9）と同一番地で、The words側の階数・号室情報を確認できず物件の同一性を否定できないため掲載を保留
+- **curb Other Side カーブ 高円寺（高円寺南4-24-3 川上ビル1F）**: 既存除外のgochic・maar select vintage clothing（いずれも高円寺南4-24-3 川上ビル）と同一番地・同一ビルで、既存掲載のDirt Vintage Clothing（登録住所：高円寺南4-24-3）とも同一番地のため物件の同一性を判別できず、また運営元とされる「curb本店」の所在地も情報源間で一致しないため掲載を保留
+- **ルーズ（平成古着屋）（the_loose_koenji）**: 高円寺駅から徒歩約1分のギャル・サーフ系2000年代古着屋であることは確認できたが、複数情報源を調査しても番地レベルの住所を確認できなかったため掲載を保留
 
 ## 更新履歴
 
@@ -197,3 +205,4 @@
 - 2026-08-30: 新規店舗6件を追加（Bodies、HARDYS、Largo、Irie、THE GATE、WASTER）。TRUNK（既存掲載のmilitariaと同一番地3-57-3で号室不明、確認できたInstagramアカウントもこの高円寺店を指すか不明）を除外欄に追記。調査過程で確認できたHAPPY BIRTHDAY TO YOU（2025年3月30日に実店舗閉店しWeb販売のみに移行）は本ファイルに掲載歴がなかったため追加・除外欄への記載は行わず。既存112店舗については閉店を示す情報源は見つからず削除なし。
 - 2026-09-05: 新規店舗4件を追加（room108 by BoobyTrap、UNDER900、踊り場、Focal）。Cat's paw（既存掲載）は運営元グラスホッパー公式サイトの現行4店舗リストに含まれず、同一住所（高円寺南2-48-7）で2024年6月にroom108 by BoobyTrapへリニューアルしたことが業界紙報道で確認できたため除外欄へ移動（後継のroom108を新規掲載）。Focal2（Focal本店の2号店、番地不明）、タマリバブティック カワイイカルト（雑貨・カフェ等複数ジャンルを扱う店でビンテージ衣料は一部門に過ぎない）を除外欄に追記。既存111店舗（Cat's paw除く）については閉店を示す情報源は見つからず削除なし。
 - 2026-09-10: 新規店舗4件を追加（SAFARI 6号店、Lakka、郊外SUBURBIA、SPLASH）。CHART（既存掲載のWHISTLERと同一住所・号室でWHISTLERの姉妹ブランド）、Forge by ZOOL（ZOOLグループ系列だが番地不明）、maar select vintage clothing（既存掲載のDirt Vintage Clothingおよび既存除外のgochicと同一番地・同一ビルで部屋番号の食い違いあり）、OCTAGON CLOTHING（墨田区業平へ移転済みで旧高円寺住所は既存掲載のLaugh by Kissmetが使用）、江森商店（住所・Instagram等の詳細不明）を除外欄に追記。既存115店舗については閉店を示す情報源は見つからず削除なし。
+- 2026-09-20: 新規店舗3件を追加（coys clothing store、Trip Used&Vintage、ROOM NUMBER 10）。PwL vintage（既存掲載のMarco Polo 高円寺LOOK店と同一番地2-48-6で階数・号室不明）、Anutrof（既存掲載のJacob's Ladder・古着屋深緑と同一番地4-24-4）、cadoromo（既存掲載のThe wordsと同一番地3-45-9）、curb Other Side（既存除外のgochic・maar select vintage clothingおよび既存掲載のDirt Vintage Clothingと同一番地4-24-3）、ルーズ（平成古着屋）（実在は確認できたが番地不明）を除外欄に追記。既存118店舗については閉店を示す情報源は見つからず削除なし。
