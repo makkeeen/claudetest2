@@ -1,6 +1,6 @@
 # 原宿駅・明治神宮前駅 ビンテージ古着店
 
-最終更新: 2026-09-20
+最終更新: 2026-09-25
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -53,7 +53,7 @@
 | Props Store Annex（プロップスストア アネックス） | 東京都渋谷区神宮前2-30-5 トーカン原宿キャステール1F | 不明 | https://www.instagram.com/propsstore_annex/ |
 | BerBerJin Collective（ベルベルジン コレクティブ） | 東京都渋谷区神宮前3-27-17 B1F | 明治神宮前駅／原宿駅 | https://www.instagram.com/berberjin_collective/ |
 | PUNK CAKE（パンクケイク） | 東京都渋谷区神宮前4-28-9 1F | 明治神宮前駅 | 不明 |
-| E.L.C.A（エルカ） | 東京都渋谷区神宮前4-28-14 | 不明 | 不明 |
+| E.L.C.A（エルカ） | 東京都渋谷区神宮前4-28-14 | 明治神宮前駅／原宿駅 | https://www.instagram.com/elca_harajuku/ |
 | ウスノロ（USUNORO） | 東京都渋谷区神宮前6-7-11 千春ビル201 | 明治神宮前駅 | https://www.instagram.com/usunoro_vintage/ |
 | VINTAGE ON THE PLANET（ヴィンテージ・オン・ザ・プラネット） | 東京都渋谷区神宮前4-25-10 平田レジデンス1F-D | 明治神宮前駅 | https://www.instagram.com/vintage_on_the_planet/ |
 | 古着屋 原宿シカゴ 原宿店 | 東京都渋谷区神宮前6-31-15 マンション31 2F | 明治神宮前駅／原宿駅 | https://www.instagram.com/harajukuchicago_official/ |
