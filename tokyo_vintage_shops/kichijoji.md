@@ -1,6 +1,6 @@
 # 吉祥寺駅 ビンテージ古着店
 
-最終更新: 2026-09-15
+最終更新: 2026-09-25
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -50,7 +50,7 @@
 | リサイクルブティックABC 吉祥寺店 | 東京都武蔵野市吉祥寺本町2-18-1 | 吉祥寺駅北口（徒歩約6分） | https://www.instagram.com/abc_recycle/（店舗専用ではなく全店共通の公式アカウントの可能性あり） |
 | Vintage Sports Football 吉祥寺店 | 東京都武蔵野市吉祥寺南町1-1-7 4F | 吉祥寺駅（徒歩約3分） | https://www.instagram.com/vintage_sports_football/（吉祥寺・渋谷・町田の複数店舗共通の公式アカウントの可能性あり） |
 | NoMen（ノーメン） | 東京都武蔵野市吉祥寺本町1-30-16 加藤ビル305 | 吉祥寺駅（徒歩約3分） | https://www.instagram.com/nomen_usedclothing/ |
-| 西海岸Ruby's吉祥寺店 | 東京都武蔵野市吉祥寺本町1-3-4（吉祥寺ダイヤ街） | 吉祥寺駅 | 不明 |
+| 西海岸Ruby's吉祥寺店 | 東京都武蔵野市吉祥寺本町1-3-4（吉祥寺ダイヤ街） | 吉祥寺駅 | https://www.instagram.com/nishikaigan_rubys_kichijoji/ |
 | 西海岸ANCHOR コピス吉祥寺店 | 東京都武蔵野市吉祥寺本町1-11-5 コピス吉祥寺内 | 吉祥寺駅 | https://www.instagram.com/anchor_kichijoji_coppice |
 | ONZO（オンゾ） vintage＆clothing | 東京都武蔵野市吉祥寺本町2-26-3 鈴木ビル101 | 吉祥寺駅 | https://www.instagram.com/onzo_vintage/ |
 
@@ -70,6 +70,9 @@
 - **Σ SIGMA（シグマ）**: 住所が既存掲載のdracaena（ドラセナ）吉祥寺本店と同一番地（吉祥寺南町1-15-7）であることが複数の情報源（furugi-meguru.com、FLAGPOST等）で確認できたため、既存店との重複の可能性が高いと判断し追加を見送り（要再調査）
 - **Thrift tokyo（スリフトトウキョウ）吉祥寺店**: furugi-meguru.com上では「吉祥寺店」と表記されているが、記載住所は世田谷区北沢3-26-4であり実際には下北沢エリアの店舗（北口店・南口店）と同一と見られ、吉祥寺エリアに実店舗があるとは確認できなかったため追加を見送り
 - **One（ワン）/ ONE KICHIJOJI**: 吉祥寺南町1-5-2 2Fにあった古着店だが、紹介サイト（mapandswatch.net）で「2021年・実店舗CLOSE」と明記されていたため追加を見送り
+- **maar（マール）**: furugi-meguru.comでは吉祥寺本町1-32-11 高村ビル2Fの店舗として紹介されているが、ブランド公式サイト（maar.official.ec）では現在の所在地が杉並区高円寺南4-24-3（高円寺駅南口）と明記されており、吉祥寺から高円寺へ移転済みとみられるため追加を見送り
+- **ROL（ロル）**: 吉祥寺本町1-26-1 JK吉祥寺ビル105のセレクトショップだが、公式サイト（rol.co.jp）で新品ブランド（CURLY・TUKI・LAMOND・alvana等）を扱う新品専門セレクトショップと確認できたため、本リストの対象外と判断し追加を見送り
+- **ROLE.（ロール）**: furugi-meguru.comで「東京吉祥寺の古着屋」として紹介されているオンラインヴィンテージショップ（roledot.com／roledot.thebase.in）だが、実店舗の住所を確認できる情報源が見つからなかったため追加を見送り（要再調査）
 
 ## 更新履歴
 
@@ -87,3 +90,4 @@
 - 2026-08-20: 新規追加店舗はなし。多数のまとめ記事・買取店紹介サイト（jamtrading.jp、vokka.jp、tokyolucci.jp、avend.co.jp、aumo.jp、media.thisisgallery.com、serasan-blog.com、57-rue-de-rome.com、uridoki.net、furugi-meguru.com（吉祥寺カテゴリ全3ページ）等）を横断調査し、新候補としてΣ SIGMA（シグマ、南町1-15-7）、Thrift tokyo吉祥寺店、One（ワン）/ONE KICHIJOJIの3店舗を調査したが、Σ SIGMAは既存掲載のdracaena吉祥寺本店と同一番地で重複の可能性が高いこと、Thrift tokyo吉祥寺店は実際の住所が下北沢エリアで吉祥寺の実店舗と確認できなかったこと、Oneは2021年に実店舗が閉店済みであることから、いずれも追加を見送り除外欄に記録。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-08-30: 吉祥寺ファンページ（kichifan.com）の開店情報をもとに新規2店舗を追加。（1）西海岸Ruby's吉祥寺店（東京都武蔵野市吉祥寺本町1-3-4・吉祥寺ダイヤ街、2026年7月25日オープン）。Instagramは検索結果にリンク付きで見つからなかったため「不明」と記載。（2）西海岸ANCHOR コピス吉祥寺店（東京都武蔵野市吉祥寺本町1-11-5・コピス吉祥寺内、2026年7月4日オープン）。公式サイト（coppice.jp）のショップページにリンクされていたInstagram（@anchor_kichijoji_coppice）を採用。いずれも既存掲載店とは番地が異なるため重複なしと判断。他に、jamtrading.jpのまとめ記事（35店舗掲載）を確認したが、掲載店はすべて既存掲載済みか、既存の除外理由（Little Brothers・Crimieは南町1-16-11でSAFARIなない橋店と同一番地、アドギロブリハルヘビは南町1-15-3でiti vintage clothing & humorと同一番地、Trip Vintage Kichijojiは南町1-17-1でSELFURUGI吉祥寺店と同一番地、NEST AND EGGSは三鷹市で対象エリア外）に該当し状況変化なし。吉祥寺エリアの2026年7月末・8月上旬・8月末の開店閉店まとめ記事（kichifan.com）も確認したが、上記2店舗以外に古着屋の開店・閉店情報はなかった。rise vintage&used clothingの住所、Σ SIGMAの重複可能性についても再調査したが新情報は得られず状況変化なし。既存掲載店舗の閉店情報は新たに確認されなかった。
 - 2026-09-15: 吉祥寺経済新聞（kichijoji.keizai.biz）の記事から、2023年6月開業のビンテージ古着＆セレクトショップONZO（オンゾ）vintage＆clothing（東京都武蔵野市吉祥寺本町2-26-3 鈴木ビル101）を新規に1店舗追加。公式Instagram（@onzo_vintage）が検索結果にリンク付きで確認できたため掲載。住所は既存掲載のkokoro（本町2-26-9）・Zootie（本町2-26-12）とは番地が異なり重複なしと判断。VINTY（吉祥寺駅検索、全11件中10件表示分）、jamtrading.jpの35店舗まとめ記事、avend.co.jp、media.thisisgallery.com等の複数まとめ記事、およびkichifan.comの2026年8月末・9月上旬・9月中旬の開店閉店まとめ記事を横断調査したが、ONZO以外に新規候補・閉店情報は見つからず、既存の除外理由（住所の番地一致、対象エリア外、閉店等）にも状況変化は確認できなかった。西海岸Ruby's吉祥寺店のInstagramは今回も検索結果にリンク付きで見つからず「不明」のまま。既存掲載店舗の閉店情報は新たに確認されなかった。
+- 2026-09-25: 新規追加店舗はなし。西海岸公式サイト（nisikaigan.com/shop/）で西海岸Ruby's吉祥寺店の公式Instagram（@nishikaigan_rubys_kichijoji）がリンク付きで確認できたため、従来「不明」としていた項目を更新。吉祥寺ファンページ（kichifan.com）の2026年9月上旬・中旬・下旬、8月末の開店閉店まとめ記事、furugi-meguru.com（吉祥寺カテゴリ全3ページ）、jamtrading.jpの35店舗まとめ記事、vinty.jp等を横断調査し、新候補としてmaar（マール）、ROL（ロル）、ROLE.（ロール）の3件を調査したが、maarは公式サイトで高円寺へ移転済みと確認、ROLは新品専門セレクトショップと確認、ROLE.は実店舗住所が確認できずいずれも追加を見送り（詳細は「除外した店舗」参照）。セカンドストリート三鷹南口店（2026年9月18日オープン）は三鷹市下連雀の店舗で吉祥寺駅エリア外のため対象外と判断。既存掲載店舗の閉店情報は新たに確認されなかった。
