@@ -1,6 +1,6 @@
 # 高円寺駅 ビンテージ古着店
 
-最終更新: 2026-09-20
+最終更新: 2026-09-25
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -136,6 +136,7 @@
 | coys clothing store（コイズ クロージング ストア） | 東京都杉並区高円寺南2-21-5 2F | 高円寺駅 | https://www.instagram.com/coys_clothing_store/ |
 | Trip Used&Vintage（トリップ ユーズドアンドヴィンテージ） | 東京都杉並区高円寺南3-37-1 | 高円寺駅 | https://www.instagram.com/trip_used_vintage/ |
 | ROOM NUMBER 10（ルームナンバー10） | 東京都杉並区高円寺南4-27-8 泰友ビル1F | 高円寺駅（徒歩約1分） | https://www.instagram.com/room_number_10/ |
+| Socio（ソシオ） | 東京都杉並区高円寺南2-22-5 2F | 高円寺駅（徒歩約10分） | https://www.instagram.com/sociousedclothing/ |
 
 ## 除外した店舗
 
@@ -206,3 +207,4 @@
 - 2026-09-05: 新規店舗4件を追加（room108 by BoobyTrap、UNDER900、踊り場、Focal）。Cat's paw（既存掲載）は運営元グラスホッパー公式サイトの現行4店舗リストに含まれず、同一住所（高円寺南2-48-7）で2024年6月にroom108 by BoobyTrapへリニューアルしたことが業界紙報道で確認できたため除外欄へ移動（後継のroom108を新規掲載）。Focal2（Focal本店の2号店、番地不明）、タマリバブティック カワイイカルト（雑貨・カフェ等複数ジャンルを扱う店でビンテージ衣料は一部門に過ぎない）を除外欄に追記。既存111店舗（Cat's paw除く）については閉店を示す情報源は見つからず削除なし。
 - 2026-09-10: 新規店舗4件を追加（SAFARI 6号店、Lakka、郊外SUBURBIA、SPLASH）。CHART（既存掲載のWHISTLERと同一住所・号室でWHISTLERの姉妹ブランド）、Forge by ZOOL（ZOOLグループ系列だが番地不明）、maar select vintage clothing（既存掲載のDirt Vintage Clothingおよび既存除外のgochicと同一番地・同一ビルで部屋番号の食い違いあり）、OCTAGON CLOTHING（墨田区業平へ移転済みで旧高円寺住所は既存掲載のLaugh by Kissmetが使用）、江森商店（住所・Instagram等の詳細不明）を除外欄に追記。既存115店舗については閉店を示す情報源は見つからず削除なし。
 - 2026-09-20: 新規店舗3件を追加（coys clothing store、Trip Used&Vintage、ROOM NUMBER 10）。PwL vintage（既存掲載のMarco Polo 高円寺LOOK店と同一番地2-48-6で階数・号室不明）、Anutrof（既存掲載のJacob's Ladder・古着屋深緑と同一番地4-24-4）、cadoromo（既存掲載のThe wordsと同一番地3-45-9）、curb Other Side（既存除外のgochic・maar select vintage clothingおよび既存掲載のDirt Vintage Clothingと同一番地4-24-3）、ルーズ（平成古着屋）（実在は確認できたが番地不明）を除外欄に追記。既存118店舗については閉店を示す情報源は見つからず削除なし。
+- 2026-09-25: 新規店舗1件を追加（Socio〈ヨーロピアンヴィンテージサッカーユニフォーム中心のサッカー古着屋、2024年4月29日開店、高円寺南2-22-5 2F〉）。同一建物1Fの既存除外候補PIG'S TAIL／adoluvle retristとは階数が異なるため別物件と判断。調査過程で確認できたリサイクル着物処豆ぶどう（庚申通り）は2024年9月に高円寺庚申通り商店街の店舗を閉店し10月に天沼（荻窪エリア）へ移転済みで現在は高円寺エリア対象外のため、本ファイルに掲載歴もなく追加・除外欄への記載は行わず。既存119店舗については閉店を示す情報源は見つからず削除なし。
