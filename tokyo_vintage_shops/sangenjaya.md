@@ -1,6 +1,6 @@
 # 三軒茶屋駅 ビンテージ古着店
 
-最終更新: 2026-09-20
+最終更新: 2026-09-30
 
 | 店舗名 | 住所 | 最寄り駅 | Instagram |
 |---|---|---|---|
@@ -39,6 +39,7 @@
 | Chit-Chat（チットチャット） | 東京都世田谷区上馬1-33-8 | 三軒茶屋駅（徒歩約7分） | https://www.instagram.com/chitchat_remake_and_vintage/ |
 | atsurae vintage（アツラエ ヴィンテージ） | 東京都世田谷区太子堂3-14-1 千葉ビル2F | 三軒茶屋駅（徒歩約6分） | https://www.instagram.com/atsurae_vintage/ |
 | PFP（ピーエフピー） | 東京都世田谷区三軒茶屋2-13-16 | 三軒茶屋駅（徒歩約1分） | https://www.instagram.com/pfp_clothing_store/ |
+| Oku__vintage（オク ヴィンテージ） | 東京都世田谷区太子堂3-18-4 ドムスKSY 1F | 三軒茶屋駅 | https://www.instagram.com/oku__vintage/ |
 
 ## 除外した店舗
 
@@ -69,3 +70,4 @@
 - 2026-08-20: 新規店舗1件を追加（atsurae vintage）。太子堂3-14-1千葉ビル2Fで2020年10月開業した茶沢通り沿いのヴィンテージショップで、fashionsnap.comの記事（2022年5月）で「三軒茶屋のヴィンテージショップ」と明記され、VINTYの店舗情報ページで同住所・三軒茶屋駅から340mと確認、Instagram（@atsurae_vintage）も検索結果にリンクとして確認できたため追加。既存掲載のXXNT TOKYO（太子堂3-14-4）とは番地違いの別店舗と確認。候補のHigh On Life used clothing（上馬1-32-22表記あり）は公式BASEページで「現在はオンラインのみでの営業」と明記され実店舗を持たないため追加を見送り。sui・sharaは公式サイト（sui-shara.com）で住所が既存掲載のsui vintageと同一（三軒茶屋1-36-3）であり、オンラインストアの名称も「sui & shara」であることから同一店舗の別名と改めて確認し、引き続き重複追加せず。Aum vintageは最寄り駅が池尻大橋（池尻エリア）でエリア外のため対象外。Oku__vintageは今回も実店舗の恒常的な住所を確認できず（ポップアップ出店情報のみ）追加を見送り。既存掲載店舗33件の閉店情報は見つからず、表からの除外はなし。
 - 2026-09-05: 新規店舗の追加・除外は0件。既存掲載のMiller Time（ミラータイム）について、住所が「三軒茶屋2-13-17」となっていたが、furugi-meguru.com（Instagramリンク@millertime3chaを実リンクとして確認）およびTapTrip記事で「太子堂4-5-2」との記載が見つかり、電話番号（03-5432-9731）の逆引き情報でも同住所が確認されたため「東京都世田谷区太子堂4-5-2」に訂正し、Instagram（不明→https://www.instagram.com/millertime3cha/）も追記。同住所は既存掲載のSwingWood（太子堂4-5-2-202、三軒茶屋駅徒歩約4分）と同一番地のため、最寄り駅表記も「三軒茶屋駅（徒歩約4分）」に合わせた（同一店舗ではなく、SwingWoodとは別法人・別Instagramアカウントの別店舗と確認済み）。tokyolucci.jpやローカログ等、一部サイトでは旧住所（三軒茶屋2-13-17）のままの記載も残っているが、直接確認できた一次的な店舗情報（Instagram・電話番号紐付け）を優先した。広く三軒茶屋・太子堂・上馬エリアの古着店を再調査したが、既存未掲載の新規店舗は確認できず、既存掲載店舗の閉店も確認されなかった。
 - 2026-09-20: 新規店舗1件を追加（PFP）。三軒茶屋2-13-16（エコー仲見世内、三軒茶屋駅徒歩約1分）のヴィンテージ・レトロ古着店で、公式サイト（pfpclothing.base.shop/about）に同住所とInstagramリンク（@pfp_clothing_store、検索結果にもリンクとして確認）が明記されていたため追加。同住所は既存掲載のKOTOBUKI三軒茶屋本店（同じくエコー仲見世内2-13-16）と番地が重なるが、Instagramアカウント・取扱商品（PFPはヴィンテージ古着中心、KOTOBUKIは新品＋中古の複合セレクト）が異なる別店舗（仲見世内の別区画）と判断し、重複ではなく別掲載とした。また、既存掲載のTHRIFT SHOP ROOM（Instagram不明としていた）について、furugi-meguru.comおよび検索結果で電話番号（03-6804-0050）とBASEストア（thriftroom.thebase.in）が一致するInstagramアカウント「ROOM（@room_sangenjaya）」を確認できたため、同一店舗と判断しInstagram欄を不明→https://www.instagram.com/room_sangenjaya/ に更新（新規追加ではなく既存店舗の情報補完）。候補のKNOT vintage（太子堂4-5-2、@knot_vintage_sancha）とROOT vintage（太子堂4-26-12、@root_vintage_）はAVENDの記事以外に実在・Instagramアカウントとも確認できず（ROOT vintageは近隣の別業態「ROOTS」というカフェバーとの混同の可能性あり）、Oku__vintage（太子堂3-18周辺）は今回もポップアップ出店情報にとどまり番地までの恒常的な住所を確認できず、MAZE（三軒茶屋1-36-6）は同住所の古着店の情報はあるものの現在の営業状況およびInstagramアカウントを確認できなかった（検索でヒットした@maze.tokyoは無関係の可能性が高いと判断）ため、いずれも追加を見送った。既存掲載店舗34件の閉店は確認されず、表からの除外はなし。
+- 2026-09-30: 新規店舗1件を追加（Oku__vintage）。これまでポップアップ出店情報のみで見送っていたが、AVEND「三軒茶屋 古着屋27選【2026年最新版】」で住所（太子堂3-18-4 ドムスKSY 1F）と1F路面の実店舗として掲載されていることを確認し、Instagram（@oku__vintage、検索結果に「Oku__vintage 三軒茶屋 古着屋」としてリンク確認）も確認できたため追加。既存掲載のZIG（太子堂3-18-6）とは番地違いの別店舗。最寄り駅の徒歩分数は確認できなかったため駅名のみ記載。候補のKNOT vintage（太子堂4-5-2 広田ビル202、@knot_vintage_sancha）とROOT vintage（太子堂4-26-12、@root_vintage_）はAVENDの記事以外に実在・Instagramリンクを確認できず、今回も追加を見送り（KNOT vintageは既存のMiller Time・SwingWoodと同一番地）。既存掲載店舗の閉店情報は見つからず、表からの除外はなし。
